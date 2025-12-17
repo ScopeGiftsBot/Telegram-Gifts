@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Adult Tasks",
+    "rarity": 0.2
+  },
+  {
+    "name": "Balloon Face",
+    "rarity": 0.2
+  },
+  {
+    "name": "Burning Time",
+    "rarity": 0.2
+  },
+  {
+    "name": "Deadline",
+    "rarity": 0.2
+  },
+  {
+    "name": "Fawkes Night",
+    "rarity": 0.2
+  },
+  {
+    "name": "Independence",
+    "rarity": 0.2
+  },
+  {
+    "name": "Pepe Plans",
+    "rarity": 0.2
+  },
+  {
+    "name": "Celebration",
+    "rarity": 0.4
+  },
+  {
+    "name": "Checklist",
+    "rarity": 0.4
+  },
+  {
+    "name": "Durov Day",
+    "rarity": 0.4
+  },
+  {
+    "name": "Fund Manager",
+    "rarity": 0.4
+  },
+  {
+    "name": "Hodler",
+    "rarity": 0.4
+  },
+  {
+    "name": "Investor",
+    "rarity": 0.4
+  },
+  {
+    "name": "Luftballons",
+    "rarity": 0.4
+  },
+  {
+    "name": "Peach Week",
+    "rarity": 0.4
+  },
+  {
+    "name": "Sherlock",
+    "rarity": 0.4
+  },
+  {
+    "name": "Telegram",
+    "rarity": 0.4
+  },
+  {
+    "name": "Tic Tac Toe",
+    "rarity": 0.4
+  },
+  {
+    "name": "April",
+    "rarity": 0.6
+  },
+  {
+    "name": "August",
+    "rarity": 0.6
+  },
+  {
+    "name": "December",
+    "rarity": 0.6
+  },
+  {
+    "name": "February",
+    "rarity": 0.6
+  },
+  {
+    "name": "Festive Day",
+    "rarity": 0.6
+  },
+  {
+    "name": "Friday",
+    "rarity": 0.6
+  },
+  {
+    "name": "Heartbreak",
+    "rarity": 0.6
+  },
+  {
+    "name": "January",
+    "rarity": 0.6
+  },
+  {
+    "name": "July",
+    "rarity": 0.6
+  },
+  {
+    "name": "June",
+    "rarity": 0.6
+  },
+  {
+    "name": "Like Cycle",
+    "rarity": 0.6
+  },
+  {
+    "name": "March",
+    "rarity": 0.6
+  },
+  {
+    "name": "May",
+    "rarity": 0.6
+  },
+  {
+    "name": "Monday",
+    "rarity": 0.6
+  },
+  {
+    "name": "November",
+    "rarity": 0.6
+  },
+  {
+    "name": "October",
+    "rarity": 0.6
+  },
+  {
+    "name": "Saturday",
+    "rarity": 0.6
+  },
+  {
+    "name": "September",
+    "rarity": 0.6
+  },
+  {
+    "name": "Sunday",
+    "rarity": 0.6
+  },
+  {
+    "name": "Thursday",
+    "rarity": 0.6
+  },
+  {
+    "name": "Tuesday",
+    "rarity": 0.6
+  },
+  {
+    "name": "Wednesday",
+    "rarity": 0.6
+  },
+  {
+    "name": "Day Five",
+    "rarity": 0.8
+  },
+  {
+    "name": "Gato Ocho",
+    "rarity": 0.8
+  },
+  {
+    "name": "Kawaii",
+    "rarity": 0.8
+  },
+  {
+    "name": "Ninety Nine",
+    "rarity": 0.8
+  },
+  {
+    "name": "Rare Event",
+    "rarity": 0.8
+  },
+  {
+    "name": "Blank Page",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blueprint",
+    "rarity": 1.0
+  },
+  {
+    "name": "Crossed Out",
+    "rarity": 1.0
+  },
+  {
+    "name": "Fresh Start",
+    "rarity": 1.0
+  },
+  {
+    "name": "Golden Years",
+    "rarity": 1.0
+  },
+  {
+    "name": "Groundhog Day",
+    "rarity": 1.0
+  },
+  {
+    "name": "Monochrome",
+    "rarity": 1.0
+  },
+  {
+    "name": "Newsprint",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pink Hearts",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pink Planner",
+    "rarity": 1.0
+  },
+  {
+    "name": "Shocktober",
+    "rarity": 1.0
+  },
+  {
+    "name": "Barbie Day",
+    "rarity": 1.5
+  },
+  {
+    "name": "Basic Blue",
+    "rarity": 1.5
+  },
+  {
+    "name": "Beachy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Beet Diary",
+    "rarity": 1.5
+  },
+  {
+    "name": "Black Flip",
+    "rarity": 1.5
+  },
+  {
+    "name": "Black Suede",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blossoms",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blue Sky",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bright Coral",
+    "rarity": 1.5
+  },
+  {
+    "name": "Choco Top",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dark Binding",
+    "rarity": 1.5
+  },
+  {
+    "name": "Deep Ocean",
+    "rarity": 1.5
+  },
+  {
+    "name": "Eco Friendly",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fire Path",
+    "rarity": 1.5
+  },
+  {
+    "name": "Going Green",
+    "rarity": 1.5
+  },
+  {
+    "name": "Gold Leaf",
+    "rarity": 1.5
+  },
+  {
+    "name": "Gold Pink",
+    "rarity": 1.5
+  },
+  {
+    "name": "Golden Touch",
+    "rarity": 1.5
+  },
+  {
+    "name": "Green Day",
+    "rarity": 1.5
+  },
+  {
+    "name": "Harvest",
+    "rarity": 1.5
+  },
+  {
+    "name": "Highlighter",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lavendays",
+    "rarity": 1.5
+  },
+  {
+    "name": "Leather Top",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lemon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lilac Black",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lovely",
+    "rarity": 1.5
+  },
+  {
+    "name": "Magic Flow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Miami Beach",
+    "rarity": 1.5
+  },
+  {
+    "name": "Minting Date",
+    "rarity": 1.5
+  },
+  {
+    "name": "Orange Mood",
+    "rarity": 1.5
+  },
+  {
+    "name": "Party Time",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pink Day",
+    "rarity": 1.5
+  },
+  {
+    "name": "Plum Peach",
+    "rarity": 1.5
+  },
+  {
+    "name": "Purple Front",
+    "rarity": 1.5
+  },
+  {
+    "name": "Purple Mint",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Pen",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sticky Note",
+    "rarity": 1.5
+  },
+  {
+    "name": "Strong Circle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sunshine",
+    "rarity": 1.5
+  },
+  {
+    "name": "Surfer",
+    "rarity": 1.5
+  },
+  {
+    "name": "The Nineties",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tropical",
+    "rarity": 1.5
+  },
+  {
+    "name": "Very Visible",
+    "rarity": 1.5
+  },
+  {
+    "name": "Yellow Page",
+    "rarity": 1.5
+  }
+]

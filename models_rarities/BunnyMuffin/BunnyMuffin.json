@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Diamond",
+    "rarity": 0.3
+  },
+  {
+    "name": "Froggy",
+    "rarity": 0.3
+  },
+  {
+    "name": "Gold",
+    "rarity": 0.3
+  },
+  {
+    "name": "Lovely Ruby",
+    "rarity": 0.3
+  },
+  {
+    "name": "Choco Bear",
+    "rarity": 0.4
+  },
+  {
+    "name": "Electric",
+    "rarity": 0.4
+  },
+  {
+    "name": "Gothic",
+    "rarity": 0.4
+  },
+  {
+    "name": "Hackathon",
+    "rarity": 0.4
+  },
+  {
+    "name": "Honey Bee",
+    "rarity": 0.4
+  },
+  {
+    "name": "Lu Crystal",
+    "rarity": 0.4
+  },
+  {
+    "name": "Meltdown",
+    "rarity": 0.4
+  },
+  {
+    "name": "Mermaid",
+    "rarity": 0.4
+  },
+  {
+    "name": "Mr. Souffle",
+    "rarity": 0.4
+  },
+  {
+    "name": "Neon Sign",
+    "rarity": 0.4
+  },
+  {
+    "name": "Party Clown",
+    "rarity": 0.4
+  },
+  {
+    "name": "Party Time",
+    "rarity": 0.4
+  },
+  {
+    "name": "Shiba Inu",
+    "rarity": 0.4
+  },
+  {
+    "name": "Snowman",
+    "rarity": 0.4
+  },
+  {
+    "name": "Telegram",
+    "rarity": 0.4
+  },
+  {
+    "name": "Unicorn",
+    "rarity": 0.4
+  },
+  {
+    "name": "With Love",
+    "rarity": 0.4
+  },
+  {
+    "name": "Airy Souffle",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bronze",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cookie Bun",
+    "rarity": 0.5
+  },
+  {
+    "name": "Day and Night",
+    "rarity": 0.5
+  },
+  {
+    "name": "Frosted",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ice Cream",
+    "rarity": 0.5
+  },
+  {
+    "name": "Meow Meow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pink Bow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sugar Glade",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sweet Miracle",
+    "rarity": 0.5
+  },
+  {
+    "name": "Berry Tale",
+    "rarity": 0.8
+  },
+  {
+    "name": "Brave Tiger",
+    "rarity": 0.8
+  },
+  {
+    "name": "Citrus",
+    "rarity": 0.8
+  },
+  {
+    "name": "Cutie",
+    "rarity": 0.8
+  },
+  {
+    "name": "Grandma’s Pie",
+    "rarity": 0.8
+  },
+  {
+    "name": "Green Tea",
+    "rarity": 0.8
+  },
+  {
+    "name": "Little Sister",
+    "rarity": 0.8
+  },
+  {
+    "name": "Lollipop",
+    "rarity": 0.8
+  },
+  {
+    "name": "Silver",
+    "rarity": 0.8
+  },
+  {
+    "name": "Sour Apple",
+    "rarity": 0.8
+  },
+  {
+    "name": "Tiffani",
+    "rarity": 0.8
+  },
+  {
+    "name": "Velvet Rose",
+    "rarity": 0.8
+  },
+  {
+    "name": "Watermelon",
+    "rarity": 0.8
+  },
+  {
+    "name": "Young Chili",
+    "rarity": 0.8
+  },
+  {
+    "name": "Slime",
+    "rarity": 0.9
+  },
+  {
+    "name": "Valentine",
+    "rarity": 0.9
+  },
+  {
+    "name": "Berry Punch",
+    "rarity": 1.0
+  },
+  {
+    "name": "Butterfly Tie",
+    "rarity": 1.0
+  },
+  {
+    "name": "Сhamomile",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hulk",
+    "rarity": 1.2
+  },
+  {
+    "name": "Old Batman",
+    "rarity": 1.2
+  },
+  {
+    "name": "Spiderman",
+    "rarity": 1.2
+  },
+  {
+    "name": "Sunshine",
+    "rarity": 1.2
+  },
+  {
+    "name": "Wolverine",
+    "rarity": 1.2
+  },
+  {
+    "name": "Apple Fresh",
+    "rarity": 1.4
+  },
+  {
+    "name": "Berry Jam",
+    "rarity": 1.4
+  },
+  {
+    "name": "Blueberry",
+    "rarity": 1.4
+  },
+  {
+    "name": "Bubble Gum",
+    "rarity": 1.4
+  },
+  {
+    "name": "Chill-Out",
+    "rarity": 1.4
+  },
+  {
+    "name": "Chocolate",
+    "rarity": 1.4
+  },
+  {
+    "name": "Citrus Boom",
+    "rarity": 1.4
+  },
+  {
+    "name": "Clear Sky",
+    "rarity": 1.4
+  },
+  {
+    "name": "Cloud",
+    "rarity": 1.4
+  },
+  {
+    "name": "Cornflower",
+    "rarity": 1.4
+  },
+  {
+    "name": "Cotton Candy",
+    "rarity": 1.4
+  },
+  {
+    "name": "Dark Cherry",
+    "rarity": 1.4
+  },
+  {
+    "name": "Dragon Fruit",
+    "rarity": 1.4
+  },
+  {
+    "name": "Dreamer",
+    "rarity": 1.4
+  },
+  {
+    "name": "Droplet",
+    "rarity": 1.4
+  },
+  {
+    "name": "Eclair",
+    "rarity": 1.4
+  },
+  {
+    "name": "Gorgeous",
+    "rarity": 1.4
+  },
+  {
+    "name": "Grapefruit",
+    "rarity": 1.4
+  },
+  {
+    "name": "Iceberry",
+    "rarity": 1.4
+  },
+  {
+    "name": "Jellyfish",
+    "rarity": 1.4
+  },
+  {
+    "name": "Juicy Melon",
+    "rarity": 1.4
+  },
+  {
+    "name": "Key Lime",
+    "rarity": 1.4
+  },
+  {
+    "name": "Lava Cake",
+    "rarity": 1.4
+  },
+  {
+    "name": "Lavender Kiss",
+    "rarity": 1.4
+  },
+  {
+    "name": "Macaron",
+    "rarity": 1.4
+  },
+  {
+    "name": "Mandarin",
+    "rarity": 1.4
+  },
+  {
+    "name": "Matcha",
+    "rarity": 1.4
+  },
+  {
+    "name": "Orange Bliss",
+    "rarity": 1.4
+  },
+  {
+    "name": "Orchid",
+    "rarity": 1.4
+  },
+  {
+    "name": "Photonegative",
+    "rarity": 1.4
+  },
+  {
+    "name": "Red Alert",
+    "rarity": 1.4
+  },
+  {
+    "name": "Refreshing",
+    "rarity": 1.4
+  },
+  {
+    "name": "Sea Cruise",
+    "rarity": 1.4
+  },
+  {
+    "name": "Silent Film",
+    "rarity": 1.4
+  },
+  {
+    "name": "Softness",
+    "rarity": 1.4
+  },
+  {
+    "name": "Sour Drop",
+    "rarity": 1.4
+  },
+  {
+    "name": "Space Drive",
+    "rarity": 1.4
+  },
+  {
+    "name": "Sweet Grape",
+    "rarity": 1.4
+  },
+  {
+    "name": "Vanilla",
+    "rarity": 1.4
+  },
+  {
+    "name": "Winter Dessert",
+    "rarity": 1.4
+  },
+  {
+    "name": "Girlfriend",
+    "rarity": 1.5
+  },
+  {
+    "name": "Opera Ghost",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cappuccino",
+    "rarity": 2.0
+  },
+  {
+    "name": "Classic",
+    "rarity": 2.0
+  },
+  {
+    "name": "Latte",
+    "rarity": 2.0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Bitcoin",
+    "rarity": 0.5
+  },
+  {
+    "name": "Deep State",
+    "rarity": 0.5
+  },
+  {
+    "name": "Resistance",
+    "rarity": 0.5
+  },
+  {
+    "name": "Circus",
+    "rarity": 1.0
+  },
+  {
+    "name": "Fast Charge",
+    "rarity": 1.0
+  },
+  {
+    "name": "Honey Bee",
+    "rarity": 1.0
+  },
+  {
+    "name": "Ogre Snack",
+    "rarity": 1.0
+  },
+  {
+    "name": "Starfish",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sugar Daddy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Toncoin",
+    "rarity": 1.0
+  },
+  {
+    "name": "Trump Cake",
+    "rarity": 1.0
+  },
+  {
+    "name": "Christmas",
+    "rarity": 1.5
+  },
+  {
+    "name": "Demoman",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dracula",
+    "rarity": 1.5
+  },
+  {
+    "name": "Gummy Bears",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hellspawn",
+    "rarity": 1.5
+  },
+  {
+    "name": "Maneki Neko",
+    "rarity": 1.5
+  },
+  {
+    "name": "Poopy Pie",
+    "rarity": 1.5
+  },
+  {
+    "name": "Stardust",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sweetheart",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tarot Cards",
+    "rarity": 1.5
+  },
+  {
+    "name": "Trippy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Alien Slime",
+    "rarity": 2.0
+  },
+  {
+    "name": "Bag End",
+    "rarity": 2.0
+  },
+  {
+    "name": "Biohazard",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cream Scream",
+    "rarity": 2.0
+  },
+  {
+    "name": "Half-Life",
+    "rarity": 2.0
+  },
+  {
+    "name": "Arizona",
+    "rarity": 2.5
+  },
+  {
+    "name": "Bitter Sweet",
+    "rarity": 2.5
+  },
+  {
+    "name": "Hawaii",
+    "rarity": 2.5
+  },
+  {
+    "name": "Jolly Roger",
+    "rarity": 2.5
+  },
+  {
+    "name": "Minion",
+    "rarity": 2.5
+  },
+  {
+    "name": "Paradise",
+    "rarity": 2.5
+  },
+  {
+    "name": "Spiritwood",
+    "rarity": 2.5
+  },
+  {
+    "name": "Sponge Duck",
+    "rarity": 2.5
+  },
+  {
+    "name": "Unicorn",
+    "rarity": 2.5
+  },
+  {
+    "name": "Wasteland",
+    "rarity": 2.5
+  },
+  {
+    "name": "Blueberry Hill",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cherry Top",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cloud Nine",
+    "rarity": 3.0
+  },
+  {
+    "name": "Fantastic Four",
+    "rarity": 3.0
+  },
+  {
+    "name": "First Bite",
+    "rarity": 3.0
+  },
+  {
+    "name": "Heaven Seven",
+    "rarity": 3.0
+  },
+  {
+    "name": "High Five",
+    "rarity": 3.0
+  },
+  {
+    "name": "March Eight",
+    "rarity": 3.0
+  },
+  {
+    "name": "Rising Dead",
+    "rarity": 3.0
+  },
+  {
+    "name": "Six Senses",
+    "rarity": 3.0
+  },
+  {
+    "name": "Triple Treat",
+    "rarity": 3.0
+  },
+  {
+    "name": "Two Sweet!",
+    "rarity": 3.0
+  },
+  {
+    "name": "Zero Sugar",
+    "rarity": 3.0
+  }
+]

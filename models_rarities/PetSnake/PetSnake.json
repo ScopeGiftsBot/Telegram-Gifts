@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Portal",
+    "rarity": 0.1
+  },
+  {
+    "name": "Banana",
+    "rarity": 0.2
+  },
+  {
+    "name": "Spooky",
+    "rarity": 0.2
+  },
+  {
+    "name": "Sherlock",
+    "rarity": 0.3
+  },
+  {
+    "name": "Sunflower",
+    "rarity": 0.3
+  },
+  {
+    "name": "Dragon",
+    "rarity": 0.4
+  },
+  {
+    "name": "Autumn",
+    "rarity": 0.5
+  },
+  {
+    "name": "Confused",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dobby",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dracula",
+    "rarity": 0.5
+  },
+  {
+    "name": "Flushed Away",
+    "rarity": 0.5
+  },
+  {
+    "name": "Goofy Twins",
+    "rarity": 0.5
+  },
+  {
+    "name": "Party Popper",
+    "rarity": 0.5
+  },
+  {
+    "name": "Rainy Day",
+    "rarity": 0.5
+  },
+  {
+    "name": "Soap Bubble",
+    "rarity": 0.5
+  },
+  {
+    "name": "Spicy Wings",
+    "rarity": 0.5
+  },
+  {
+    "name": "The Deceiver",
+    "rarity": 0.5
+  },
+  {
+    "name": "Yaaaaaay!",
+    "rarity": 0.5
+  },
+  {
+    "name": "Zombie",
+    "rarity": 0.5
+  },
+  {
+    "name": "Beer Mamba",
+    "rarity": 0.7
+  },
+  {
+    "name": "Champagne",
+    "rarity": 0.7
+  },
+  {
+    "name": "Coffee!",
+    "rarity": 0.7
+  },
+  {
+    "name": "Fast Food",
+    "rarity": 0.7
+  },
+  {
+    "name": "Hisssmas",
+    "rarity": 0.7
+  },
+  {
+    "name": "Nimbus",
+    "rarity": 0.7
+  },
+  {
+    "name": "Snakey Mouse",
+    "rarity": 0.7
+  },
+  {
+    "name": "Sweet Dreams",
+    "rarity": 0.7
+  },
+  {
+    "name": "Deadline",
+    "rarity": 1.0
+  },
+  {
+    "name": "Domination",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hooded",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mistletoe",
+    "rarity": 1.0
+  },
+  {
+    "name": "Water Snake",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cherry Bomb",
+    "rarity": 1.5
+  },
+  {
+    "name": "Crayon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Durov’s Cap",
+    "rarity": 1.5
+  },
+  {
+    "name": "Neko-San",
+    "rarity": 1.5
+  },
+  {
+    "name": "Poopsicle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pure Gold",
+    "rarity": 1.5
+  },
+  {
+    "name": "Libertarian",
+    "rarity": 1.9
+  },
+  {
+    "name": "Black Mamba",
+    "rarity": 2.0
+  },
+  {
+    "name": "Dalmatian",
+    "rarity": 2.0
+  },
+  {
+    "name": "Froggy",
+    "rarity": 2.0
+  },
+  {
+    "name": "Jungle",
+    "rarity": 2.0
+  },
+  {
+    "name": "King Cobra",
+    "rarity": 2.0
+  },
+  {
+    "name": "Luminous",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pink Bunny",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pink Leo",
+    "rarity": 2.0
+  },
+  {
+    "name": "Rainbow",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sketchy",
+    "rarity": 2.0
+  },
+  {
+    "name": "Wiggly",
+    "rarity": 3.0
+  },
+  {
+    "name": "Albino",
+    "rarity": 4.0
+  },
+  {
+    "name": "Santa’s Helper",
+    "rarity": 4.5
+  },
+  {
+    "name": "Tempest",
+    "rarity": 4.5
+  },
+  {
+    "name": "Venomous",
+    "rarity": 4.5
+  },
+  {
+    "name": "Cold-Blooded",
+    "rarity": 5.0
+  },
+  {
+    "name": "Lava Viper",
+    "rarity": 5.0
+  },
+  {
+    "name": "Lollipop",
+    "rarity": 5.0
+  },
+  {
+    "name": "Mojito",
+    "rarity": 5.0
+  },
+  {
+    "name": "Rainforest",
+    "rarity": 5.0
+  },
+  {
+    "name": "Sour Bites",
+    "rarity": 5.0
+  }
+]

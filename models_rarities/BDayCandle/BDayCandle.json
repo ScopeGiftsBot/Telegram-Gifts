@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Final Boss",
+    "rarity": 0.2
+  },
+  {
+    "name": "Kaboom!",
+    "rarity": 0.2
+  },
+  {
+    "name": "On Fire",
+    "rarity": 0.2
+  },
+  {
+    "name": "Pixel Wish",
+    "rarity": 0.2
+  },
+  {
+    "name": "Shocker",
+    "rarity": 0.2
+  },
+  {
+    "name": "Bubbly",
+    "rarity": 0.4
+  },
+  {
+    "name": "Cherrific",
+    "rarity": 0.4
+  },
+  {
+    "name": "Crunchy",
+    "rarity": 0.4
+  },
+  {
+    "name": "Duck Attack",
+    "rarity": 0.4
+  },
+  {
+    "name": "Eggcellent",
+    "rarity": 0.4
+  },
+  {
+    "name": "Melted Butter",
+    "rarity": 0.4
+  },
+  {
+    "name": "Payday",
+    "rarity": 0.4
+  },
+  {
+    "name": "Small Gifts",
+    "rarity": 0.4
+  },
+  {
+    "name": "Winter Fun",
+    "rarity": 0.4
+  },
+  {
+    "name": "Happy Meows",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mouse Brunch",
+    "rarity": 0.5
+  },
+  {
+    "name": "Purr Magic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Backyard",
+    "rarity": 0.6
+  },
+  {
+    "name": "Broadway",
+    "rarity": 0.6
+  },
+  {
+    "name": "Crazy Frog",
+    "rarity": 0.6
+  },
+  {
+    "name": "Firecracker",
+    "rarity": 0.6
+  },
+  {
+    "name": "Glitch",
+    "rarity": 0.6
+  },
+  {
+    "name": "Neon Lights",
+    "rarity": 0.6
+  },
+  {
+    "name": "Neon Sign",
+    "rarity": 0.6
+  },
+  {
+    "name": "Party Hard",
+    "rarity": 0.6
+  },
+  {
+    "name": "Red Ribbon",
+    "rarity": 0.6
+  },
+  {
+    "name": "Stay Cool",
+    "rarity": 0.6
+  },
+  {
+    "name": "Valentine",
+    "rarity": 0.6
+  },
+  {
+    "name": "You Rock!",
+    "rarity": 0.6
+  },
+  {
+    "name": "Anniversary",
+    "rarity": 0.8
+  },
+  {
+    "name": "Donut Cream",
+    "rarity": 0.8
+  },
+  {
+    "name": "Festive Day",
+    "rarity": 0.8
+  },
+  {
+    "name": "Forecast",
+    "rarity": 0.8
+  },
+  {
+    "name": "Jelly Bubble",
+    "rarity": 0.8
+  },
+  {
+    "name": "Jelly Desert",
+    "rarity": 0.8
+  },
+  {
+    "name": "Sparkler",
+    "rarity": 0.8
+  },
+  {
+    "name": "Superstar",
+    "rarity": 0.8
+  },
+  {
+    "name": "Wait a Minute",
+    "rarity": 0.8
+  },
+  {
+    "name": "Black Ink",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bronze Age",
+    "rarity": 1.0
+  },
+  {
+    "name": "Choco Wax",
+    "rarity": 1.0
+  },
+  {
+    "name": "Golden Age",
+    "rarity": 1.0
+  },
+  {
+    "name": "Old Cartoon",
+    "rarity": 1.0
+  },
+  {
+    "name": "Poltergeist",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pop Art",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pop Tart",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rainbow",
+    "rarity": 1.0
+  },
+  {
+    "name": "Shine On",
+    "rarity": 1.0
+  },
+  {
+    "name": "Silver Year",
+    "rarity": 1.0
+  },
+  {
+    "name": "Steel Strong",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blue Caramel",
+    "rarity": 1.2
+  },
+  {
+    "name": "Citrus Candy",
+    "rarity": 1.2
+  },
+  {
+    "name": "Dream Big",
+    "rarity": 1.2
+  },
+  {
+    "name": "Fresh Mint",
+    "rarity": 1.2
+  },
+  {
+    "name": "Glittery Day",
+    "rarity": 1.2
+  },
+  {
+    "name": "Happy Flame",
+    "rarity": 1.2
+  },
+  {
+    "name": "Icy Pink",
+    "rarity": 1.2
+  },
+  {
+    "name": "Jage Crystal",
+    "rarity": 1.2
+  },
+  {
+    "name": "Juicy Ginger",
+    "rarity": 1.2
+  },
+  {
+    "name": "Lolipop",
+    "rarity": 1.2
+  },
+  {
+    "name": "Magic Powers",
+    "rarity": 1.2
+  },
+  {
+    "name": "Midnight",
+    "rarity": 1.2
+  },
+  {
+    "name": "Multicolor",
+    "rarity": 1.2
+  },
+  {
+    "name": "Orange Mood",
+    "rarity": 1.2
+  },
+  {
+    "name": "Pastel Spark",
+    "rarity": 1.2
+  },
+  {
+    "name": "Peachy",
+    "rarity": 1.2
+  },
+  {
+    "name": "Pear Cocktail",
+    "rarity": 1.2
+  },
+  {
+    "name": "Pinky Dream",
+    "rarity": 1.2
+  },
+  {
+    "name": "Princess",
+    "rarity": 1.2
+  },
+  {
+    "name": "Rose Mint",
+    "rarity": 1.2
+  },
+  {
+    "name": "Starry Night",
+    "rarity": 1.2
+  },
+  {
+    "name": "Tender Flame",
+    "rarity": 1.2
+  },
+  {
+    "name": "Tropicana",
+    "rarity": 1.2
+  },
+  {
+    "name": "Warm Wick",
+    "rarity": 1.2
+  },
+  {
+    "name": "Wicked",
+    "rarity": 1.2
+  },
+  {
+    "name": "Be Awesome!",
+    "rarity": 1.5
+  },
+  {
+    "name": "Best Wishes",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bright Side",
+    "rarity": 1.5
+  },
+  {
+    "name": "Candy Message",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cheers",
+    "rarity": 1.5
+  },
+  {
+    "name": "Confetti",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cotton Candy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Eternal Glow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Festive",
+    "rarity": 1.5
+  },
+  {
+    "name": "Forever Young",
+    "rarity": 1.5
+  },
+  {
+    "name": "Golden Hour",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ice Crackle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Icicle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Moon Wish",
+    "rarity": 1.5
+  },
+  {
+    "name": "Shine Bright",
+    "rarity": 1.5
+  },
+  {
+    "name": "Spring Meadow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Stardust",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sugar Party",
+    "rarity": 1.5
+  },
+  {
+    "name": "Summer Walk",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sweet Glaze",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tropic Dream",
+    "rarity": 1.5
+  },
+  {
+    "name": "Twilight Beam",
+    "rarity": 1.5
+  },
+  {
+    "name": "Wax Glow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Wee Hours",
+    "rarity": 1.5
+  },
+  {
+    "name": "Winter Noon",
+    "rarity": 1.5
+  }
+]

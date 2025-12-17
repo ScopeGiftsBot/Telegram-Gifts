@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Shamrock",
+    "rarity": 0.1
+  },
+  {
+    "name": "Snowflake",
+    "rarity": 0.1
+  },
+  {
+    "name": "Sparkles",
+    "rarity": 0.1
+  },
+  {
+    "name": "Bombastic",
+    "rarity": 0.2
+  },
+  {
+    "name": "Lucifer",
+    "rarity": 0.2
+  },
+  {
+    "name": "Insane",
+    "rarity": 0.3
+  },
+  {
+    "name": "Short Circuit",
+    "rarity": 0.3
+  },
+  {
+    "name": "Skeleton",
+    "rarity": 0.3
+  },
+  {
+    "name": "This Is Fine",
+    "rarity": 0.3
+  },
+  {
+    "name": "You Tried...",
+    "rarity": 0.3
+  },
+  {
+    "name": "Aurora",
+    "rarity": 0.4
+  },
+  {
+    "name": "Champion",
+    "rarity": 0.4
+  },
+  {
+    "name": "Chromie",
+    "rarity": 0.4
+  },
+  {
+    "name": "Gold Star",
+    "rarity": 0.4
+  },
+  {
+    "name": "Honolulu",
+    "rarity": 0.4
+  },
+  {
+    "name": "Iridium",
+    "rarity": 0.4
+  },
+  {
+    "name": "Spotlight",
+    "rarity": 0.4
+  },
+  {
+    "name": "Advice Dog",
+    "rarity": 0.6
+  },
+  {
+    "name": "Commando",
+    "rarity": 0.6
+  },
+  {
+    "name": "Comrade",
+    "rarity": 0.6
+  },
+  {
+    "name": "Europe",
+    "rarity": 0.6
+  },
+  {
+    "name": "Flame Boy",
+    "rarity": 0.6
+  },
+  {
+    "name": "Magma",
+    "rarity": 0.6
+  },
+  {
+    "name": "Patrick",
+    "rarity": 0.6
+  },
+  {
+    "name": "Sheriff",
+    "rarity": 0.6
+  },
+  {
+    "name": "United States",
+    "rarity": 0.6
+  },
+  {
+    "name": "Zero Gravity",
+    "rarity": 0.6
+  },
+  {
+    "name": "Astro Bot",
+    "rarity": 0.8
+  },
+  {
+    "name": "Black Hole",
+    "rarity": 0.8
+  },
+  {
+    "name": "Catalan",
+    "rarity": 0.8
+  },
+  {
+    "name": "Christmas",
+    "rarity": 0.8
+  },
+  {
+    "name": "Circus",
+    "rarity": 0.8
+  },
+  {
+    "name": "Explicit",
+    "rarity": 0.8
+  },
+  {
+    "name": "Forza Juve",
+    "rarity": 0.8
+  },
+  {
+    "name": "Gingerbread",
+    "rarity": 0.8
+  },
+  {
+    "name": "Minion",
+    "rarity": 0.8
+  },
+  {
+    "name": "Petit Louis",
+    "rarity": 0.8
+  },
+  {
+    "name": "Rainbow",
+    "rarity": 0.8
+  },
+  {
+    "name": "Rock Star",
+    "rarity": 0.8
+  },
+  {
+    "name": "Super Star",
+    "rarity": 0.8
+  },
+  {
+    "name": "Venice",
+    "rarity": 0.8
+  },
+  {
+    "name": "Beach Ball",
+    "rarity": 1.1
+  },
+  {
+    "name": "Connecting",
+    "rarity": 1.1
+  },
+  {
+    "name": "Cucumber",
+    "rarity": 1.1
+  },
+  {
+    "name": "Gray Sage",
+    "rarity": 1.1
+  },
+  {
+    "name": "Hollywood",
+    "rarity": 1.1
+  },
+  {
+    "name": "Like Button",
+    "rarity": 1.1
+  },
+  {
+    "name": "Lilac Split",
+    "rarity": 1.1
+  },
+  {
+    "name": "Play Button",
+    "rarity": 1.1
+  },
+  {
+    "name": "Playlist",
+    "rarity": 1.1
+  },
+  {
+    "name": "Premium",
+    "rarity": 1.1
+  },
+  {
+    "name": "Pretty Angel",
+    "rarity": 1.1
+  },
+  {
+    "name": "Seeing Stars",
+    "rarity": 1.1
+  },
+  {
+    "name": "Snowman",
+    "rarity": 1.1
+  },
+  {
+    "name": "Sour Cherry",
+    "rarity": 1.1
+  },
+  {
+    "name": "Surf Sand",
+    "rarity": 1.1
+  },
+  {
+    "name": "Sweden",
+    "rarity": 1.1
+  },
+  {
+    "name": "Switch",
+    "rarity": 1.1
+  },
+  {
+    "name": "Tarnished",
+    "rarity": 1.1
+  },
+  {
+    "name": "Telegram",
+    "rarity": 1.1
+  },
+  {
+    "name": "Azure Lagoon",
+    "rarity": 1.4
+  },
+  {
+    "name": "Bright Geode",
+    "rarity": 1.4
+  },
+  {
+    "name": "Color Point",
+    "rarity": 1.4
+  },
+  {
+    "name": "Cosmic Blue",
+    "rarity": 1.4
+  },
+  {
+    "name": "Crystalline",
+    "rarity": 1.4
+  },
+  {
+    "name": "Eclipse",
+    "rarity": 1.4
+  },
+  {
+    "name": "Flicker",
+    "rarity": 1.4
+  },
+  {
+    "name": "Fusion",
+    "rarity": 1.4
+  },
+  {
+    "name": "Greench",
+    "rarity": 1.4
+  },
+  {
+    "name": "Harlequin",
+    "rarity": 1.4
+  },
+  {
+    "name": "Hot Spring",
+    "rarity": 1.4
+  },
+  {
+    "name": "Pajamas",
+    "rarity": 1.4
+  },
+  {
+    "name": "Peacock",
+    "rarity": 1.4
+  },
+  {
+    "name": "Pink Wink",
+    "rarity": 1.4
+  },
+  {
+    "name": "Pinkman",
+    "rarity": 1.4
+  },
+  {
+    "name": "Poached Egg",
+    "rarity": 1.4
+  },
+  {
+    "name": "Polka Dot",
+    "rarity": 1.4
+  },
+  {
+    "name": "Purple Pants",
+    "rarity": 1.4
+  },
+  {
+    "name": "Purple Suit",
+    "rarity": 1.4
+  },
+  {
+    "name": "Rainbows",
+    "rarity": 1.4
+  },
+  {
+    "name": "Red Costume",
+    "rarity": 1.4
+  },
+  {
+    "name": "Red Dwarf",
+    "rarity": 1.4
+  },
+  {
+    "name": "Samurai",
+    "rarity": 1.4
+  },
+  {
+    "name": "Scarlet Joy",
+    "rarity": 1.4
+  },
+  {
+    "name": "Sea Glass",
+    "rarity": 1.4
+  },
+  {
+    "name": "Solar Flair",
+    "rarity": 1.4
+  },
+  {
+    "name": "Spotty",
+    "rarity": 1.4
+  },
+  {
+    "name": "Starline",
+    "rarity": 1.4
+  },
+  {
+    "name": "Thread",
+    "rarity": 1.4
+  },
+  {
+    "name": "Ultraviolet",
+    "rarity": 1.4
+  },
+  {
+    "name": "Verified",
+    "rarity": 1.4
+  },
+  {
+    "name": "Bubble Gum",
+    "rarity": 1.5
+  },
+  {
+    "name": "Eggshell",
+    "rarity": 1.5
+  },
+  {
+    "name": "Glacier",
+    "rarity": 1.5
+  },
+  {
+    "name": "Honeydew",
+    "rarity": 1.5
+  },
+  {
+    "name": "Limonello",
+    "rarity": 1.5
+  },
+  {
+    "name": "Milkshake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Passionfruit",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tropicana",
+    "rarity": 1.5
+  },
+  {
+    "name": "Сarambola",
+    "rarity": 1.5
+  }
+]

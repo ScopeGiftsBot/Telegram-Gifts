@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Alien Script",
+    "rarity": 0.3
+  },
+  {
+    "name": "Clown",
+    "rarity": 0.3
+  },
+  {
+    "name": "Mon Amour",
+    "rarity": 0.3
+  },
+  {
+    "name": "Peachless",
+    "rarity": 0.3
+  },
+  {
+    "name": "Pepe Diary",
+    "rarity": 0.3
+  },
+  {
+    "name": "Toilet Paper",
+    "rarity": 0.3
+  },
+  {
+    "name": "Cursed Tome",
+    "rarity": 0.5
+  },
+  {
+    "name": "Enigma",
+    "rarity": 0.5
+  },
+  {
+    "name": "Grimoire",
+    "rarity": 0.5
+  },
+  {
+    "name": "Inferno",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ink Splatter",
+    "rarity": 0.5
+  },
+  {
+    "name": "Spellbook",
+    "rarity": 0.5
+  },
+  {
+    "name": "Brainstorm",
+    "rarity": 0.7
+  },
+  {
+    "name": "Color Switch",
+    "rarity": 0.7
+  },
+  {
+    "name": "Error Log",
+    "rarity": 0.7
+  },
+  {
+    "name": "Florist",
+    "rarity": 0.7
+  },
+  {
+    "name": "Girlboss",
+    "rarity": 0.7
+  },
+  {
+    "name": "Golden Star",
+    "rarity": 0.7
+  },
+  {
+    "name": "Hippie",
+    "rarity": 0.7
+  },
+  {
+    "name": "Hologram",
+    "rarity": 0.7
+  },
+  {
+    "name": "Le Club",
+    "rarity": 0.7
+  },
+  {
+    "name": "Leopard",
+    "rarity": 0.7
+  },
+  {
+    "name": "Love Affair",
+    "rarity": 0.7
+  },
+  {
+    "name": "Mermaid",
+    "rarity": 0.7
+  },
+  {
+    "name": "Metallic",
+    "rarity": 0.7
+  },
+  {
+    "name": "Neon Grid",
+    "rarity": 0.7
+  },
+  {
+    "name": "North Pole",
+    "rarity": 0.7
+  },
+  {
+    "name": "Pearlescent",
+    "rarity": 0.7
+  },
+  {
+    "name": "Phoenix",
+    "rarity": 0.7
+  },
+  {
+    "name": "Princess",
+    "rarity": 0.7
+  },
+  {
+    "name": "Smoothie",
+    "rarity": 0.7
+  },
+  {
+    "name": "Springfield",
+    "rarity": 0.7
+  },
+  {
+    "name": "Swatch",
+    "rarity": 0.7
+  },
+  {
+    "name": "Telegram",
+    "rarity": 0.7
+  },
+  {
+    "name": "Tiger",
+    "rarity": 0.7
+  },
+  {
+    "name": "Trade Ledger",
+    "rarity": 0.7
+  },
+  {
+    "name": "True Love",
+    "rarity": 0.7
+  },
+  {
+    "name": "Twin Stars",
+    "rarity": 0.7
+  },
+  {
+    "name": "Anemone",
+    "rarity": 1.0
+  },
+  {
+    "name": "Chronicles",
+    "rarity": 1.0
+  },
+  {
+    "name": "Executive",
+    "rarity": 1.0
+  },
+  {
+    "name": "King Arthur",
+    "rarity": 1.0
+  },
+  {
+    "name": "Lord Byron",
+    "rarity": 1.0
+  },
+  {
+    "name": "Novelist",
+    "rarity": 1.0
+  },
+  {
+    "name": "Paper Plane",
+    "rarity": 1.0
+  },
+  {
+    "name": "Paw Pads",
+    "rarity": 1.0
+  },
+  {
+    "name": "Positive",
+    "rarity": 1.0
+  },
+  {
+    "name": "Snow Globe",
+    "rarity": 1.0
+  },
+  {
+    "name": "Starry Night",
+    "rarity": 1.0
+  },
+  {
+    "name": "Superstar",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blue Jeans",
+    "rarity": 1.3
+  },
+  {
+    "name": "Candy Pink",
+    "rarity": 1.3
+  },
+  {
+    "name": "Central Park",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cheerleader",
+    "rarity": 1.3
+  },
+  {
+    "name": "Coyote",
+    "rarity": 1.3
+  },
+  {
+    "name": "Crimson",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cyprus",
+    "rarity": 1.3
+  },
+  {
+    "name": "Côte d’Azur",
+    "rarity": 1.3
+  },
+  {
+    "name": "Daily Blues",
+    "rarity": 1.3
+  },
+  {
+    "name": "Daybook",
+    "rarity": 1.3
+  },
+  {
+    "name": "Death Note",
+    "rarity": 1.3
+  },
+  {
+    "name": "Faculty",
+    "rarity": 1.3
+  },
+  {
+    "name": "Fashion Doll",
+    "rarity": 1.3
+  },
+  {
+    "name": "Hazelnut",
+    "rarity": 1.3
+  },
+  {
+    "name": "Hipster",
+    "rarity": 1.3
+  },
+  {
+    "name": "Hot Pink",
+    "rarity": 1.3
+  },
+  {
+    "name": "Indigo",
+    "rarity": 1.3
+  },
+  {
+    "name": "Joker’s Notes",
+    "rarity": 1.3
+  },
+  {
+    "name": "Leather",
+    "rarity": 1.3
+  },
+  {
+    "name": "Lemonade",
+    "rarity": 1.3
+  },
+  {
+    "name": "Marakuja",
+    "rarity": 1.3
+  },
+  {
+    "name": "Marmalade",
+    "rarity": 1.3
+  },
+  {
+    "name": "Matcha",
+    "rarity": 1.3
+  },
+  {
+    "name": "Matte Black",
+    "rarity": 1.3
+  },
+  {
+    "name": "Meadow",
+    "rarity": 1.3
+  },
+  {
+    "name": "Monarch",
+    "rarity": 1.3
+  },
+  {
+    "name": "Mustard",
+    "rarity": 1.3
+  },
+  {
+    "name": "Negative",
+    "rarity": 1.3
+  },
+  {
+    "name": "Newmarket",
+    "rarity": 1.3
+  },
+  {
+    "name": "Nightpad",
+    "rarity": 1.3
+  },
+  {
+    "name": "Oak Tree",
+    "rarity": 1.3
+  },
+  {
+    "name": "Ocean Wave",
+    "rarity": 1.3
+  },
+  {
+    "name": "Rainbow",
+    "rarity": 1.3
+  },
+  {
+    "name": "Ranger",
+    "rarity": 1.3
+  },
+  {
+    "name": "Red Cover",
+    "rarity": 1.3
+  },
+  {
+    "name": "Savoy Blue",
+    "rarity": 1.3
+  },
+  {
+    "name": "Skies Above",
+    "rarity": 1.3
+  },
+  {
+    "name": "Snow White",
+    "rarity": 1.3
+  },
+  {
+    "name": "Sterling",
+    "rarity": 1.3
+  },
+  {
+    "name": "Sunflower",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tangerine",
+    "rarity": 1.3
+  },
+  {
+    "name": "The Cutie",
+    "rarity": 1.3
+  },
+  {
+    "name": "Timber",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tobacco",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tropical",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tutti Frutti",
+    "rarity": 1.3
+  },
+  {
+    "name": "Vice City",
+    "rarity": 1.3
+  },
+  {
+    "name": "Vineyard",
+    "rarity": 1.3
+  },
+  {
+    "name": "Walnut",
+    "rarity": 1.3
+  },
+  {
+    "name": "Watermelon",
+    "rarity": 1.3
+  }
+]

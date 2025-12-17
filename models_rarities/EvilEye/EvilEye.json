@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Blue Flame",
+    "rarity": 0.5
+  },
+  {
+    "name": "Event Horizon",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ice Sight",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jarvis",
+    "rarity": 0.5
+  },
+  {
+    "name": "Morphing",
+    "rarity": 0.5
+  },
+  {
+    "name": "Output Error",
+    "rarity": 0.5
+  },
+  {
+    "name": "Seeing Stars",
+    "rarity": 0.5
+  },
+  {
+    "name": "Tesla Coil",
+    "rarity": 0.5
+  },
+  {
+    "name": "First Sight",
+    "rarity": 1.0
+  },
+  {
+    "name": "Golden Gleam",
+    "rarity": 1.0
+  },
+  {
+    "name": "Transparency",
+    "rarity": 1.0
+  },
+  {
+    "name": "Apex Predator",
+    "rarity": 1.5
+  },
+  {
+    "name": "Canceled",
+    "rarity": 1.5
+  },
+  {
+    "name": "Concentric Circles",
+    "rarity": 1.5
+  },
+  {
+    "name": "Eye Bone",
+    "rarity": 1.5
+  },
+  {
+    "name": "HAL 9000",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hypnosis",
+    "rarity": 1.5
+  },
+  {
+    "name": "Inverted",
+    "rarity": 1.5
+  },
+  {
+    "name": "Monochrome",
+    "rarity": 1.5
+  },
+  {
+    "name": "Poison Plus",
+    "rarity": 1.5
+  },
+  {
+    "name": "Press Play",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Ring",
+    "rarity": 1.5
+  },
+  {
+    "name": "Silver Glass",
+    "rarity": 1.5
+  },
+  {
+    "name": "Starlight",
+    "rarity": 1.5
+  },
+  {
+    "name": "True North",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blue Period",
+    "rarity": 2.5
+  },
+  {
+    "name": "Deep Purple",
+    "rarity": 2.5
+  },
+  {
+    "name": "Direct Current",
+    "rarity": 2.5
+  },
+  {
+    "name": "Monster Mash",
+    "rarity": 2.5
+  },
+  {
+    "name": "Outbreak",
+    "rarity": 2.5
+  },
+  {
+    "name": "Visible Spectrum",
+    "rarity": 2.5
+  },
+  {
+    "name": "8 Ball",
+    "rarity": 3.0
+  },
+  {
+    "name": "Baltic Amber",
+    "rarity": 3.0
+  },
+  {
+    "name": "Blink",
+    "rarity": 3.0
+  },
+  {
+    "name": "Bloodshot",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cirrus",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cybernetic",
+    "rarity": 3.0
+  },
+  {
+    "name": "Dark Secret",
+    "rarity": 3.0
+  },
+  {
+    "name": "Do Not Disturb",
+    "rarity": 3.0
+  },
+  {
+    "name": "Dragonborn",
+    "rarity": 3.0
+  },
+  {
+    "name": "Grayscale",
+    "rarity": 3.0
+  },
+  {
+    "name": "Green Lantern",
+    "rarity": 3.0
+  },
+  {
+    "name": "Grinch Gaze",
+    "rarity": 3.0
+  },
+  {
+    "name": "Pale Palette",
+    "rarity": 3.0
+  },
+  {
+    "name": "Periwinkle",
+    "rarity": 3.0
+  },
+  {
+    "name": "Pink Eye",
+    "rarity": 3.0
+  },
+  {
+    "name": "Radioactive",
+    "rarity": 3.0
+  },
+  {
+    "name": "Solar Flare",
+    "rarity": 3.0
+  },
+  {
+    "name": "Submarine",
+    "rarity": 3.0
+  },
+  {
+    "name": "Succubus",
+    "rarity": 3.0
+  }
+]

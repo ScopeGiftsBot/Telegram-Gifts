@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Monarch",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Lipstick",
+    "rarity": 0.5
+  },
+  {
+    "name": "Star Fighter",
+    "rarity": 0.5
+  },
+  {
+    "name": "Adult Toy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Diamond",
+    "rarity": 1.0
+  },
+  {
+    "name": "Leopard",
+    "rarity": 1.0
+  },
+  {
+    "name": "Night Bat",
+    "rarity": 1.0
+  },
+  {
+    "name": "Peach Flower",
+    "rarity": 1.0
+  },
+  {
+    "name": "Silver Spoon",
+    "rarity": 1.0
+  },
+  {
+    "name": "Tribal Skull",
+    "rarity": 1.0
+  },
+  {
+    "name": "Water Lily",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cupid Ruby",
+    "rarity": 1.5
+  },
+  {
+    "name": "Grizzly Bear",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ice Queen",
+    "rarity": 1.5
+  },
+  {
+    "name": "Poison Apple",
+    "rarity": 1.5
+  },
+  {
+    "name": "Victorian",
+    "rarity": 1.5
+  },
+  {
+    "name": "Baby Lou",
+    "rarity": 2.0
+  },
+  {
+    "name": "Biscuit",
+    "rarity": 2.0
+  },
+  {
+    "name": "Black Metal",
+    "rarity": 2.0
+  },
+  {
+    "name": "Christmas",
+    "rarity": 2.0
+  },
+  {
+    "name": "Clown",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cthulhu",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cubic",
+    "rarity": 2.0
+  },
+  {
+    "name": "Danger Bot",
+    "rarity": 2.0
+  },
+  {
+    "name": "Event Horizon",
+    "rarity": 2.0
+  },
+  {
+    "name": "First Ax",
+    "rarity": 2.0
+  },
+  {
+    "name": "Light Bulb",
+    "rarity": 2.0
+  },
+  {
+    "name": "Metal Chain",
+    "rarity": 2.0
+  },
+  {
+    "name": "Soccer",
+    "rarity": 2.0
+  },
+  {
+    "name": "The Ankh",
+    "rarity": 2.0
+  },
+  {
+    "name": "Void Watcher",
+    "rarity": 2.0
+  },
+  {
+    "name": "Abyss Binky",
+    "rarity": 2.5
+  },
+  {
+    "name": "Brass Knuckles",
+    "rarity": 2.5
+  },
+  {
+    "name": "Crystal Sky",
+    "rarity": 2.5
+  },
+  {
+    "name": "Crystal Wings",
+    "rarity": 2.5
+  },
+  {
+    "name": "Rancho",
+    "rarity": 2.5
+  },
+  {
+    "name": "Red Bull",
+    "rarity": 2.5
+  },
+  {
+    "name": "Shiny Armor",
+    "rarity": 2.5
+  },
+  {
+    "name": "Toxic Slime",
+    "rarity": 2.5
+  },
+  {
+    "name": "Bloodsucker",
+    "rarity": 3.0
+  },
+  {
+    "name": "Bullet",
+    "rarity": 3.0
+  },
+  {
+    "name": "Gem Seeker",
+    "rarity": 3.0
+  },
+  {
+    "name": "Ice Pop",
+    "rarity": 3.0
+  },
+  {
+    "name": "Illuminati",
+    "rarity": 3.0
+  },
+  {
+    "name": "Irish Kiss",
+    "rarity": 3.0
+  },
+  {
+    "name": "Marmalade",
+    "rarity": 3.0
+  },
+  {
+    "name": "Regent",
+    "rarity": 3.0
+  },
+  {
+    "name": "Royal Heir",
+    "rarity": 3.0
+  },
+  {
+    "name": "Shellfish",
+    "rarity": 3.0
+  },
+  {
+    "name": "Violetta",
+    "rarity": 3.0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Jade Vines",
+    "rarity": 0.5
+  },
+  {
+    "name": "Obsidian",
+    "rarity": 0.5
+  },
+  {
+    "name": "Princess",
+    "rarity": 0.5
+  },
+  {
+    "name": "Silver Tree",
+    "rarity": 0.5
+  },
+  {
+    "name": "Starry Night",
+    "rarity": 0.5
+  },
+  {
+    "name": "Azurite",
+    "rarity": 1.0
+  },
+  {
+    "name": "Harmony",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rosethorn",
+    "rarity": 1.0
+  },
+  {
+    "name": "Eternal Rose",
+    "rarity": 1.5
+  },
+  {
+    "name": "Frosted Green",
+    "rarity": 1.5
+  },
+  {
+    "name": "Moon Tears",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rosewood",
+    "rarity": 1.5
+  },
+  {
+    "name": "Serenity",
+    "rarity": 1.5
+  },
+  {
+    "name": "Shiny Sparks",
+    "rarity": 1.5
+  },
+  {
+    "name": "Silver Lace",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sovereign",
+    "rarity": 1.5
+  },
+  {
+    "name": "Starlit Silver",
+    "rarity": 1.5
+  },
+  {
+    "name": "Twilight Wish",
+    "rarity": 1.5
+  },
+  {
+    "name": "Calm Sunset",
+    "rarity": 2.0
+  },
+  {
+    "name": "Carved Gold",
+    "rarity": 2.0
+  },
+  {
+    "name": "Dawn Mirror",
+    "rarity": 2.0
+  },
+  {
+    "name": "Eclipse",
+    "rarity": 2.0
+  },
+  {
+    "name": "Golden Palace",
+    "rarity": 2.0
+  },
+  {
+    "name": "Lunar Orbit",
+    "rarity": 2.0
+  },
+  {
+    "name": "Mirage",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pearl Rose",
+    "rarity": 2.0
+  },
+  {
+    "name": "Precious Pearl",
+    "rarity": 2.0
+  },
+  {
+    "name": "Royal Purple",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sand Dune",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sea Jewel",
+    "rarity": 2.0
+  },
+  {
+    "name": "Stained Glass",
+    "rarity": 2.0
+  },
+  {
+    "name": "Circle Glare",
+    "rarity": 2.5
+  },
+  {
+    "name": "Diamond Tear",
+    "rarity": 2.5
+  },
+  {
+    "name": "Glass Rainbow",
+    "rarity": 2.5
+  },
+  {
+    "name": "Gratitude",
+    "rarity": 2.5
+  },
+  {
+    "name": "Little Star",
+    "rarity": 2.5
+  },
+  {
+    "name": "Sapphires",
+    "rarity": 2.5
+  },
+  {
+    "name": "Silver Blue",
+    "rarity": 2.5
+  },
+  {
+    "name": "Amethyst",
+    "rarity": 3.0
+  },
+  {
+    "name": "Copper Alloy",
+    "rarity": 3.0
+  },
+  {
+    "name": "Desert Night",
+    "rarity": 3.0
+  },
+  {
+    "name": "Emerald",
+    "rarity": 3.0
+  },
+  {
+    "name": "Frozen Light",
+    "rarity": 3.0
+  },
+  {
+    "name": "Golden Moon",
+    "rarity": 3.0
+  },
+  {
+    "name": "Liquid Gold",
+    "rarity": 3.0
+  },
+  {
+    "name": "Ruby Core",
+    "rarity": 3.0
+  },
+  {
+    "name": "Silver Moon",
+    "rarity": 3.0
+  },
+  {
+    "name": "Stellar Grace",
+    "rarity": 3.0
+  },
+  {
+    "name": "Sunset Rose",
+    "rarity": 3.0
+  },
+  {
+    "name": "Titanium",
+    "rarity": 3.0
+  }
+]

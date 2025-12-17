@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Darth Vader",
+    "rarity": 0.5
+  },
+  {
+    "name": "Disco Blast",
+    "rarity": 0.5
+  },
+  {
+    "name": "Stellar Map",
+    "rarity": 0.5
+  },
+  {
+    "name": "Stuart",
+    "rarity": 0.5
+  },
+  {
+    "name": "Beehive",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blizzard",
+    "rarity": 1.0
+  },
+  {
+    "name": "Confetti",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dark Orb",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dead Space",
+    "rarity": 1.0
+  },
+  {
+    "name": "Ghost Fog",
+    "rarity": 1.0
+  },
+  {
+    "name": "Last Player",
+    "rarity": 1.0
+  },
+  {
+    "name": "Line Art",
+    "rarity": 1.0
+  },
+  {
+    "name": "Soap Bubble",
+    "rarity": 1.0
+  },
+  {
+    "name": "Tinker Bell",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cherry",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cowbell",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dracula",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fireball",
+    "rarity": 1.5
+  },
+  {
+    "name": "Golden Dusk",
+    "rarity": 1.5
+  },
+  {
+    "name": "Holy Grenade",
+    "rarity": 1.5
+  },
+  {
+    "name": "Moon Ride",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mortabella",
+    "rarity": 1.5
+  },
+  {
+    "name": "Piranha Plant",
+    "rarity": 1.5
+  },
+  {
+    "name": "Poké Bell",
+    "rarity": 1.5
+  },
+  {
+    "name": "Arctic Igloo",
+    "rarity": 2.0
+  },
+  {
+    "name": "Black Silver",
+    "rarity": 2.0
+  },
+  {
+    "name": "Candy Cane",
+    "rarity": 2.0
+  },
+  {
+    "name": "Golden Zebra",
+    "rarity": 2.0
+  },
+  {
+    "name": "Iron Mint",
+    "rarity": 2.0
+  },
+  {
+    "name": "Night Club",
+    "rarity": 2.0
+  },
+  {
+    "name": "Obsidian Oak",
+    "rarity": 2.0
+  },
+  {
+    "name": "Police Siren",
+    "rarity": 2.0
+  },
+  {
+    "name": "Spetsnaz",
+    "rarity": 2.0
+  },
+  {
+    "name": "Deutschland",
+    "rarity": 2.5
+  },
+  {
+    "name": "Faint Pearl",
+    "rarity": 2.5
+  },
+  {
+    "name": "Joker",
+    "rarity": 2.5
+  },
+  {
+    "name": "Pistachio",
+    "rarity": 2.5
+  },
+  {
+    "name": "Rose Gold",
+    "rarity": 2.5
+  },
+  {
+    "name": "Satin Brass",
+    "rarity": 2.5
+  },
+  {
+    "name": "Candy Cloud",
+    "rarity": 3.0
+  },
+  {
+    "name": "Copper Rose",
+    "rarity": 3.0
+  },
+  {
+    "name": "Deep Echo",
+    "rarity": 3.0
+  },
+  {
+    "name": "Raspberry",
+    "rarity": 3.0
+  },
+  {
+    "name": "Sparkles",
+    "rarity": 3.0
+  },
+  {
+    "name": "Argentum",
+    "rarity": 4.0
+  },
+  {
+    "name": "Bronze",
+    "rarity": 4.0
+  },
+  {
+    "name": "Green Light",
+    "rarity": 4.0
+  },
+  {
+    "name": "Purple Gold",
+    "rarity": 4.0
+  },
+  {
+    "name": "Truffle",
+    "rarity": 4.0
+  },
+  {
+    "name": "Fairycore",
+    "rarity": 5.0
+  }
+]

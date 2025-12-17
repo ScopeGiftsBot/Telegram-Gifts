@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Antique",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cogwheel",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dryad Heart",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ice Glass",
+    "rarity": 0.5
+  },
+  {
+    "name": "Moon Prism",
+    "rarity": 0.5
+  },
+  {
+    "name": "Faerie",
+    "rarity": 1.0
+  },
+  {
+    "name": "Golden Lace",
+    "rarity": 1.0
+  },
+  {
+    "name": "Gothic Core",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pepe Love",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sorceress",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blossom",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cursed Room",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jewels",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lockpicking",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mistress",
+    "rarity": 1.5
+  },
+  {
+    "name": "Puzzle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Titanic",
+    "rarity": 1.5
+  },
+  {
+    "name": "Broken Heart",
+    "rarity": 2.0
+  },
+  {
+    "name": "Burning Love",
+    "rarity": 2.0
+  },
+  {
+    "name": "Comics",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cupid Pay",
+    "rarity": 2.0
+  },
+  {
+    "name": "Filigree",
+    "rarity": 2.0
+  },
+  {
+    "name": "Moulin Rouge",
+    "rarity": 2.0
+  },
+  {
+    "name": "Purple Glow",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ribbons",
+    "rarity": 2.0
+  },
+  {
+    "name": "Surgery",
+    "rarity": 2.0
+  },
+  {
+    "name": "Vault",
+    "rarity": 2.0
+  },
+  {
+    "name": "Web Locket",
+    "rarity": 2.0
+  },
+  {
+    "name": "Azure Gem",
+    "rarity": 2.5
+  },
+  {
+    "name": "Cheetah",
+    "rarity": 2.5
+  },
+  {
+    "name": "Crystal Clear",
+    "rarity": 2.5
+  },
+  {
+    "name": "Emerald",
+    "rarity": 2.5
+  },
+  {
+    "name": "Gift Wrap",
+    "rarity": 2.5
+  },
+  {
+    "name": "Lindon",
+    "rarity": 2.5
+  },
+  {
+    "name": "Lorien",
+    "rarity": 2.5
+  },
+  {
+    "name": "Padlock",
+    "rarity": 2.5
+  },
+  {
+    "name": "Ruby Red",
+    "rarity": 2.5
+  },
+  {
+    "name": "Ruby Whisper",
+    "rarity": 2.5
+  },
+  {
+    "name": "Snow Queen",
+    "rarity": 2.5
+  },
+  {
+    "name": "Starlight",
+    "rarity": 2.5
+  },
+  {
+    "name": "Blood Gem",
+    "rarity": 3.0
+  },
+  {
+    "name": "Bubbles",
+    "rarity": 3.0
+  },
+  {
+    "name": "Gemstones",
+    "rarity": 3.0
+  },
+  {
+    "name": "Glamour",
+    "rarity": 3.0
+  },
+  {
+    "name": "Golden Grasp",
+    "rarity": 3.0
+  },
+  {
+    "name": "Obsidian",
+    "rarity": 3.0
+  },
+  {
+    "name": "Pink Glass",
+    "rarity": 3.0
+  },
+  {
+    "name": "Pink Zebra",
+    "rarity": 3.0
+  },
+  {
+    "name": "Soft Touch",
+    "rarity": 3.0
+  },
+  {
+    "name": "White Claws",
+    "rarity": 3.0
+  }
+]

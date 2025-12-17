@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Barbie Land",
+    "rarity": 0.2
+  },
+  {
+    "name": "Broken Record",
+    "rarity": 0.2
+  },
+  {
+    "name": "Emocore",
+    "rarity": 0.2
+  },
+  {
+    "name": "High-End",
+    "rarity": 0.2
+  },
+  {
+    "name": "Illuminati",
+    "rarity": 0.2
+  },
+  {
+    "name": "Banana Split",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bang-Bang",
+    "rarity": 0.5
+  },
+  {
+    "name": "Birthday",
+    "rarity": 0.5
+  },
+  {
+    "name": "Candyland",
+    "rarity": 0.5
+  },
+  {
+    "name": "Color Splash",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dark Noir",
+    "rarity": 0.5
+  },
+  {
+    "name": "Disco Fever",
+    "rarity": 0.5
+  },
+  {
+    "name": "Electric Pink",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fire Show",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fluorescent",
+    "rarity": 0.5
+  },
+  {
+    "name": "Happy Clown",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hellfire",
+    "rarity": 0.5
+  },
+  {
+    "name": "High Voltage",
+    "rarity": 0.5
+  },
+  {
+    "name": "Holy Spirit",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ladybugs",
+    "rarity": 0.5
+  },
+  {
+    "name": "Milk Pop",
+    "rarity": 0.5
+  },
+  {
+    "name": "Misfits",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mood Swing",
+    "rarity": 0.5
+  },
+  {
+    "name": "Neo-Noir",
+    "rarity": 0.5
+  },
+  {
+    "name": "Neon Citrus",
+    "rarity": 0.5
+  },
+  {
+    "name": "Party Hard",
+    "rarity": 0.5
+  },
+  {
+    "name": "Party Time",
+    "rarity": 0.5
+  },
+  {
+    "name": "Poisonwave",
+    "rarity": 0.5
+  },
+  {
+    "name": "Punk Forever!",
+    "rarity": 0.5
+  },
+  {
+    "name": "Radio Active",
+    "rarity": 0.5
+  },
+  {
+    "name": "School Disco",
+    "rarity": 0.5
+  },
+  {
+    "name": "Stardust",
+    "rarity": 0.5
+  },
+  {
+    "name": "Strawberry",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sunny",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sunset Beach",
+    "rarity": 0.5
+  },
+  {
+    "name": "The Wall",
+    "rarity": 0.5
+  },
+  {
+    "name": "Toxic Rave",
+    "rarity": 0.5
+  },
+  {
+    "name": "Unicorn Pop",
+    "rarity": 0.5
+  },
+  {
+    "name": "Until Dusk",
+    "rarity": 0.5
+  },
+  {
+    "name": "Watermelon",
+    "rarity": 0.5
+  },
+  {
+    "name": "Winter",
+    "rarity": 0.5
+  },
+  {
+    "name": "Yin-Yang",
+    "rarity": 0.5
+  },
+  {
+    "name": "Acid Neon",
+    "rarity": 1.0
+  },
+  {
+    "name": "Azure Dream",
+    "rarity": 1.0
+  },
+  {
+    "name": "Black Gold",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bloodbeat",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cameroon",
+    "rarity": 1.0
+  },
+  {
+    "name": "DJ Neon",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dragon Brute",
+    "rarity": 1.0
+  },
+  {
+    "name": "Driftwood",
+    "rarity": 1.0
+  },
+  {
+    "name": "Eucalyptus",
+    "rarity": 1.0
+  },
+  {
+    "name": "Folk Revival",
+    "rarity": 1.0
+  },
+  {
+    "name": "Golden Blues",
+    "rarity": 1.0
+  },
+  {
+    "name": "Golden Record",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hot Ruby",
+    "rarity": 1.0
+  },
+  {
+    "name": "Iceberg",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jamaica",
+    "rarity": 1.0
+  },
+  {
+    "name": "Lemonight",
+    "rarity": 1.0
+  },
+  {
+    "name": "Matrix",
+    "rarity": 1.0
+  },
+  {
+    "name": "Meadow",
+    "rarity": 1.0
+  },
+  {
+    "name": "Melon Blues",
+    "rarity": 1.0
+  },
+  {
+    "name": "Midas Jazz",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mint Vinyl",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mon Cherry",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mono Chrome",
+    "rarity": 1.0
+  },
+  {
+    "name": "Moonglows",
+    "rarity": 1.0
+  },
+  {
+    "name": "Neon Disco",
+    "rarity": 1.0
+  },
+  {
+    "name": "Police Party",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rattlesnake",
+    "rarity": 1.0
+  },
+  {
+    "name": "Retrowave",
+    "rarity": 1.0
+  },
+  {
+    "name": "Snow White",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sonic Fuchsia",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blueberry Hill",
+    "rarity": 1.5
+  },
+  {
+    "name": "Coldwave",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fizzy Dizzy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mangosteen",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mr. Orange",
+    "rarity": 1.5
+  },
+  {
+    "name": "Olive Groove",
+    "rarity": 1.5
+  },
+  {
+    "name": "Passion Funk",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pink Records",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Cruiser",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Mirage",
+    "rarity": 1.5
+  },
+  {
+    "name": "Retro Silver",
+    "rarity": 1.5
+  },
+  {
+    "name": "Acid Jazz",
+    "rarity": 2.0
+  },
+  {
+    "name": "Barbie Rock",
+    "rarity": 2.0
+  },
+  {
+    "name": "Chartreuse",
+    "rarity": 2.0
+  },
+  {
+    "name": "Gentle Soul",
+    "rarity": 2.0
+  },
+  {
+    "name": "Inktober",
+    "rarity": 2.0
+  },
+  {
+    "name": "Inverted",
+    "rarity": 2.0
+  },
+  {
+    "name": "Jade Beat",
+    "rarity": 2.0
+  },
+  {
+    "name": "Jazz Bar",
+    "rarity": 2.0
+  },
+  {
+    "name": "Maroon",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pink Chrome",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pink Noir",
+    "rarity": 2.0
+  },
+  {
+    "name": "Purple Swag",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sakura",
+    "rarity": 2.0
+  },
+  {
+    "name": "Serenity",
+    "rarity": 2.0
+  },
+  {
+    "name": "Vanilla Sky",
+    "rarity": 2.0
+  },
+  {
+    "name": "Velvet Draft",
+    "rarity": 2.0
+  },
+  {
+    "name": "Yellow Line",
+    "rarity": 2.0
+  }
+]

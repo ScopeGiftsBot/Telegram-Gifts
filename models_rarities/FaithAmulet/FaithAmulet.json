@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Gold Night",
+    "rarity": 0.5
+  },
+  {
+    "name": "Golden Lace",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ocean Glass",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ruby Drop",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dark Night",
+    "rarity": 1.0
+  },
+  {
+    "name": "Eternal Light",
+    "rarity": 1.0
+  },
+  {
+    "name": "Lightwoven",
+    "rarity": 1.0
+  },
+  {
+    "name": "Miracle",
+    "rarity": 1.0
+  },
+  {
+    "name": "Secret Bloom",
+    "rarity": 1.0
+  },
+  {
+    "name": "Midnight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Moonlight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Obsidian",
+    "rarity": 1.5
+  },
+  {
+    "name": "Princess",
+    "rarity": 1.5
+  },
+  {
+    "name": "Soft Whisper",
+    "rarity": 1.5
+  },
+  {
+    "name": "Starry Eve",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sunset Gem",
+    "rarity": 1.5
+  },
+  {
+    "name": "Winter",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cool Breeze",
+    "rarity": 2.0
+  },
+  {
+    "name": "Emerald",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ethereal",
+    "rarity": 2.0
+  },
+  {
+    "name": "Moon Gem",
+    "rarity": 2.0
+  },
+  {
+    "name": "Purple Dunes",
+    "rarity": 2.0
+  },
+  {
+    "name": "Radiance",
+    "rarity": 2.0
+  },
+  {
+    "name": "Serenity",
+    "rarity": 2.0
+  },
+  {
+    "name": "Stained Glass",
+    "rarity": 2.0
+  },
+  {
+    "name": "Starlace",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sunny Mosaic",
+    "rarity": 2.0
+  },
+  {
+    "name": "Aurora",
+    "rarity": 2.5
+  },
+  {
+    "name": "Azure Glow",
+    "rarity": 2.5
+  },
+  {
+    "name": "Celestial Gem",
+    "rarity": 2.5
+  },
+  {
+    "name": "Frosty Night",
+    "rarity": 2.5
+  },
+  {
+    "name": "Greenstone",
+    "rarity": 2.5
+  },
+  {
+    "name": "Lavender",
+    "rarity": 2.5
+  },
+  {
+    "name": "Lilac Dream",
+    "rarity": 2.5
+  },
+  {
+    "name": "Luminous",
+    "rarity": 2.5
+  },
+  {
+    "name": "Morning Dew",
+    "rarity": 2.5
+  },
+  {
+    "name": "Royal Green",
+    "rarity": 2.5
+  },
+  {
+    "name": "Shiny Silk",
+    "rarity": 2.5
+  },
+  {
+    "name": "Silver Charm",
+    "rarity": 2.5
+  },
+  {
+    "name": "Silver Gold",
+    "rarity": 2.5
+  },
+  {
+    "name": "Sunrise",
+    "rarity": 2.5
+  },
+  {
+    "name": "Twilight Rose",
+    "rarity": 2.5
+  },
+  {
+    "name": "Velvet Dusk",
+    "rarity": 2.5
+  },
+  {
+    "name": "Bronze Tower",
+    "rarity": 3.0
+  },
+  {
+    "name": "Constellation",
+    "rarity": 3.0
+  },
+  {
+    "name": "Crystal Leaf",
+    "rarity": 3.0
+  },
+  {
+    "name": "Lunar Veil",
+    "rarity": 3.0
+  },
+  {
+    "name": "Mystic Tide",
+    "rarity": 3.0
+  },
+  {
+    "name": "Rose Gold",
+    "rarity": 3.0
+  },
+  {
+    "name": "Rose Pearl",
+    "rarity": 3.0
+  }
+]

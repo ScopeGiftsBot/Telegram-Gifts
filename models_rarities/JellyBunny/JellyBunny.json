@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Artificial",
+    "rarity": 0.5
+  },
+  {
+    "name": "Auburn",
+    "rarity": 0.5
+  },
+  {
+    "name": "Avocado Awe",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ballet Slipper",
+    "rarity": 0.5
+  },
+  {
+    "name": "Barbie",
+    "rarity": 0.5
+  },
+  {
+    "name": "Blue Glaze",
+    "rarity": 0.5
+  },
+  {
+    "name": "Blue Swirl",
+    "rarity": 0.5
+  },
+  {
+    "name": "Burnt Cream",
+    "rarity": 0.5
+  },
+  {
+    "name": "Chilly",
+    "rarity": 0.5
+  },
+  {
+    "name": "Deep Dive",
+    "rarity": 0.5
+  },
+  {
+    "name": "Firefruit",
+    "rarity": 0.5
+  },
+  {
+    "name": "Frosted",
+    "rarity": 0.5
+  },
+  {
+    "name": "Gentle Touch",
+    "rarity": 0.5
+  },
+  {
+    "name": "Grape Glaze",
+    "rarity": 0.5
+  },
+  {
+    "name": "Grass Gel",
+    "rarity": 0.5
+  },
+  {
+    "name": "Green Melt",
+    "rarity": 0.5
+  },
+  {
+    "name": "Guava Gel",
+    "rarity": 0.5
+  },
+  {
+    "name": "Indigo Fruit",
+    "rarity": 0.5
+  },
+  {
+    "name": "Juicy Blue",
+    "rarity": 0.5
+  },
+  {
+    "name": "Juicy Mint",
+    "rarity": 0.5
+  },
+  {
+    "name": "Kiwi Kuddle",
+    "rarity": 0.5
+  },
+  {
+    "name": "Light Creme",
+    "rarity": 0.5
+  },
+  {
+    "name": "Light Wobble",
+    "rarity": 0.5
+  },
+  {
+    "name": "Lime Gelight",
+    "rarity": 0.5
+  },
+  {
+    "name": "Magic Mint",
+    "rarity": 0.5
+  },
+  {
+    "name": "Matcha Magic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Melted Ice",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mint Fudge",
+    "rarity": 0.5
+  },
+  {
+    "name": "Noble",
+    "rarity": 0.5
+  },
+  {
+    "name": "Orchid",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pinkie Pie",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pomegranate",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pudding",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Sponge",
+    "rarity": 0.5
+  },
+  {
+    "name": "Seaweed",
+    "rarity": 0.5
+  },
+  {
+    "name": "Skyberry",
+    "rarity": 0.5
+  },
+  {
+    "name": "Smoothy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Soft Flavor",
+    "rarity": 0.5
+  },
+  {
+    "name": "Spring Day",
+    "rarity": 0.5
+  },
+  {
+    "name": "Squishy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sticky Red",
+    "rarity": 0.5
+  },
+  {
+    "name": "Tender Pink",
+    "rarity": 0.5
+  },
+  {
+    "name": "Tropic Twist",
+    "rarity": 0.5
+  },
+  {
+    "name": "Vanilla",
+    "rarity": 0.5
+  },
+  {
+    "name": "Violet Joy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Violet Swirl",
+    "rarity": 0.5
+  },
+  {
+    "name": "Violet Wobble",
+    "rarity": 0.5
+  },
+  {
+    "name": "Violetta",
+    "rarity": 0.5
+  },
+  {
+    "name": "Winter",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cycloppy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Outline",
+    "rarity": 1.0
+  },
+  {
+    "name": "Quicksilver",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sugar Kill",
+    "rarity": 1.0
+  },
+  {
+    "name": "Thug Life",
+    "rarity": 1.0
+  },
+  {
+    "name": "Vampire",
+    "rarity": 1.0
+  },
+  {
+    "name": "Commando",
+    "rarity": 1.5
+  },
+  {
+    "name": "Corporate",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dad Joke",
+    "rarity": 1.5
+  },
+  {
+    "name": "Diver",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dr. Jelly",
+    "rarity": 1.5
+  },
+  {
+    "name": "Engineer",
+    "rarity": 1.5
+  },
+  {
+    "name": "First Bite",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fruity",
+    "rarity": 1.5
+  },
+  {
+    "name": "Gelatin Girl",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ghost",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jaxy-Boy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jellien",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jelly Tune",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jellyfish",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jevil",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jingle Jells",
+    "rarity": 1.5
+  },
+  {
+    "name": "Kawaii",
+    "rarity": 1.5
+  },
+  {
+    "name": "Liquid Metal",
+    "rarity": 1.5
+  },
+  {
+    "name": "Majestic",
+    "rarity": 1.5
+  },
+  {
+    "name": "Meat Jelly",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mummy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mushroom",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mutated",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ninjell",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pale Squish",
+    "rarity": 1.5
+  },
+  {
+    "name": "Party Hard",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pirate",
+    "rarity": 1.5
+  },
+  {
+    "name": "Radioactive",
+    "rarity": 1.5
+  },
+  {
+    "name": "Reindeer",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sad Clown",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sir Wobbleton",
+    "rarity": 1.5
+  },
+  {
+    "name": "Snail Gel",
+    "rarity": 1.5
+  },
+  {
+    "name": "Snowman",
+    "rarity": 1.5
+  },
+  {
+    "name": "Space Gel",
+    "rarity": 1.5
+  },
+  {
+    "name": "Spreadable",
+    "rarity": 1.5
+  },
+  {
+    "name": "Stiches",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tortoise",
+    "rarity": 1.5
+  },
+  {
+    "name": "Zombie",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ballistics Gel",
+    "rarity": 2.0
+  },
+  {
+    "name": "Chili Pepper",
+    "rarity": 2.0
+  },
+  {
+    "name": "Electric",
+    "rarity": 2.0
+  },
+  {
+    "name": "Red Hot",
+    "rarity": 2.0
+  },
+  {
+    "name": "Smelly",
+    "rarity": 2.0
+  },
+  {
+    "name": "Spooky",
+    "rarity": 2.0
+  }
+]

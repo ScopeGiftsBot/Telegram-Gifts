@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Pixel Perfect",
+    "rarity": 0.2
+  },
+  {
+    "name": "Constable",
+    "rarity": 0.3
+  },
+  {
+    "name": "Grey Gatsby",
+    "rarity": 0.3
+  },
+  {
+    "name": "Hypnosis",
+    "rarity": 0.3
+  },
+  {
+    "name": "Lucifer",
+    "rarity": 0.3
+  },
+  {
+    "name": "Megawatt",
+    "rarity": 0.3
+  },
+  {
+    "name": "Polygon",
+    "rarity": 0.3
+  },
+  {
+    "name": "Solar System",
+    "rarity": 0.3
+  },
+  {
+    "name": "Abracadabra",
+    "rarity": 0.5
+  },
+  {
+    "name": "Alien Invasion",
+    "rarity": 0.5
+  },
+  {
+    "name": "Atlantis",
+    "rarity": 0.5
+  },
+  {
+    "name": "Brainiac",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bubble Top",
+    "rarity": 0.5
+  },
+  {
+    "name": "Edison",
+    "rarity": 0.5
+  },
+  {
+    "name": "Green Stars",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hat Toss",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hippie",
+    "rarity": 0.5
+  },
+  {
+    "name": "Is It Cake?",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mr. Whiskers",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pickle Jar",
+    "rarity": 0.5
+  },
+  {
+    "name": "Prestige",
+    "rarity": 0.5
+  },
+  {
+    "name": "Romantic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sceleritas Fel",
+    "rarity": 0.5
+  },
+  {
+    "name": "Snowstorm",
+    "rarity": 0.5
+  },
+  {
+    "name": "Tree Stump",
+    "rarity": 0.5
+  },
+  {
+    "name": "Antiquity",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blackjack",
+    "rarity": 1.0
+  },
+  {
+    "name": "Celestial",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dairy Dandy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Glam Safari",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mad Hatter",
+    "rarity": 1.0
+  },
+  {
+    "name": "Performer",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pink Bunny",
+    "rarity": 1.0
+  },
+  {
+    "name": "Steampunk",
+    "rarity": 1.0
+  },
+  {
+    "name": "Submarine",
+    "rarity": 1.0
+  },
+  {
+    "name": "Witch Doctor",
+    "rarity": 1.0
+  },
+  {
+    "name": "Chronos",
+    "rarity": 1.2
+  },
+  {
+    "name": "Blake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bull Baron",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cranberry",
+    "rarity": 1.5
+  },
+  {
+    "name": "Elegance",
+    "rarity": 1.5
+  },
+  {
+    "name": "Huntsman",
+    "rarity": 1.5
+  },
+  {
+    "name": "Leprechaun",
+    "rarity": 1.5
+  },
+  {
+    "name": "Silver Glass",
+    "rarity": 1.5
+  },
+  {
+    "name": "Uncle Sam",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blood Veil",
+    "rarity": 2.0
+  },
+  {
+    "name": "Burned Brass",
+    "rarity": 2.0
+  },
+  {
+    "name": "Charlie",
+    "rarity": 2.0
+  },
+  {
+    "name": "Clockwork",
+    "rarity": 2.0
+  },
+  {
+    "name": "Crosswalk",
+    "rarity": 2.0
+  },
+  {
+    "name": "Limoncello",
+    "rarity": 2.0
+  },
+  {
+    "name": "Lincoln",
+    "rarity": 2.0
+  },
+  {
+    "name": "Low Rider",
+    "rarity": 2.0
+  },
+  {
+    "name": "Scrooge",
+    "rarity": 2.0
+  },
+  {
+    "name": "Willy Wonka",
+    "rarity": 2.0
+  },
+  {
+    "name": "Alabaster",
+    "rarity": 3.0
+  },
+  {
+    "name": "Black Raven",
+    "rarity": 3.0
+  },
+  {
+    "name": "Bloodline",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cardinal",
+    "rarity": 3.0
+  },
+  {
+    "name": "Dreamwave",
+    "rarity": 3.0
+  },
+  {
+    "name": "Golden Ratio",
+    "rarity": 3.0
+  },
+  {
+    "name": "Grandmaster",
+    "rarity": 3.0
+  },
+  {
+    "name": "Graphite",
+    "rarity": 3.0
+  },
+  {
+    "name": "Maestro",
+    "rarity": 3.0
+  },
+  {
+    "name": "Maroon",
+    "rarity": 3.0
+  },
+  {
+    "name": "Purple Rain",
+    "rarity": 3.0
+  },
+  {
+    "name": "Spectrum",
+    "rarity": 3.0
+  },
+  {
+    "name": "Starlight",
+    "rarity": 3.0
+  },
+  {
+    "name": "Victorian Era",
+    "rarity": 3.0
+  },
+  {
+    "name": "White Windsor",
+    "rarity": 3.0
+  }
+]

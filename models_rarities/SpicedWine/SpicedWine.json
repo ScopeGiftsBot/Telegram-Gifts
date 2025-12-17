@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Black Hole",
+    "rarity": 0.4
+  },
+  {
+    "name": "Captain Nemo",
+    "rarity": 0.4
+  },
+  {
+    "name": "Dark Disco",
+    "rarity": 0.4
+  },
+  {
+    "name": "Hazmat",
+    "rarity": 0.4
+  },
+  {
+    "name": "Lightly Chilled",
+    "rarity": 0.4
+  },
+  {
+    "name": "Loading",
+    "rarity": 0.4
+  },
+  {
+    "name": "Magmarita",
+    "rarity": 0.4
+  },
+  {
+    "name": "Milky Way",
+    "rarity": 0.4
+  },
+  {
+    "name": "Moon Rocks",
+    "rarity": 0.4
+  },
+  {
+    "name": "Swamp Gas",
+    "rarity": 0.4
+  },
+  {
+    "name": "Water Spout",
+    "rarity": 0.4
+  },
+  {
+    "name": "High Class",
+    "rarity": 0.5
+  },
+  {
+    "name": "Over Ice",
+    "rarity": 0.5
+  },
+  {
+    "name": "Aquarium",
+    "rarity": 0.8
+  },
+  {
+    "name": "Aries Rum",
+    "rarity": 0.8
+  },
+  {
+    "name": "Birthday Parfait",
+    "rarity": 0.8
+  },
+  {
+    "name": "Blew Bubble",
+    "rarity": 0.8
+  },
+  {
+    "name": "Blue Burn",
+    "rarity": 0.8
+  },
+  {
+    "name": "Brain Enhancer",
+    "rarity": 0.8
+  },
+  {
+    "name": "Cancer Collins",
+    "rarity": 0.8
+  },
+  {
+    "name": "Capri Sun",
+    "rarity": 0.8
+  },
+  {
+    "name": "Chocolate Cherry",
+    "rarity": 0.8
+  },
+  {
+    "name": "Cube Libra",
+    "rarity": 0.8
+  },
+  {
+    "name": "Deep Blue Sea",
+    "rarity": 0.8
+  },
+  {
+    "name": "Ember Elixir",
+    "rarity": 0.8
+  },
+  {
+    "name": "Flaming Mint",
+    "rarity": 0.8
+  },
+  {
+    "name": "Gaso Green",
+    "rarity": 0.8
+  },
+  {
+    "name": "Gin Gemini",
+    "rarity": 0.8
+  },
+  {
+    "name": "Glitterwine",
+    "rarity": 0.8
+  },
+  {
+    "name": "Green Energy",
+    "rarity": 0.8
+  },
+  {
+    "name": "Green Glitter",
+    "rarity": 0.8
+  },
+  {
+    "name": "Intense Indigo",
+    "rarity": 0.8
+  },
+  {
+    "name": "Kiwi Degree",
+    "rarity": 0.8
+  },
+  {
+    "name": "Leonade",
+    "rarity": 0.8
+  },
+  {
+    "name": "Love Elixir",
+    "rarity": 0.8
+  },
+  {
+    "name": "Magenta Mix",
+    "rarity": 0.8
+  },
+  {
+    "name": "Night Sky",
+    "rarity": 0.8
+  },
+  {
+    "name": "Nightbulb",
+    "rarity": 0.8
+  },
+  {
+    "name": "Pink Flame",
+    "rarity": 0.8
+  },
+  {
+    "name": "Pisces Sour",
+    "rarity": 0.8
+  },
+  {
+    "name": "Sag Sangria",
+    "rarity": 0.8
+  },
+  {
+    "name": "Scorpio Sling",
+    "rarity": 0.8
+  },
+  {
+    "name": "Scuba Dive",
+    "rarity": 0.8
+  },
+  {
+    "name": "Shark Attack",
+    "rarity": 0.8
+  },
+  {
+    "name": "Taurus-tini",
+    "rarity": 0.8
+  },
+  {
+    "name": "Thought Tonic",
+    "rarity": 0.8
+  },
+  {
+    "name": "Tiny Trifle",
+    "rarity": 0.8
+  },
+  {
+    "name": "Vin Virgo",
+    "rarity": 0.8
+  },
+  {
+    "name": "With Caution",
+    "rarity": 0.8
+  },
+  {
+    "name": "Yellow Pop",
+    "rarity": 0.8
+  },
+  {
+    "name": "Absinthe",
+    "rarity": 1.3
+  },
+  {
+    "name": "Aqua Vita",
+    "rarity": 1.3
+  },
+  {
+    "name": "Blackout",
+    "rarity": 1.3
+  },
+  {
+    "name": "Blood Orange",
+    "rarity": 1.3
+  },
+  {
+    "name": "Blue Brew",
+    "rarity": 1.3
+  },
+  {
+    "name": "Blueberry",
+    "rarity": 1.3
+  },
+  {
+    "name": "Brass Monkey",
+    "rarity": 1.3
+  },
+  {
+    "name": "Buckwheat",
+    "rarity": 1.3
+  },
+  {
+    "name": "Citrus Punch",
+    "rarity": 1.3
+  },
+  {
+    "name": "Color Theory",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cool Water",
+    "rarity": 1.3
+  },
+  {
+    "name": "Copper Sun",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cranberry Lime",
+    "rarity": 1.3
+  },
+  {
+    "name": "Dehydrated",
+    "rarity": 1.3
+  },
+  {
+    "name": "Desaturated",
+    "rarity": 1.3
+  },
+  {
+    "name": "Dusky Draft",
+    "rarity": 1.3
+  },
+  {
+    "name": "Earl Grey",
+    "rarity": 1.3
+  },
+  {
+    "name": "Gluhwein",
+    "rarity": 1.3
+  },
+  {
+    "name": "Going Grape",
+    "rarity": 1.3
+  },
+  {
+    "name": "Golden Glow",
+    "rarity": 1.3
+  },
+  {
+    "name": "Golden Goblet",
+    "rarity": 1.3
+  },
+  {
+    "name": "Green Gradient",
+    "rarity": 1.3
+  },
+  {
+    "name": "Greenwein",
+    "rarity": 1.3
+  },
+  {
+    "name": "Hot Cold",
+    "rarity": 1.3
+  },
+  {
+    "name": "Indigo",
+    "rarity": 1.3
+  },
+  {
+    "name": "Indigo Orange",
+    "rarity": 1.3
+  },
+  {
+    "name": "Kalamansi",
+    "rarity": 1.3
+  },
+  {
+    "name": "Light Grape",
+    "rarity": 1.3
+  },
+  {
+    "name": "Lime Slice",
+    "rarity": 1.3
+  },
+  {
+    "name": "Low Tide",
+    "rarity": 1.3
+  },
+  {
+    "name": "Magenta Mist",
+    "rarity": 1.3
+  },
+  {
+    "name": "Mellow Merlot",
+    "rarity": 1.3
+  },
+  {
+    "name": "Melted Ice",
+    "rarity": 1.3
+  },
+  {
+    "name": "Minty Fresh",
+    "rarity": 1.3
+  },
+  {
+    "name": "Persimmon",
+    "rarity": 1.3
+  },
+  {
+    "name": "Pink Colada",
+    "rarity": 1.3
+  },
+  {
+    "name": "Pink Orange",
+    "rarity": 1.3
+  },
+  {
+    "name": "Purple Potion",
+    "rarity": 1.3
+  },
+  {
+    "name": "Purplexed",
+    "rarity": 1.3
+  },
+  {
+    "name": "Rosemary",
+    "rarity": 1.3
+  },
+  {
+    "name": "Shadow Spirit",
+    "rarity": 1.3
+  },
+  {
+    "name": "South Pacific",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tarkhuna",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tea Infusion",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tequila Sunrise",
+    "rarity": 1.3
+  },
+  {
+    "name": "The Grinch",
+    "rarity": 1.3
+  },
+  {
+    "name": "Turquoise",
+    "rarity": 1.3
+  },
+  {
+    "name": "Vague Berry",
+    "rarity": 1.3
+  },
+  {
+    "name": "Vitamin C",
+    "rarity": 1.3
+  },
+  {
+    "name": "Whiskey Wine",
+    "rarity": 1.3
+  }
+]

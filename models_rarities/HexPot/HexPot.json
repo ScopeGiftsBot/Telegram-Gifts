@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Amortentia",
+    "rarity": 0.3
+  },
+  {
+    "name": "Defensive",
+    "rarity": 0.3
+  },
+  {
+    "name": "Felix Felicis",
+    "rarity": 0.3
+  },
+  {
+    "name": "Fire Storm",
+    "rarity": 0.3
+  },
+  {
+    "name": "Gust of Wind",
+    "rarity": 0.3
+  },
+  {
+    "name": "Pikabrew",
+    "rarity": 0.3
+  },
+  {
+    "name": "Beholder",
+    "rarity": 0.4
+  },
+  {
+    "name": "Bubble Bath",
+    "rarity": 0.4
+  },
+  {
+    "name": "Coldbrew",
+    "rarity": 0.4
+  },
+  {
+    "name": "Backstroke",
+    "rarity": 0.8
+  },
+  {
+    "name": "Banana Split",
+    "rarity": 0.8
+  },
+  {
+    "name": "Blueprint",
+    "rarity": 0.8
+  },
+  {
+    "name": "Cherry Bomb",
+    "rarity": 0.8
+  },
+  {
+    "name": "Choco Cloud",
+    "rarity": 0.8
+  },
+  {
+    "name": "Citrus Bubbles",
+    "rarity": 0.8
+  },
+  {
+    "name": "Code Red",
+    "rarity": 0.8
+  },
+  {
+    "name": "Daiquiri",
+    "rarity": 0.8
+  },
+  {
+    "name": "Death Star",
+    "rarity": 0.8
+  },
+  {
+    "name": "Desert Friend",
+    "rarity": 0.8
+  },
+  {
+    "name": "Digital Sap",
+    "rarity": 0.8
+  },
+  {
+    "name": "Fine Wine",
+    "rarity": 0.8
+  },
+  {
+    "name": "Halloween Brew",
+    "rarity": 0.8
+  },
+  {
+    "name": "Holiday Spirit",
+    "rarity": 0.8
+  },
+  {
+    "name": "Hypnosis",
+    "rarity": 0.8
+  },
+  {
+    "name": "Ice Citrus",
+    "rarity": 0.8
+  },
+  {
+    "name": "Inky",
+    "rarity": 0.8
+  },
+  {
+    "name": "Lava",
+    "rarity": 0.8
+  },
+  {
+    "name": "Mad Eye",
+    "rarity": 0.8
+  },
+  {
+    "name": "Malibu",
+    "rarity": 0.8
+  },
+  {
+    "name": "Matrix",
+    "rarity": 0.8
+  },
+  {
+    "name": "Melon Brew",
+    "rarity": 0.8
+  },
+  {
+    "name": "Movie Night",
+    "rarity": 0.8
+  },
+  {
+    "name": "Neon",
+    "rarity": 0.8
+  },
+  {
+    "name": "Peachy Fume",
+    "rarity": 0.8
+  },
+  {
+    "name": "Peppermint",
+    "rarity": 0.8
+  },
+  {
+    "name": "Quicksilver",
+    "rarity": 0.8
+  },
+  {
+    "name": "Rainbow Pearl",
+    "rarity": 0.8
+  },
+  {
+    "name": "Starlight",
+    "rarity": 0.8
+  },
+  {
+    "name": "Strike",
+    "rarity": 0.8
+  },
+  {
+    "name": "Sunset",
+    "rarity": 0.8
+  },
+  {
+    "name": "Tornado",
+    "rarity": 0.8
+  },
+  {
+    "name": "Firefly",
+    "rarity": 1.0
+  },
+  {
+    "name": "Butterbeer",
+    "rarity": 1.3
+  },
+  {
+    "name": "Fairy Fluff",
+    "rarity": 1.3
+  },
+  {
+    "name": "Golden Glow",
+    "rarity": 1.3
+  },
+  {
+    "name": "Greenwitch",
+    "rarity": 1.3
+  },
+  {
+    "name": "Gummy Worm",
+    "rarity": 1.3
+  },
+  {
+    "name": "Heat Map",
+    "rarity": 1.3
+  },
+  {
+    "name": "Minty Fresh",
+    "rarity": 1.3
+  },
+  {
+    "name": "Moonlight",
+    "rarity": 1.3
+  },
+  {
+    "name": "Night Mixture",
+    "rarity": 1.3
+  },
+  {
+    "name": "Petalwine",
+    "rarity": 1.3
+  },
+  {
+    "name": "Purple Haze",
+    "rarity": 1.3
+  },
+  {
+    "name": "Red Shift",
+    "rarity": 1.3
+  },
+  {
+    "name": "Ruby Ocean",
+    "rarity": 1.3
+  },
+  {
+    "name": "Soft Coral",
+    "rarity": 1.3
+  },
+  {
+    "name": "Spectral Dew",
+    "rarity": 1.3
+  },
+  {
+    "name": "Aurora",
+    "rarity": 1.4
+  },
+  {
+    "name": "Burned Love",
+    "rarity": 1.4
+  },
+  {
+    "name": "Burnt Petals",
+    "rarity": 1.4
+  },
+  {
+    "name": "Burnt Roses",
+    "rarity": 1.4
+  },
+  {
+    "name": "Honeydew",
+    "rarity": 1.4
+  },
+  {
+    "name": "Red Mirage",
+    "rarity": 1.4
+  },
+  {
+    "name": "Violet Veil",
+    "rarity": 1.4
+  },
+  {
+    "name": "Citrus",
+    "rarity": 2.5
+  },
+  {
+    "name": "Full Moon",
+    "rarity": 2.5
+  },
+  {
+    "name": "Indigo Storm",
+    "rarity": 2.5
+  },
+  {
+    "name": "Jade Grog",
+    "rarity": 2.5
+  },
+  {
+    "name": "Sangria",
+    "rarity": 2.5
+  },
+  {
+    "name": "Scarlet Sun",
+    "rarity": 2.5
+  },
+  {
+    "name": "Skygold",
+    "rarity": 2.5
+  },
+  {
+    "name": "Skywash",
+    "rarity": 2.5
+  },
+  {
+    "name": "Vermilion",
+    "rarity": 2.5
+  },
+  {
+    "name": "Amethyst",
+    "rarity": 2.6
+  },
+  {
+    "name": "Blue Inferno",
+    "rarity": 2.6
+  },
+  {
+    "name": "Fairy",
+    "rarity": 2.6
+  },
+  {
+    "name": "Orchid Volt",
+    "rarity": 2.6
+  },
+  {
+    "name": "Potpourri",
+    "rarity": 2.6
+  },
+  {
+    "name": "Rusty",
+    "rarity": 2.6
+  },
+  {
+    "name": "Witchy",
+    "rarity": 3.0
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Compact Disc",
+    "rarity": 0.5
+  },
+  {
+    "name": "Graffiti",
+    "rarity": 0.5
+  },
+  {
+    "name": "Kawaii Dog",
+    "rarity": 0.5
+  },
+  {
+    "name": "Reward",
+    "rarity": 0.5
+  },
+  {
+    "name": "Tamagotchi",
+    "rarity": 0.5
+  },
+  {
+    "name": "Amphibian",
+    "rarity": 0.7
+  },
+  {
+    "name": "Flashing",
+    "rarity": 0.7
+  },
+  {
+    "name": "Ginger Man",
+    "rarity": 0.7
+  },
+  {
+    "name": "Hale-Pop",
+    "rarity": 0.7
+  },
+  {
+    "name": "Moon Candy",
+    "rarity": 0.7
+  },
+  {
+    "name": "Radiation",
+    "rarity": 0.7
+  },
+  {
+    "name": "Saturn",
+    "rarity": 0.7
+  },
+  {
+    "name": "Shirtless",
+    "rarity": 0.7
+  },
+  {
+    "name": "Telegram",
+    "rarity": 0.7
+  },
+  {
+    "name": "Tricky Treat",
+    "rarity": 0.7
+  },
+  {
+    "name": "Beach Ball",
+    "rarity": 0.8
+  },
+  {
+    "name": "Bomb Pop",
+    "rarity": 0.8
+  },
+  {
+    "name": "Choco Donut",
+    "rarity": 0.8
+  },
+  {
+    "name": "Classic Vinyl",
+    "rarity": 0.8
+  },
+  {
+    "name": "Day Night",
+    "rarity": 0.8
+  },
+  {
+    "name": "Fragile Orb",
+    "rarity": 0.8
+  },
+  {
+    "name": "Frozen",
+    "rarity": 0.8
+  },
+  {
+    "name": "Grand Slam",
+    "rarity": 0.8
+  },
+  {
+    "name": "Ice Bauble",
+    "rarity": 0.8
+  },
+  {
+    "name": "Ketchum",
+    "rarity": 0.8
+  },
+  {
+    "name": "Lucipop",
+    "rarity": 0.8
+  },
+  {
+    "name": "Mac Loader",
+    "rarity": 0.8
+  },
+  {
+    "name": "Marksman",
+    "rarity": 0.8
+  },
+  {
+    "name": "No Disturb",
+    "rarity": 0.8
+  },
+  {
+    "name": "Pangea",
+    "rarity": 0.8
+  },
+  {
+    "name": "Rollin Donut",
+    "rarity": 0.8
+  },
+  {
+    "name": "Strabismus",
+    "rarity": 0.8
+  },
+  {
+    "name": "Sweetheart",
+    "rarity": 0.8
+  },
+  {
+    "name": "Teddy Bear",
+    "rarity": 0.8
+  },
+  {
+    "name": "Webby",
+    "rarity": 0.8
+  },
+  {
+    "name": "Aperture",
+    "rarity": 0.9
+  },
+  {
+    "name": "Bloodshot",
+    "rarity": 0.9
+  },
+  {
+    "name": "Blue Beat",
+    "rarity": 0.9
+  },
+  {
+    "name": "Dark Cherry",
+    "rarity": 0.9
+  },
+  {
+    "name": "Hypno Yellow",
+    "rarity": 0.9
+  },
+  {
+    "name": "Hysteria",
+    "rarity": 0.9
+  },
+  {
+    "name": "Island Ice",
+    "rarity": 0.9
+  },
+  {
+    "name": "Lemon Drop",
+    "rarity": 0.9
+  },
+  {
+    "name": "Lemon Zest",
+    "rarity": 0.9
+  },
+  {
+    "name": "Lime Wedge",
+    "rarity": 0.9
+  },
+  {
+    "name": "Manic Melon",
+    "rarity": 0.9
+  },
+  {
+    "name": "Monster Eye",
+    "rarity": 0.9
+  },
+  {
+    "name": "Orange Peel",
+    "rarity": 0.9
+  },
+  {
+    "name": "Orange Petal",
+    "rarity": 0.9
+  },
+  {
+    "name": "Orange Spin",
+    "rarity": 0.9
+  },
+  {
+    "name": "Pink Blur",
+    "rarity": 0.9
+  },
+  {
+    "name": "Sakura",
+    "rarity": 0.9
+  },
+  {
+    "name": "Seventies",
+    "rarity": 0.9
+  },
+  {
+    "name": "Sickly Sweet",
+    "rarity": 0.9
+  },
+  {
+    "name": "Snake Eyes",
+    "rarity": 0.9
+  },
+  {
+    "name": "Spiraling",
+    "rarity": 0.9
+  },
+  {
+    "name": "Strawberry",
+    "rarity": 0.9
+  },
+  {
+    "name": "The Maze",
+    "rarity": 0.9
+  },
+  {
+    "name": "Treat Time",
+    "rarity": 0.9
+  },
+  {
+    "name": "White Bloom",
+    "rarity": 0.9
+  },
+  {
+    "name": "Beach Treat",
+    "rarity": 1.3
+  },
+  {
+    "name": "Berry Swirl",
+    "rarity": 1.3
+  },
+  {
+    "name": "Budding",
+    "rarity": 1.3
+  },
+  {
+    "name": "Candy Carrot",
+    "rarity": 1.3
+  },
+  {
+    "name": "Choco Cherry",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cinematic",
+    "rarity": 1.3
+  },
+  {
+    "name": "Citrus Fresh",
+    "rarity": 1.3
+  },
+  {
+    "name": "Color Swap",
+    "rarity": 1.3
+  },
+  {
+    "name": "Dark Side",
+    "rarity": 1.3
+  },
+  {
+    "name": "Expired",
+    "rarity": 1.3
+  },
+  {
+    "name": "Flower Sky",
+    "rarity": 1.3
+  },
+  {
+    "name": "Flytrap",
+    "rarity": 1.3
+  },
+  {
+    "name": "Glowing Pink",
+    "rarity": 1.3
+  },
+  {
+    "name": "Going Green",
+    "rarity": 1.3
+  },
+  {
+    "name": "Goldberry",
+    "rarity": 1.3
+  },
+  {
+    "name": "Grape Medley",
+    "rarity": 1.3
+  },
+  {
+    "name": "Green Goblin",
+    "rarity": 1.3
+  },
+  {
+    "name": "Green Mist",
+    "rarity": 1.3
+  },
+  {
+    "name": "Greenwich",
+    "rarity": 1.3
+  },
+  {
+    "name": "Inside Out",
+    "rarity": 1.3
+  },
+  {
+    "name": "Mint Coating",
+    "rarity": 1.3
+  },
+  {
+    "name": "Moving Mauve",
+    "rarity": 1.3
+  },
+  {
+    "name": "Neon Treat",
+    "rarity": 1.3
+  },
+  {
+    "name": "Nightfall",
+    "rarity": 1.3
+  },
+  {
+    "name": "Pacific",
+    "rarity": 1.3
+  },
+  {
+    "name": "Pink Clouds",
+    "rarity": 1.3
+  },
+  {
+    "name": "Purple Petal",
+    "rarity": 1.3
+  },
+  {
+    "name": "Rainbow Pop",
+    "rarity": 1.3
+  },
+  {
+    "name": "Red Berries",
+    "rarity": 1.3
+  },
+  {
+    "name": "Red Wheel",
+    "rarity": 1.3
+  },
+  {
+    "name": "Scary Movie",
+    "rarity": 1.3
+  },
+  {
+    "name": "Secret Citrus",
+    "rarity": 1.3
+  },
+  {
+    "name": "Sugar Buzz",
+    "rarity": 1.3
+  },
+  {
+    "name": "Summer Bliss",
+    "rarity": 1.3
+  },
+  {
+    "name": "Sunrays",
+    "rarity": 1.3
+  },
+  {
+    "name": "Umbrella Corp",
+    "rarity": 1.3
+  },
+  {
+    "name": "Vanilla Mint",
+    "rarity": 1.3
+  },
+  {
+    "name": "Verdant",
+    "rarity": 1.3
+  },
+  {
+    "name": "Watermelon",
+    "rarity": 1.3
+  },
+  {
+    "name": "Windmill",
+    "rarity": 1.3
+  }
+]

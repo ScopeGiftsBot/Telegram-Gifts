@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Berry Meadow",
+    "rarity": 0.3
+  },
+  {
+    "name": "Black Kitty",
+    "rarity": 0.3
+  },
+  {
+    "name": "Candles",
+    "rarity": 0.3
+  },
+  {
+    "name": "Crossbones",
+    "rarity": 0.3
+  },
+  {
+    "name": "Fireworks",
+    "rarity": 0.3
+  },
+  {
+    "name": "Hellfire",
+    "rarity": 0.3
+  },
+  {
+    "name": "Love Smoke",
+    "rarity": 0.3
+  },
+  {
+    "name": "Neon Sign",
+    "rarity": 0.3
+  },
+  {
+    "name": "Seashell",
+    "rarity": 0.3
+  },
+  {
+    "name": "Telegram",
+    "rarity": 0.3
+  },
+  {
+    "name": "Festive Pepe",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fluffy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Moon Cat",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mouse",
+    "rarity": 0.5
+  },
+  {
+    "name": "Snowman",
+    "rarity": 0.5
+  },
+  {
+    "name": "Spider Web",
+    "rarity": 0.5
+  },
+  {
+    "name": "Wonderland",
+    "rarity": 0.5
+  },
+  {
+    "name": "Candy Cane",
+    "rarity": 0.7
+  },
+  {
+    "name": "Gingerbread",
+    "rarity": 0.7
+  },
+  {
+    "name": "Holly Leaves",
+    "rarity": 0.7
+  },
+  {
+    "name": "Butterfly",
+    "rarity": 0.9
+  },
+  {
+    "name": "Halloween",
+    "rarity": 0.9
+  },
+  {
+    "name": "Happy Santa",
+    "rarity": 0.9
+  },
+  {
+    "name": "Heart Bell",
+    "rarity": 0.9
+  },
+  {
+    "name": "Ornament",
+    "rarity": 0.9
+  },
+  {
+    "name": "Winter Tea",
+    "rarity": 0.9
+  },
+  {
+    "name": "Golden Bough",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rowan Berry",
+    "rarity": 1.0
+  },
+  {
+    "name": "Aquamarine",
+    "rarity": 2.0
+  },
+  {
+    "name": "Barbie Core",
+    "rarity": 2.0
+  },
+  {
+    "name": "Berry Yogurt",
+    "rarity": 2.0
+  },
+  {
+    "name": "Blueberry",
+    "rarity": 2.0
+  },
+  {
+    "name": "Bubble Gum",
+    "rarity": 2.0
+  },
+  {
+    "name": "Celebration",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cheesecake",
+    "rarity": 2.0
+  },
+  {
+    "name": "Chocolate",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cold Night",
+    "rarity": 2.0
+  },
+  {
+    "name": "Coloring Book",
+    "rarity": 2.0
+  },
+  {
+    "name": "Comics",
+    "rarity": 2.0
+  },
+  {
+    "name": "Confetti",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cotton Candy",
+    "rarity": 2.0
+  },
+  {
+    "name": "Dragee",
+    "rarity": 2.0
+  },
+  {
+    "name": "Everbright",
+    "rarity": 2.0
+  },
+  {
+    "name": "Evergreen",
+    "rarity": 2.0
+  },
+  {
+    "name": "Festivity",
+    "rarity": 2.0
+  },
+  {
+    "name": "Flamingo",
+    "rarity": 2.0
+  },
+  {
+    "name": "Frosty",
+    "rarity": 2.0
+  },
+  {
+    "name": "Glimmer",
+    "rarity": 2.0
+  },
+  {
+    "name": "Grape",
+    "rarity": 2.0
+  },
+  {
+    "name": "Harmony",
+    "rarity": 2.0
+  },
+  {
+    "name": "Hearth",
+    "rarity": 2.0
+  },
+  {
+    "name": "Honey Dew",
+    "rarity": 2.0
+  },
+  {
+    "name": "Lemon Cake",
+    "rarity": 2.0
+  },
+  {
+    "name": "Mojito",
+    "rarity": 2.0
+  },
+  {
+    "name": "Mulled Wine",
+    "rarity": 2.0
+  },
+  {
+    "name": "Negative",
+    "rarity": 2.0
+  },
+  {
+    "name": "Night Bell",
+    "rarity": 2.0
+  },
+  {
+    "name": "Noel Twist",
+    "rarity": 2.0
+  },
+  {
+    "name": "Old Movie",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pine Bloom",
+    "rarity": 2.0
+  },
+  {
+    "name": "Princess Day",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pumpkin",
+    "rarity": 2.0
+  },
+  {
+    "name": "Raspberry",
+    "rarity": 2.0
+  },
+  {
+    "name": "Snowball",
+    "rarity": 2.0
+  },
+  {
+    "name": "Spirit",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sprinkles",
+    "rarity": 2.0
+  },
+  {
+    "name": "Starry Night",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sunny Bunny",
+    "rarity": 2.0
+  },
+  {
+    "name": "Tinsel",
+    "rarity": 2.0
+  },
+  {
+    "name": "Unicorn",
+    "rarity": 2.0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Claw Crane",
+    "rarity": 0.1
+  },
+  {
+    "name": "Jackbox",
+    "rarity": 0.1
+  },
+  {
+    "name": "Aquarium",
+    "rarity": 0.2
+  },
+  {
+    "name": "Balloons",
+    "rarity": 0.2
+  },
+  {
+    "name": "Gummy Worms",
+    "rarity": 0.2
+  },
+  {
+    "name": "Ice Cube",
+    "rarity": 0.2
+  },
+  {
+    "name": "Love Naga",
+    "rarity": 0.2
+  },
+  {
+    "name": "Snake Wok",
+    "rarity": 0.2
+  },
+  {
+    "name": "Bronze Award",
+    "rarity": 0.4
+  },
+  {
+    "name": "Cheese",
+    "rarity": 0.4
+  },
+  {
+    "name": "Furnace",
+    "rarity": 0.4
+  },
+  {
+    "name": "Gold Award",
+    "rarity": 0.4
+  },
+  {
+    "name": "Prison Cell",
+    "rarity": 0.4
+  },
+  {
+    "name": "Silver Award",
+    "rarity": 0.4
+  },
+  {
+    "name": "Bento",
+    "rarity": 0.6
+  },
+  {
+    "name": "Berry Box",
+    "rarity": 0.6
+  },
+  {
+    "name": "Birthday",
+    "rarity": 0.6
+  },
+  {
+    "name": "Burger",
+    "rarity": 0.6
+  },
+  {
+    "name": "Candy Bubble",
+    "rarity": 0.6
+  },
+  {
+    "name": "Donut Box",
+    "rarity": 0.6
+  },
+  {
+    "name": "Jelly Snake",
+    "rarity": 0.6
+  },
+  {
+    "name": "Pink Boa",
+    "rarity": 0.6
+  },
+  {
+    "name": "Pixel Cobra",
+    "rarity": 0.6
+  },
+  {
+    "name": "Poison Ivy",
+    "rarity": 0.6
+  },
+  {
+    "name": "Popcorn",
+    "rarity": 0.6
+  },
+  {
+    "name": "Santa Cobrus",
+    "rarity": 0.6
+  },
+  {
+    "name": "Shopping",
+    "rarity": 0.6
+  },
+  {
+    "name": "Best Hisses!",
+    "rarity": 0.8
+  },
+  {
+    "name": "Dream Big",
+    "rarity": 0.8
+  },
+  {
+    "name": "Fluorescent",
+    "rarity": 0.8
+  },
+  {
+    "name": "Fragile",
+    "rarity": 0.8
+  },
+  {
+    "name": "Green Spots",
+    "rarity": 0.8
+  },
+  {
+    "name": "Heart Box",
+    "rarity": 0.8
+  },
+  {
+    "name": "Neon Fang",
+    "rarity": 0.8
+  },
+  {
+    "name": "Shine Bright",
+    "rarity": 0.8
+  },
+  {
+    "name": "Double Joy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Golden Fang",
+    "rarity": 1.0
+  },
+  {
+    "name": "Honey Bee",
+    "rarity": 1.0
+  },
+  {
+    "name": "Love Nest",
+    "rarity": 1.0
+  },
+  {
+    "name": "Player 456",
+    "rarity": 1.0
+  },
+  {
+    "name": "Shamrock",
+    "rarity": 1.0
+  },
+  {
+    "name": "Choco Surprise",
+    "rarity": 1.5
+  },
+  {
+    "name": "Copper",
+    "rarity": 1.5
+  },
+  {
+    "name": "Elegance",
+    "rarity": 1.5
+  },
+  {
+    "name": "Interstellar",
+    "rarity": 1.5
+  },
+  {
+    "name": "Shimmer",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sketch",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lemonade",
+    "rarity": 2.0
+  },
+  {
+    "name": "Morning Fog",
+    "rarity": 2.0
+  },
+  {
+    "name": "Black Box",
+    "rarity": 3.0
+  },
+  {
+    "name": "Bluebell",
+    "rarity": 3.0
+  },
+  {
+    "name": "Buttercup",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cobra Noir",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cotton Candy",
+    "rarity": 3.0
+  },
+  {
+    "name": "Emerald",
+    "rarity": 3.0
+  },
+  {
+    "name": "Fantasy",
+    "rarity": 3.0
+  },
+  {
+    "name": "Fresh Mint",
+    "rarity": 3.0
+  },
+  {
+    "name": "Fuchsia",
+    "rarity": 3.0
+  },
+  {
+    "name": "Holly Jolly",
+    "rarity": 3.0
+  },
+  {
+    "name": "Meadow",
+    "rarity": 3.0
+  },
+  {
+    "name": "Pink Bloom",
+    "rarity": 3.0
+  },
+  {
+    "name": "Polka Dot",
+    "rarity": 3.0
+  },
+  {
+    "name": "Purple",
+    "rarity": 3.0
+  },
+  {
+    "name": "Raspberry",
+    "rarity": 3.0
+  },
+  {
+    "name": "Red Dash",
+    "rarity": 3.0
+  },
+  {
+    "name": "Red Ribbon",
+    "rarity": 3.0
+  },
+  {
+    "name": "Scarlet Gold",
+    "rarity": 3.0
+  },
+  {
+    "name": "Seashore",
+    "rarity": 3.0
+  },
+  {
+    "name": "Secret Santa",
+    "rarity": 3.0
+  },
+  {
+    "name": "Sunshine",
+    "rarity": 3.0
+  }
+]

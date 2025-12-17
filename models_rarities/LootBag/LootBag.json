@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Ardente",
+    "rarity": 0.5
+  },
+  {
+    "name": "Black Purrse",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bouquet",
+    "rarity": 0.5
+  },
+  {
+    "name": "Circus",
+    "rarity": 0.5
+  },
+  {
+    "name": "City Life",
+    "rarity": 0.5
+  },
+  {
+    "name": "Conductor",
+    "rarity": 0.5
+  },
+  {
+    "name": "Crypto Byte",
+    "rarity": 0.5
+  },
+  {
+    "name": "Crypto Punk",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fluorescent",
+    "rarity": 0.5
+  },
+  {
+    "name": "Glacier",
+    "rarity": 0.5
+  },
+  {
+    "name": "Instabag",
+    "rarity": 0.5
+  },
+  {
+    "name": "Liberty",
+    "rarity": 0.5
+  },
+  {
+    "name": "Lust Beat",
+    "rarity": 0.5
+  },
+  {
+    "name": "Miranda",
+    "rarity": 0.5
+  },
+  {
+    "name": "Money Bag",
+    "rarity": 0.5
+  },
+  {
+    "name": "Nightmare",
+    "rarity": 0.5
+  },
+  {
+    "name": "Panthera",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pendragon",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pepe Bag",
+    "rarity": 0.5
+  },
+  {
+    "name": "Poison Dart",
+    "rarity": 0.5
+  },
+  {
+    "name": "Priestly",
+    "rarity": 0.5
+  },
+  {
+    "name": "Riot Pack",
+    "rarity": 0.5
+  },
+  {
+    "name": "Scrooge",
+    "rarity": 0.5
+  },
+  {
+    "name": "Secret Toys",
+    "rarity": 0.5
+  },
+  {
+    "name": "Travel Bag",
+    "rarity": 0.5
+  },
+  {
+    "name": "Woof Pack",
+    "rarity": 0.5
+  },
+  {
+    "name": "Boulevard",
+    "rarity": 1.0
+  },
+  {
+    "name": "Contour",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dark Arches",
+    "rarity": 1.0
+  },
+  {
+    "name": "Faubourg",
+    "rarity": 1.0
+  },
+  {
+    "name": "Highway",
+    "rarity": 1.0
+  },
+  {
+    "name": "Metro Trench",
+    "rarity": 1.0
+  },
+  {
+    "name": "Night City",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pink Pulsar",
+    "rarity": 1.0
+  },
+  {
+    "name": "Road Trip",
+    "rarity": 1.0
+  },
+  {
+    "name": "Aero Swift",
+    "rarity": 1.5
+  },
+  {
+    "name": "Anemone",
+    "rarity": 1.5
+  },
+  {
+    "name": "Aqua Atoll",
+    "rarity": 1.5
+  },
+  {
+    "name": "Biscuit",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cherry Croc",
+    "rarity": 1.5
+  },
+  {
+    "name": "Courchevel",
+    "rarity": 1.5
+  },
+  {
+    "name": "Grizzly",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jade Serpent",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jaune Poussin",
+    "rarity": 1.5
+  },
+  {
+    "name": "Menthol",
+    "rarity": 1.5
+  },
+  {
+    "name": "Orange Croc",
+    "rarity": 1.5
+  },
+  {
+    "name": "Reptile Noir",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rose Tyrien",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rouge Royale",
+    "rarity": 1.5
+  },
+  {
+    "name": "Satin Beige",
+    "rarity": 1.5
+  },
+  {
+    "name": "Silver Gator",
+    "rarity": 1.5
+  },
+  {
+    "name": "Soft Suede",
+    "rarity": 1.5
+  },
+  {
+    "name": "Steel Agate",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sunrise Bands",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sunset Stripes",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tropical",
+    "rarity": 1.5
+  },
+  {
+    "name": "Verso Blue",
+    "rarity": 1.5
+  },
+  {
+    "name": "Vert d’Eau",
+    "rarity": 1.5
+  },
+  {
+    "name": "White Pony",
+    "rarity": 1.5
+  },
+  {
+    "name": "Academic",
+    "rarity": 2.0
+  },
+  {
+    "name": "Argylle",
+    "rarity": 2.0
+  },
+  {
+    "name": "Black Ascot",
+    "rarity": 2.0
+  },
+  {
+    "name": "Bleu Officier",
+    "rarity": 2.0
+  },
+  {
+    "name": "Burgun Bag",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cargo Citron",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cherry Red",
+    "rarity": 2.0
+  },
+  {
+    "name": "Chrome Clutch",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cortado",
+    "rarity": 2.0
+  },
+  {
+    "name": "Jaune Citrone",
+    "rarity": 2.0
+  },
+  {
+    "name": "Matte Mint",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ombre",
+    "rarity": 2.0
+  },
+  {
+    "name": "Potamus",
+    "rarity": 2.0
+  },
+  {
+    "name": "Racing Stripes",
+    "rarity": 2.0
+  },
+  {
+    "name": "Riviera",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sakura",
+    "rarity": 2.0
+  },
+  {
+    "name": "Studded Green",
+    "rarity": 2.0
+  },
+  {
+    "name": "Tangerine",
+    "rarity": 2.0
+  },
+  {
+    "name": "Tressage",
+    "rarity": 2.0
+  },
+  {
+    "name": "Vertigo",
+    "rarity": 2.0
+  },
+  {
+    "name": "Zip Pocket",
+    "rarity": 2.0
+  }
+]

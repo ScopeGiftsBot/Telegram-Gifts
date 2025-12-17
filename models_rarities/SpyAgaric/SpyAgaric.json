@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Amour Touch",
+    "rarity": 0.2
+  },
+  {
+    "name": "Blooming Cap",
+    "rarity": 0.2
+  },
+  {
+    "name": "Nosferatu",
+    "rarity": 0.2
+  },
+  {
+    "name": "Radiance",
+    "rarity": 0.2
+  },
+  {
+    "name": "Shrek Shroom",
+    "rarity": 0.2
+  },
+  {
+    "name": "Cloudy Night",
+    "rarity": 0.5
+  },
+  {
+    "name": "Die Agaric",
+    "rarity": 0.5
+  },
+  {
+    "name": "Emerald Trip",
+    "rarity": 0.5
+  },
+  {
+    "name": "Evil Eye",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ghost Jelly",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ice Cold",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mickey Cap",
+    "rarity": 0.5
+  },
+  {
+    "name": "Nitrous",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ocean Star",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pepe Mania",
+    "rarity": 0.5
+  },
+  {
+    "name": "Rainbow Glow",
+    "rarity": 0.5
+  },
+  {
+    "name": "RoboCap",
+    "rarity": 0.5
+  },
+  {
+    "name": "Royal Gold",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ruby Glow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Safari",
+    "rarity": 0.5
+  },
+  {
+    "name": "Savannah",
+    "rarity": 0.5
+  },
+  {
+    "name": "Square Cap",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sunset Glow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Zebra Cap",
+    "rarity": 0.5
+  },
+  {
+    "name": "Acid Trip",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bliss",
+    "rarity": 1.0
+  },
+  {
+    "name": "D’oh! Shroom",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hot Stuff",
+    "rarity": 1.0
+  },
+  {
+    "name": "Marshmallow",
+    "rarity": 1.0
+  },
+  {
+    "name": "Miner’s Bloom",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mirage",
+    "rarity": 1.0
+  },
+  {
+    "name": "Safari Glam",
+    "rarity": 1.0
+  },
+  {
+    "name": "Scaly Cap",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sunspot",
+    "rarity": 1.0
+  },
+  {
+    "name": "Teleshroom",
+    "rarity": 1.0
+  },
+  {
+    "name": "Tiger’s Eye",
+    "rarity": 1.0
+  },
+  {
+    "name": "Wizard Cap",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bag Pipe",
+    "rarity": 1.5
+  },
+  {
+    "name": "Copper Sea",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dalmatin",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dark Carnaval",
+    "rarity": 1.5
+  },
+  {
+    "name": "Golden Dust",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hypnotoad",
+    "rarity": 1.5
+  },
+  {
+    "name": "Kilt Cap",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lab Rat",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lime Pop",
+    "rarity": 1.5
+  },
+  {
+    "name": "Liquid Metal",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mercury Drops",
+    "rarity": 1.5
+  },
+  {
+    "name": "Milka",
+    "rarity": 1.5
+  },
+  {
+    "name": "Polka Dot",
+    "rarity": 1.5
+  },
+  {
+    "name": "Prime Day",
+    "rarity": 1.5
+  },
+  {
+    "name": "Prime Night",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red X",
+    "rarity": 1.5
+  },
+  {
+    "name": "Skin Cap",
+    "rarity": 1.5
+  },
+  {
+    "name": "Twister",
+    "rarity": 1.5
+  },
+  {
+    "name": "Wet Fungus",
+    "rarity": 1.5
+  },
+  {
+    "name": "Acidic",
+    "rarity": 2.0
+  },
+  {
+    "name": "Bleached",
+    "rarity": 2.0
+  },
+  {
+    "name": "Camo",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cheeto",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cherry Drop",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cloudy",
+    "rarity": 2.0
+  },
+  {
+    "name": "DuskBloom",
+    "rarity": 2.0
+  },
+  {
+    "name": "Fungal Dew",
+    "rarity": 2.0
+  },
+  {
+    "name": "Herbalist",
+    "rarity": 2.0
+  },
+  {
+    "name": "Lava Lamp",
+    "rarity": 2.0
+  },
+  {
+    "name": "Lemon Haze",
+    "rarity": 2.0
+  },
+  {
+    "name": "Limelight",
+    "rarity": 2.0
+  },
+  {
+    "name": "Merry Cap",
+    "rarity": 2.0
+  },
+  {
+    "name": "Monoshroom",
+    "rarity": 2.0
+  },
+  {
+    "name": "Mysctic",
+    "rarity": 2.0
+  },
+  {
+    "name": "Night Light",
+    "rarity": 2.0
+  },
+  {
+    "name": "Nighteye",
+    "rarity": 2.0
+  },
+  {
+    "name": "Periwinkle",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pinecap",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pink Neon",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pixie Cap",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sour Gummy",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sunburst",
+    "rarity": 2.0
+  },
+  {
+    "name": "Truffle Trip",
+    "rarity": 2.0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Bitcoin",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mission Uranus",
+    "rarity": 0.5
+  },
+  {
+    "name": "To The Moon",
+    "rarity": 0.5
+  },
+  {
+    "name": "Black Wing",
+    "rarity": 1.0
+  },
+  {
+    "name": "Gunship",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jewels",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mega Death",
+    "rarity": 1.0
+  },
+  {
+    "name": "Normandy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Nostromo",
+    "rarity": 1.0
+  },
+  {
+    "name": "Space Bot",
+    "rarity": 1.0
+  },
+  {
+    "name": "Space Veggie",
+    "rarity": 1.0
+  },
+  {
+    "name": "Telegram",
+    "rarity": 1.0
+  },
+  {
+    "name": "Chrome",
+    "rarity": 1.5
+  },
+  {
+    "name": "Knowledge",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pepelatz",
+    "rarity": 1.5
+  },
+  {
+    "name": "Planet Express",
+    "rarity": 1.5
+  },
+  {
+    "name": "Police Box",
+    "rarity": 1.5
+  },
+  {
+    "name": "Submarine",
+    "rarity": 1.5
+  },
+  {
+    "name": "Alien Pizza",
+    "rarity": 2.0
+  },
+  {
+    "name": "Baby Carrot",
+    "rarity": 2.0
+  },
+  {
+    "name": "Clever Bird",
+    "rarity": 2.0
+  },
+  {
+    "name": "Doomsday",
+    "rarity": 2.0
+  },
+  {
+    "name": "Fishing Cat",
+    "rarity": 2.0
+  },
+  {
+    "name": "Laika",
+    "rarity": 2.0
+  },
+  {
+    "name": "Little Journey",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pencil",
+    "rarity": 2.0
+  },
+  {
+    "name": "Squirrel",
+    "rarity": 2.0
+  },
+  {
+    "name": "Worm Gun",
+    "rarity": 2.0
+  },
+  {
+    "name": "Banana",
+    "rarity": 2.5
+  },
+  {
+    "name": "Cardboard",
+    "rarity": 2.5
+  },
+  {
+    "name": "Checkered",
+    "rarity": 2.5
+  },
+  {
+    "name": "First Step",
+    "rarity": 2.5
+  },
+  {
+    "name": "Flower Power",
+    "rarity": 2.5
+  },
+  {
+    "name": "Jet Bike",
+    "rarity": 2.5
+  },
+  {
+    "name": "Lava Lamp",
+    "rarity": 2.5
+  },
+  {
+    "name": "Malfunction",
+    "rarity": 2.5
+  },
+  {
+    "name": "Rocket Plush",
+    "rarity": 2.5
+  },
+  {
+    "name": "Silver Ride",
+    "rarity": 2.5
+  },
+  {
+    "name": "Soap Bubbles",
+    "rarity": 2.5
+  },
+  {
+    "name": "Astro Peach",
+    "rarity": 3.0
+  },
+  {
+    "name": "Fireworks",
+    "rarity": 3.0
+  },
+  {
+    "name": "Green Jelly",
+    "rarity": 3.0
+  },
+  {
+    "name": "Hornet",
+    "rarity": 3.0
+  },
+  {
+    "name": "Lollipop",
+    "rarity": 3.0
+  },
+  {
+    "name": "Neon Fuel",
+    "rarity": 3.0
+  },
+  {
+    "name": "Popsicle",
+    "rarity": 3.0
+  },
+  {
+    "name": "Ruby Sparkle",
+    "rarity": 3.0
+  },
+  {
+    "name": "Sky Ghost",
+    "rarity": 3.0
+  },
+  {
+    "name": "Unicorn",
+    "rarity": 3.0
+  },
+  {
+    "name": "Vintage Toy",
+    "rarity": 3.0
+  }
+]

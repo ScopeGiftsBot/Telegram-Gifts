@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Banana",
+    "rarity": 0.5
+  },
+  {
+    "name": "Blue Lagoon",
+    "rarity": 0.5
+  },
+  {
+    "name": "Blue Sky",
+    "rarity": 0.5
+  },
+  {
+    "name": "Boulevard",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cobalt",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cold Feet",
+    "rarity": 0.5
+  },
+  {
+    "name": "Emerald",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fading Flare",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fiery-Hot",
+    "rarity": 0.5
+  },
+  {
+    "name": "Giraffe",
+    "rarity": 0.5
+  },
+  {
+    "name": "Golden Sky",
+    "rarity": 0.5
+  },
+  {
+    "name": "Grape Cola",
+    "rarity": 0.5
+  },
+  {
+    "name": "Grenadine",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hobgoblin",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hot Shots",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jokester",
+    "rarity": 0.5
+  },
+  {
+    "name": "Leopard",
+    "rarity": 0.5
+  },
+  {
+    "name": "Makeup",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mango Tango",
+    "rarity": 0.5
+  },
+  {
+    "name": "Molten Gold",
+    "rarity": 0.5
+  },
+  {
+    "name": "Nebula",
+    "rarity": 0.5
+  },
+  {
+    "name": "Neon Police",
+    "rarity": 0.5
+  },
+  {
+    "name": "Nightmare",
+    "rarity": 0.5
+  },
+  {
+    "name": "Nominee",
+    "rarity": 0.5
+  },
+  {
+    "name": "Obsidian",
+    "rarity": 0.5
+  },
+  {
+    "name": "Patina",
+    "rarity": 0.5
+  },
+  {
+    "name": "Premiere",
+    "rarity": 0.5
+  },
+  {
+    "name": "Prestige",
+    "rarity": 0.5
+  },
+  {
+    "name": "Producer",
+    "rarity": 0.5
+  },
+  {
+    "name": "Radioactive",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Carpet",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Dream",
+    "rarity": 0.5
+  },
+  {
+    "name": "Regent",
+    "rarity": 0.5
+  },
+  {
+    "name": "Silver Screen",
+    "rarity": 0.5
+  },
+  {
+    "name": "Silver Zebra",
+    "rarity": 0.5
+  },
+  {
+    "name": "Solid Bronze",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sour Gummy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Spirulina",
+    "rarity": 0.5
+  },
+  {
+    "name": "Starlight",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sunset Idol",
+    "rarity": 0.5
+  },
+  {
+    "name": "Trailer",
+    "rarity": 0.5
+  },
+  {
+    "name": "Violet",
+    "rarity": 0.5
+  },
+  {
+    "name": "Woody Allen",
+    "rarity": 0.5
+  },
+  {
+    "name": "Zesty",
+    "rarity": 0.5
+  },
+  {
+    "name": "Amanita",
+    "rarity": 1.0
+  },
+  {
+    "name": "Android",
+    "rarity": 1.0
+  },
+  {
+    "name": "Ballerino",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blockbuster",
+    "rarity": 1.0
+  },
+  {
+    "name": "Brain Slug",
+    "rarity": 1.0
+  },
+  {
+    "name": "Catwoman",
+    "rarity": 1.0
+  },
+  {
+    "name": "Eye Candy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Finest Fish",
+    "rarity": 1.0
+  },
+  {
+    "name": "Gas Mask",
+    "rarity": 1.0
+  },
+  {
+    "name": "Khajiit",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mars Attacks",
+    "rarity": 1.0
+  },
+  {
+    "name": "Martian",
+    "rarity": 1.0
+  },
+  {
+    "name": "Moai Figure",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pumpkin",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rear End",
+    "rarity": 1.0
+  },
+  {
+    "name": "Skeleton",
+    "rarity": 1.0
+  },
+  {
+    "name": "Stuntman",
+    "rarity": 1.0
+  },
+  {
+    "name": "Astronaut",
+    "rarity": 1.5
+  },
+  {
+    "name": "Aztec God",
+    "rarity": 1.5
+  },
+  {
+    "name": "Best Comedy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Brainiac",
+    "rarity": 1.5
+  },
+  {
+    "name": "Caveman",
+    "rarity": 1.5
+  },
+  {
+    "name": "Chieftain",
+    "rarity": 1.5
+  },
+  {
+    "name": "Crusader",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cyclopes",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dark Knight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dark Side",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dracula",
+    "rarity": 1.5
+  },
+  {
+    "name": "Flexible",
+    "rarity": 1.5
+  },
+  {
+    "name": "Golfer",
+    "rarity": 1.5
+  },
+  {
+    "name": "Legionary",
+    "rarity": 1.5
+  },
+  {
+    "name": "Main Villain",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mummy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pharaoh",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pigeon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pink Guard",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pirate",
+    "rarity": 1.5
+  },
+  {
+    "name": "Poseidon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Robocop",
+    "rarity": 1.5
+  },
+  {
+    "name": "Santa Claus",
+    "rarity": 1.5
+  },
+  {
+    "name": "Scream",
+    "rarity": 1.5
+  },
+  {
+    "name": "Seraphim",
+    "rarity": 1.5
+  },
+  {
+    "name": "Speaker",
+    "rarity": 1.5
+  },
+  {
+    "name": "Spidey",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sprunki",
+    "rarity": 1.5
+  },
+  {
+    "name": "Static",
+    "rarity": 1.5
+  },
+  {
+    "name": "The Deep",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tribal Idol",
+    "rarity": 1.5
+  },
+  {
+    "name": "Undead",
+    "rarity": 1.5
+  },
+  {
+    "name": "Viking",
+    "rarity": 1.5
+  },
+  {
+    "name": "Welder",
+    "rarity": 1.5
+  },
+  {
+    "name": "Action Film",
+    "rarity": 2.0
+  },
+  {
+    "name": "Christmas",
+    "rarity": 2.0
+  },
+  {
+    "name": "Deep Freeze",
+    "rarity": 2.0
+  },
+  {
+    "name": "Electric",
+    "rarity": 2.0
+  },
+  {
+    "name": "Laser Scan",
+    "rarity": 2.0
+  }
+]

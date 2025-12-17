@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Billie Jean",
+    "rarity": 0.5
+  },
+  {
+    "name": "Puppet Master",
+    "rarity": 0.5
+  },
+  {
+    "name": "Free Elf",
+    "rarity": 1.0
+  },
+  {
+    "name": "Goldfinger",
+    "rarity": 1.0
+  },
+  {
+    "name": "Grandma",
+    "rarity": 1.0
+  },
+  {
+    "name": "Quest Item",
+    "rarity": 1.0
+  },
+  {
+    "name": "Gingerbread",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mad Scientist",
+    "rarity": 1.5
+  },
+  {
+    "name": "Monsters",
+    "rarity": 1.5
+  },
+  {
+    "name": "Moon Prism",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pepe Socks",
+    "rarity": 1.5
+  },
+  {
+    "name": "Radioactive",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ratatouille",
+    "rarity": 1.5
+  },
+  {
+    "name": "Space Merc",
+    "rarity": 1.5
+  },
+  {
+    "name": "Spike",
+    "rarity": 1.5
+  },
+  {
+    "name": "SquareSocks",
+    "rarity": 1.5
+  },
+  {
+    "name": "This Is Fine",
+    "rarity": 1.5
+  },
+  {
+    "name": "Trader",
+    "rarity": 1.5
+  },
+  {
+    "name": "Adventure",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ballerina",
+    "rarity": 2.0
+  },
+  {
+    "name": "Barry Allen",
+    "rarity": 2.0
+  },
+  {
+    "name": "Biohazard",
+    "rarity": 2.0
+  },
+  {
+    "name": "Brothers",
+    "rarity": 2.0
+  },
+  {
+    "name": "Dark Power",
+    "rarity": 2.0
+  },
+  {
+    "name": "Foundation",
+    "rarity": 2.0
+  },
+  {
+    "name": "Gunk Fight",
+    "rarity": 2.0
+  },
+  {
+    "name": "Hermes",
+    "rarity": 2.0
+  },
+  {
+    "name": "Patriot",
+    "rarity": 2.0
+  },
+  {
+    "name": "Peg Leg",
+    "rarity": 2.0
+  },
+  {
+    "name": "Rebel Spirit",
+    "rarity": 2.0
+  },
+  {
+    "name": "The Office",
+    "rarity": 2.0
+  },
+  {
+    "name": "Twin Peaks",
+    "rarity": 2.0
+  },
+  {
+    "name": "Alcatraz",
+    "rarity": 2.5
+  },
+  {
+    "name": "Bartender",
+    "rarity": 2.5
+  },
+  {
+    "name": "Black Panther",
+    "rarity": 2.5
+  },
+  {
+    "name": "Friend In Me",
+    "rarity": 2.5
+  },
+  {
+    "name": "Heavy Rain",
+    "rarity": 2.5
+  },
+  {
+    "name": "Shrunk",
+    "rarity": 2.5
+  },
+  {
+    "name": "Spider Web",
+    "rarity": 2.5
+  },
+  {
+    "name": "Sporty",
+    "rarity": 2.5
+  },
+  {
+    "name": "Stitches",
+    "rarity": 2.5
+  },
+  {
+    "name": "Towelie",
+    "rarity": 2.5
+  },
+  {
+    "name": "Ambition",
+    "rarity": 3.0
+  },
+  {
+    "name": "Courage",
+    "rarity": 3.0
+  },
+  {
+    "name": "Drumsticks",
+    "rarity": 3.0
+  },
+  {
+    "name": "Garfield",
+    "rarity": 3.0
+  },
+  {
+    "name": "Intellect",
+    "rarity": 3.0
+  },
+  {
+    "name": "Leopard",
+    "rarity": 3.0
+  },
+  {
+    "name": "Loyalty",
+    "rarity": 3.0
+  },
+  {
+    "name": "Passion",
+    "rarity": 3.0
+  }
+]

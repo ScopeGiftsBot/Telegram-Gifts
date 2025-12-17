@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Birthday",
+    "rarity": 0.2
+  },
+  {
+    "name": "Blue Depth",
+    "rarity": 0.2
+  },
+  {
+    "name": "Bonecake",
+    "rarity": 0.2
+  },
+  {
+    "name": "Candy Cane",
+    "rarity": 0.2
+  },
+  {
+    "name": "Cherry Kiss",
+    "rarity": 0.2
+  },
+  {
+    "name": "Fire Blast",
+    "rarity": 0.2
+  },
+  {
+    "name": "Frosty",
+    "rarity": 0.2
+  },
+  {
+    "name": "Interstellar",
+    "rarity": 0.2
+  },
+  {
+    "name": "Toxicake",
+    "rarity": 0.2
+  },
+  {
+    "name": "Volcano",
+    "rarity": 0.2
+  },
+  {
+    "name": "Berry Сrown",
+    "rarity": 0.5
+  },
+  {
+    "name": "Best Wishes",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cheesecake",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cherry Cake",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cream Pie",
+    "rarity": 0.5
+  },
+  {
+    "name": "Diamond",
+    "rarity": 0.5
+  },
+  {
+    "name": "Honey Cake",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ice Cream",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jelly Fantasy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jellycious",
+    "rarity": 0.5
+  },
+  {
+    "name": "Just A Slice",
+    "rarity": 0.5
+  },
+  {
+    "name": "Luigi Cake",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mario Cake",
+    "rarity": 0.5
+  },
+  {
+    "name": "Meadow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mistletoe",
+    "rarity": 0.5
+  },
+  {
+    "name": "Naughty",
+    "rarity": 0.5
+  },
+  {
+    "name": "Paradise",
+    "rarity": 0.5
+  },
+  {
+    "name": "Premium",
+    "rarity": 0.5
+  },
+  {
+    "name": "Rainbow Glow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Pearl",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Velvet",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sand Castle",
+    "rarity": 0.5
+  },
+  {
+    "name": "Starry Sky",
+    "rarity": 0.5
+  },
+  {
+    "name": "Strawberry",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sugar Bows",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sweet  Lilac",
+    "rarity": 0.5
+  },
+  {
+    "name": "Telegram",
+    "rarity": 0.5
+  },
+  {
+    "name": "Valentine",
+    "rarity": 0.5
+  },
+  {
+    "name": "Yours Only",
+    "rarity": 0.5
+  },
+  {
+    "name": "Candy Candle",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cocoa Cloud",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cotton Candy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Festive Mint",
+    "rarity": 1.0
+  },
+  {
+    "name": "Fondant Fancy",
+    "rarity": 1.0
+  },
+  {
+    "name": "It’s My Party",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jam Layer",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mickey Mousse",
+    "rarity": 1.0
+  },
+  {
+    "name": "Midsummer",
+    "rarity": 1.0
+  },
+  {
+    "name": "Noir Night",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pink Whirl",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pinkie Pie",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sprinkles",
+    "rarity": 1.0
+  },
+  {
+    "name": "Toffee",
+    "rarity": 1.0
+  },
+  {
+    "name": "Wishlist",
+    "rarity": 1.0
+  },
+  {
+    "name": "Сhoco Сhips",
+    "rarity": 1.0
+  },
+  {
+    "name": "Angel Cake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blush",
+    "rarity": 1.5
+  },
+  {
+    "name": "Candy Parade",
+    "rarity": 1.5
+  },
+  {
+    "name": "Caramel Joy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Carrot Cake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Choco Dream",
+    "rarity": 1.5
+  },
+  {
+    "name": "Choco Twist",
+    "rarity": 1.5
+  },
+  {
+    "name": "Chocolate",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cinnamon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cold Heaven",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cream Dream",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fantasy",
+    "rarity": 1.5
+  },
+  {
+    "name": "French Yogurt",
+    "rarity": 1.5
+  },
+  {
+    "name": "Frosted Mint",
+    "rarity": 1.5
+  },
+  {
+    "name": "Frosty Mocha",
+    "rarity": 1.5
+  },
+  {
+    "name": "Golden Hour",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lemon Mint",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lil Princess",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lilac Slice",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lilac Splash",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mellow Gold",
+    "rarity": 1.5
+  },
+  {
+    "name": "Meringue",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mint Kiss",
+    "rarity": 1.5
+  },
+  {
+    "name": "Nutty Joy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ocean Wave",
+    "rarity": 1.5
+  },
+  {
+    "name": "Opera Cake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pastel",
+    "rarity": 1.5
+  },
+  {
+    "name": "Peachy Bloom",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pink Velvet",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pistachio",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pistachio Sky",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pumpkin Pie",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Layer",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rosy Frost",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sponge Cake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Spring Bloom",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sugarstorm",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sunset",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sweet Bite",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sweet Dawn",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tender Peach",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tropical Mist",
+    "rarity": 1.5
+  },
+  {
+    "name": "Vanilla Sky",
+    "rarity": 1.5
+  },
+  {
+    "name": "Velvet Cocoa",
+    "rarity": 1.5
+  },
+  {
+    "name": "Сitrus Matcha",
+    "rarity": 1.5
+  }
+]

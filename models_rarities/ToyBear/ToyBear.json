@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Golden Cub",
+    "rarity": 0.4
+  },
+  {
+    "name": "Blueprint",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dark Knight",
+    "rarity": 0.5
+  },
+  {
+    "name": "Deadpool",
+    "rarity": 0.5
+  },
+  {
+    "name": "Diamond",
+    "rarity": 0.5
+  },
+  {
+    "name": "Lunaris",
+    "rarity": 0.5
+  },
+  {
+    "name": "Matrix",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ursa Major",
+    "rarity": 0.5
+  },
+  {
+    "name": "Chocolate",
+    "rarity": 0.8
+  },
+  {
+    "name": "Copper",
+    "rarity": 0.8
+  },
+  {
+    "name": "Dragon Ruby",
+    "rarity": 0.8
+  },
+  {
+    "name": "Lapis Lazuli",
+    "rarity": 0.8
+  },
+  {
+    "name": "Wall Street",
+    "rarity": 0.8
+  },
+  {
+    "name": "Angel",
+    "rarity": 1.0
+  },
+  {
+    "name": "Fazbear",
+    "rarity": 1.0
+  },
+  {
+    "name": "Kumamon",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pooh",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rilakkuma",
+    "rarity": 1.0
+  },
+  {
+    "name": "The Devil",
+    "rarity": 1.0
+  },
+  {
+    "name": "Tiger",
+    "rarity": 1.0
+  },
+  {
+    "name": "Winnie",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bearly Visible",
+    "rarity": 1.2
+  },
+  {
+    "name": "Bumblebear",
+    "rarity": 1.2
+  },
+  {
+    "name": "Checkmate",
+    "rarity": 1.2
+  },
+  {
+    "name": "Teddy-800",
+    "rarity": 1.2
+  },
+  {
+    "name": "Alter Ego",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cuddle",
+    "rarity": 1.3
+  },
+  {
+    "name": "Little Pepe",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tricolor",
+    "rarity": 1.3
+  },
+  {
+    "name": "Color Switch",
+    "rarity": 1.5
+  },
+  {
+    "name": "Contractor",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cowboy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cozy Boy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Froggo",
+    "rarity": 1.5
+  },
+  {
+    "name": "Graduate",
+    "rarity": 1.5
+  },
+  {
+    "name": "Los Muertos",
+    "rarity": 1.5
+  },
+  {
+    "name": "Macchiato",
+    "rarity": 1.5
+  },
+  {
+    "name": "Matroskin",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pajamas",
+    "rarity": 1.5
+  },
+  {
+    "name": "Panda",
+    "rarity": 1.5
+  },
+  {
+    "name": "Panda Cow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Polygon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Snowman",
+    "rarity": 1.5
+  },
+  {
+    "name": "Toady Bear",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tuxedo",
+    "rarity": 1.5
+  },
+  {
+    "name": "Watermelon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Wizard",
+    "rarity": 1.5
+  },
+  {
+    "name": "Zebra",
+    "rarity": 1.5
+  },
+  {
+    "name": "Nurse",
+    "rarity": 1.8
+  },
+  {
+    "name": "Blueberry",
+    "rarity": 2.0
+  },
+  {
+    "name": "Circus Bear",
+    "rarity": 2.0
+  },
+  {
+    "name": "Citrus",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cotton",
+    "rarity": 2.0
+  },
+  {
+    "name": "El Rojo",
+    "rarity": 2.0
+  },
+  {
+    "name": "Night Cub",
+    "rarity": 2.0
+  },
+  {
+    "name": "Noir Et Rose",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pink Doodle",
+    "rarity": 2.0
+  },
+  {
+    "name": "Polar Bear",
+    "rarity": 2.0
+  },
+  {
+    "name": "Purple Heart",
+    "rarity": 2.0
+  },
+  {
+    "name": "Skittles",
+    "rarity": 2.0
+  },
+  {
+    "name": "Viola Pansy",
+    "rarity": 2.0
+  },
+  {
+    "name": "Blue Dandy",
+    "rarity": 2.2
+  },
+  {
+    "name": "Carrot",
+    "rarity": 2.2
+  },
+  {
+    "name": "Cherry",
+    "rarity": 2.2
+  },
+  {
+    "name": "Coral Reef",
+    "rarity": 2.2
+  },
+  {
+    "name": "Malibu",
+    "rarity": 2.2
+  },
+  {
+    "name": "Peanut",
+    "rarity": 2.2
+  },
+  {
+    "name": "Pineapple",
+    "rarity": 2.2
+  },
+  {
+    "name": "Pink Cactus",
+    "rarity": 2.2
+  },
+  {
+    "name": "Red Velvet",
+    "rarity": 2.2
+  }
+]

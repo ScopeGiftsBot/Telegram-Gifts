@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Alchemy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Arctic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Arts Major",
+    "rarity": 0.5
+  },
+  {
+    "name": "Banished",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bat Swarm",
+    "rarity": 0.5
+  },
+  {
+    "name": "Black Magic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bouquet",
+    "rarity": 0.5
+  },
+  {
+    "name": "Candelabra",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cat Familiar",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cherub",
+    "rarity": 0.5
+  },
+  {
+    "name": "Christmas",
+    "rarity": 0.5
+  },
+  {
+    "name": "Circus",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cobweb",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cone of Cold",
+    "rarity": 0.5
+  },
+  {
+    "name": "Confetti",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cthulhu",
+    "rarity": 0.5
+  },
+  {
+    "name": "DJ Witch",
+    "rarity": 0.5
+  },
+  {
+    "name": "Daphnaie",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dark Side",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fae Touched",
+    "rarity": 0.5
+  },
+  {
+    "name": "Freyja",
+    "rarity": 0.5
+  },
+  {
+    "name": "Green Flag",
+    "rarity": 0.5
+  },
+  {
+    "name": "Halftone",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hat Shot",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hatroulette",
+    "rarity": 0.5
+  },
+  {
+    "name": "Holiday",
+    "rarity": 0.5
+  },
+  {
+    "name": "Illusion",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jumpscare",
+    "rarity": 0.5
+  },
+  {
+    "name": "Merlin",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mine Time",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mordor",
+    "rarity": 0.5
+  },
+  {
+    "name": "Necromancy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Obi-Wan",
+    "rarity": 0.5
+  },
+  {
+    "name": "Observer",
+    "rarity": 0.5
+  },
+  {
+    "name": "Patchwork",
+    "rarity": 0.5
+  },
+  {
+    "name": "Phantom",
+    "rarity": 0.5
+  },
+  {
+    "name": "Polka Dot",
+    "rarity": 0.5
+  },
+  {
+    "name": "Radagast",
+    "rarity": 0.5
+  },
+  {
+    "name": "Rainbow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Flag",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sneak Attack",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sorcière",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sorting Cat",
+    "rarity": 0.5
+  },
+  {
+    "name": "Spyglass",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sylvester",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ultraviolet",
+    "rarity": 0.5
+  },
+  {
+    "name": "Canvas",
+    "rarity": 1.0
+  },
+  {
+    "name": "Downtown",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hex Taxi",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hypnosis",
+    "rarity": 1.0
+  },
+  {
+    "name": "Nebula Mist",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pinstripe",
+    "rarity": 1.0
+  },
+  {
+    "name": "Striped",
+    "rarity": 1.0
+  },
+  {
+    "name": "Techno",
+    "rarity": 1.0
+  },
+  {
+    "name": "Aeromancy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Baba Yaga",
+    "rarity": 1.5
+  },
+  {
+    "name": "Beetroot",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blood Mage",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cat’s Grasp",
+    "rarity": 1.5
+  },
+  {
+    "name": "Classic",
+    "rarity": 1.5
+  },
+  {
+    "name": "Color Spray",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dragonfruit",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ectoplasm",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ember Touch",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ethereal",
+    "rarity": 1.5
+  },
+  {
+    "name": "Folklore",
+    "rarity": 1.5
+  },
+  {
+    "name": "Guava",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hallowed",
+    "rarity": 1.5
+  },
+  {
+    "name": "Harvest",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hobbit",
+    "rarity": 1.5
+  },
+  {
+    "name": "Incense",
+    "rarity": 1.5
+  },
+  {
+    "name": "Junk Mage",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lemon Aid",
+    "rarity": 1.5
+  },
+  {
+    "name": "Little Wizard",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lorendale",
+    "rarity": 1.5
+  },
+  {
+    "name": "Luminous",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mad Wizard",
+    "rarity": 1.5
+  },
+  {
+    "name": "Maleficar",
+    "rarity": 1.5
+  },
+  {
+    "name": "Manacost",
+    "rarity": 1.5
+  },
+  {
+    "name": "Martian Night",
+    "rarity": 1.5
+  },
+  {
+    "name": "Midnight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Morgana",
+    "rarity": 1.5
+  },
+  {
+    "name": "Morrigan",
+    "rarity": 1.5
+  },
+  {
+    "name": "Narnia",
+    "rarity": 1.5
+  },
+  {
+    "name": "Old Ochre",
+    "rarity": 1.5
+  },
+  {
+    "name": "Orchard",
+    "rarity": 1.5
+  },
+  {
+    "name": "Picasso",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pink Pixie",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pyromancy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sanctuary",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sand Cloak",
+    "rarity": 1.5
+  },
+  {
+    "name": "Seaside",
+    "rarity": 1.5
+  },
+  {
+    "name": "Smoke Veil",
+    "rarity": 1.5
+  },
+  {
+    "name": "Spellcaster",
+    "rarity": 1.5
+  },
+  {
+    "name": "Twilight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ube Tea",
+    "rarity": 1.5
+  },
+  {
+    "name": "Vintage",
+    "rarity": 1.5
+  },
+  {
+    "name": "Wild Magic",
+    "rarity": 1.5
+  },
+  {
+    "name": "Witch Hazel",
+    "rarity": 1.5
+  },
+  {
+    "name": "Young Witch",
+    "rarity": 1.5
+  }
+]

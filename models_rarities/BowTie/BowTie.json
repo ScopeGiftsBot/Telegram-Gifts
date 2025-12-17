@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Batwing",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cambridge",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dark Lord",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dracarys",
+    "rarity": 0.5
+  },
+  {
+    "name": "Farfalle",
+    "rarity": 0.5
+  },
+  {
+    "name": "Firefly",
+    "rarity": 0.5
+  },
+  {
+    "name": "Heritage",
+    "rarity": 0.5
+  },
+  {
+    "name": "Prism",
+    "rarity": 0.5
+  },
+  {
+    "name": "Singularity",
+    "rarity": 0.5
+  },
+  {
+    "name": "Tie Fighter",
+    "rarity": 0.5
+  },
+  {
+    "name": "Velvet Gold",
+    "rarity": 0.5
+  },
+  {
+    "name": "Baby Yoda",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bus Guys",
+    "rarity": 1.0
+  },
+  {
+    "name": "Chebu",
+    "rarity": 1.0
+  },
+  {
+    "name": "Doge Gem",
+    "rarity": 1.0
+  },
+  {
+    "name": "Durov’s Dog",
+    "rarity": 1.0
+  },
+  {
+    "name": "The Badger",
+    "rarity": 1.5
+  },
+  {
+    "name": "The Lion",
+    "rarity": 1.5
+  },
+  {
+    "name": "The Raven",
+    "rarity": 1.5
+  },
+  {
+    "name": "The Serpent",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tortuga",
+    "rarity": 1.5
+  },
+  {
+    "name": "Union Jack",
+    "rarity": 1.5
+  },
+  {
+    "name": "Vampire",
+    "rarity": 1.5
+  },
+  {
+    "name": "Creator",
+    "rarity": 2.0
+  },
+  {
+    "name": "Despicable",
+    "rarity": 2.0
+  },
+  {
+    "name": "Gamepad",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sailor Moon",
+    "rarity": 2.0
+  },
+  {
+    "name": "Spider Sense",
+    "rarity": 2.0
+  },
+  {
+    "name": "Utyan",
+    "rarity": 2.0
+  },
+  {
+    "name": "Blue Morpho",
+    "rarity": 2.5
+  },
+  {
+    "name": "Elephant",
+    "rarity": 2.5
+  },
+  {
+    "name": "Mistletoe",
+    "rarity": 2.5
+  },
+  {
+    "name": "Modern Art",
+    "rarity": 2.5
+  },
+  {
+    "name": "Mondrian",
+    "rarity": 2.5
+  },
+  {
+    "name": "Squid Tie",
+    "rarity": 2.5
+  },
+  {
+    "name": "Billiards",
+    "rarity": 3.0
+  },
+  {
+    "name": "Bumblebee",
+    "rarity": 3.0
+  },
+  {
+    "name": "Canada",
+    "rarity": 3.0
+  },
+  {
+    "name": "Dribble",
+    "rarity": 3.0
+  },
+  {
+    "name": "Football",
+    "rarity": 3.0
+  },
+  {
+    "name": "Irish Knot",
+    "rarity": 3.0
+  },
+  {
+    "name": "Ladybug",
+    "rarity": 3.0
+  },
+  {
+    "name": "Strawberry",
+    "rarity": 3.0
+  },
+  {
+    "name": "Volleyball",
+    "rarity": 3.0
+  },
+  {
+    "name": "Cherries",
+    "rarity": 3.5
+  },
+  {
+    "name": "Eggplants",
+    "rarity": 3.5
+  },
+  {
+    "name": "Cupid’s Bow",
+    "rarity": 4.0
+  },
+  {
+    "name": "Red Rose",
+    "rarity": 4.0
+  },
+  {
+    "name": "Bordeaux",
+    "rarity": 5.0
+  },
+  {
+    "name": "Classic",
+    "rarity": 5.0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Aubergines",
+    "rarity": 0.5
+  },
+  {
+    "name": "Roadworks",
+    "rarity": 0.5
+  },
+  {
+    "name": "Semki",
+    "rarity": 0.5
+  },
+  {
+    "name": "Clown Flowers",
+    "rarity": 1.0
+  },
+  {
+    "name": "Funeral",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jackpot",
+    "rarity": 1.0
+  },
+  {
+    "name": "Momo",
+    "rarity": 1.0
+  },
+  {
+    "name": "Shawarma",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sunflower Oil",
+    "rarity": 1.0
+  },
+  {
+    "name": "Vampire",
+    "rarity": 1.0
+  },
+  {
+    "name": "Van Gogh",
+    "rarity": 1.0
+  },
+  {
+    "name": "Boom Bloom",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dead Roses",
+    "rarity": 1.5
+  },
+  {
+    "name": "Duck Spa",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fast Food",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fireworks",
+    "rarity": 1.5
+  },
+  {
+    "name": "Moon Shrooms",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sea Shanty",
+    "rarity": 1.5
+  },
+  {
+    "name": "Teddy Luxe",
+    "rarity": 1.5
+  },
+  {
+    "name": "Venus Flytrap",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cinnabon",
+    "rarity": 2.0
+  },
+  {
+    "name": "Croissant",
+    "rarity": 2.0
+  },
+  {
+    "name": "Duty Free",
+    "rarity": 2.0
+  },
+  {
+    "name": "Forester",
+    "rarity": 2.0
+  },
+  {
+    "name": "Gummy Bears",
+    "rarity": 2.0
+  },
+  {
+    "name": "Viva Italia",
+    "rarity": 2.0
+  },
+  {
+    "name": "Zen Garden",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cinema",
+    "rarity": 2.5
+  },
+  {
+    "name": "Edelweiss",
+    "rarity": 2.5
+  },
+  {
+    "name": "Fresh Cash",
+    "rarity": 2.5
+  },
+  {
+    "name": "Halloween",
+    "rarity": 2.5
+  },
+  {
+    "name": "Lotus Pay",
+    "rarity": 2.5
+  },
+  {
+    "name": "Orchids",
+    "rarity": 2.5
+  },
+  {
+    "name": "Rose Diamond",
+    "rarity": 2.5
+  },
+  {
+    "name": "Sakura",
+    "rarity": 2.5
+  },
+  {
+    "name": "Salami Set",
+    "rarity": 2.5
+  },
+  {
+    "name": "Tangerine",
+    "rarity": 2.5
+  },
+  {
+    "name": "Temaki",
+    "rarity": 2.5
+  },
+  {
+    "name": "Waffle Cone",
+    "rarity": 2.5
+  },
+  {
+    "name": "Art Therapy",
+    "rarity": 3.0
+  },
+  {
+    "name": "Frankfurter",
+    "rarity": 3.0
+  },
+  {
+    "name": "Harvest",
+    "rarity": 3.0
+  },
+  {
+    "name": "Hollywood",
+    "rarity": 3.0
+  },
+  {
+    "name": "Lavender",
+    "rarity": 3.0
+  },
+  {
+    "name": "Payday",
+    "rarity": 3.0
+  },
+  {
+    "name": "Precious",
+    "rarity": 3.0
+  },
+  {
+    "name": "Provence",
+    "rarity": 3.0
+  },
+  {
+    "name": "Rich Lilac",
+    "rarity": 3.0
+  },
+  {
+    "name": "Rock Band",
+    "rarity": 3.0
+  },
+  {
+    "name": "Snake Den",
+    "rarity": 3.0
+  }
+]

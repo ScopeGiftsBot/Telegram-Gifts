@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Ring of Roots",
+    "rarity": 0.3
+  },
+  {
+    "name": "Asteroid",
+    "rarity": 0.4
+  },
+  {
+    "name": "Goldsmith",
+    "rarity": 0.4
+  },
+  {
+    "name": "Hourglass",
+    "rarity": 0.8
+  },
+  {
+    "name": "Neo Matrix",
+    "rarity": 0.8
+  },
+  {
+    "name": "Spatial Grid",
+    "rarity": 0.8
+  },
+  {
+    "name": "Fireball",
+    "rarity": 1.2
+  },
+  {
+    "name": "Highway",
+    "rarity": 1.2
+  },
+  {
+    "name": "Metal Forever",
+    "rarity": 1.2
+  },
+  {
+    "name": "Moon Dust",
+    "rarity": 1.2
+  },
+  {
+    "name": "Stratosphere",
+    "rarity": 1.2
+  },
+  {
+    "name": "Thunder Bolt",
+    "rarity": 1.2
+  },
+  {
+    "name": "Anaconda",
+    "rarity": 1.8
+  },
+  {
+    "name": "Cat Bed",
+    "rarity": 1.8
+  },
+  {
+    "name": "Cheese",
+    "rarity": 1.8
+  },
+  {
+    "name": "Duckling",
+    "rarity": 1.8
+  },
+  {
+    "name": "Froge Ring",
+    "rarity": 1.8
+  },
+  {
+    "name": "Golden Star",
+    "rarity": 1.8
+  },
+  {
+    "name": "Hamster Wheel",
+    "rarity": 1.8
+  },
+  {
+    "name": "Hot Wheel",
+    "rarity": 1.8
+  },
+  {
+    "name": "Kraken’s Grip",
+    "rarity": 1.8
+  },
+  {
+    "name": "Mouse Wheel",
+    "rarity": 1.8
+  },
+  {
+    "name": "Neon Pulse",
+    "rarity": 1.8
+  },
+  {
+    "name": "Pixel Loot",
+    "rarity": 1.8
+  },
+  {
+    "name": "Rainbow",
+    "rarity": 1.8
+  },
+  {
+    "name": "Soap Bubbles",
+    "rarity": 1.8
+  },
+  {
+    "name": "Space Inside",
+    "rarity": 1.8
+  },
+  {
+    "name": "Astro Silver",
+    "rarity": 2.1
+  },
+  {
+    "name": "Atomic Core",
+    "rarity": 2.1
+  },
+  {
+    "name": "Dalmatian",
+    "rarity": 2.1
+  },
+  {
+    "name": "Duo Vision",
+    "rarity": 2.1
+  },
+  {
+    "name": "Eclipse",
+    "rarity": 2.1
+  },
+  {
+    "name": "Ironwood",
+    "rarity": 2.1
+  },
+  {
+    "name": "Magic Runes",
+    "rarity": 2.1
+  },
+  {
+    "name": "Neo Tribe",
+    "rarity": 2.1
+  },
+  {
+    "name": "Rainbow Halo",
+    "rarity": 2.1
+  },
+  {
+    "name": "Runewood",
+    "rarity": 2.1
+  },
+  {
+    "name": "Solid Magma",
+    "rarity": 2.1
+  },
+  {
+    "name": "Tiger Amulet",
+    "rarity": 2.1
+  },
+  {
+    "name": "Zebra",
+    "rarity": 2.1
+  },
+  {
+    "name": "Black Hole",
+    "rarity": 3.5
+  },
+  {
+    "name": "Bloody Mary",
+    "rarity": 3.5
+  },
+  {
+    "name": "Frostband",
+    "rarity": 3.5
+  },
+  {
+    "name": "Leopard",
+    "rarity": 3.5
+  },
+  {
+    "name": "Lime Factory",
+    "rarity": 3.5
+  },
+  {
+    "name": "Line Art",
+    "rarity": 3.5
+  },
+  {
+    "name": "Love Whisper",
+    "rarity": 3.5
+  },
+  {
+    "name": "Miami Art",
+    "rarity": 3.5
+  },
+  {
+    "name": "Spectrum",
+    "rarity": 3.5
+  },
+  {
+    "name": "Yin Yang",
+    "rarity": 3.5
+  }
+]

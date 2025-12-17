@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Flowey",
+    "rarity": 0.1
+  },
+  {
+    "name": "Carnation",
+    "rarity": 0.2
+  },
+  {
+    "name": "Dog Flower",
+    "rarity": 0.2
+  },
+  {
+    "name": "Meower",
+    "rarity": 0.2
+  },
+  {
+    "name": "Sunflower",
+    "rarity": 0.2
+  },
+  {
+    "name": "Wilted",
+    "rarity": 0.2
+  },
+  {
+    "name": "Zap Aster",
+    "rarity": 0.2
+  },
+  {
+    "name": "Big Bang",
+    "rarity": 0.4
+  },
+  {
+    "name": "Blazing Dusk",
+    "rarity": 0.4
+  },
+  {
+    "name": "Bubblia",
+    "rarity": 0.4
+  },
+  {
+    "name": "Bull’s Eye",
+    "rarity": 0.4
+  },
+  {
+    "name": "Dark Neo",
+    "rarity": 0.4
+  },
+  {
+    "name": "Fire Bloom",
+    "rarity": 0.4
+  },
+  {
+    "name": "Heartbeat",
+    "rarity": 0.4
+  },
+  {
+    "name": "Icebound",
+    "rarity": 0.4
+  },
+  {
+    "name": "Loves Or Not",
+    "rarity": 0.4
+  },
+  {
+    "name": "Monsoon",
+    "rarity": 0.4
+  },
+  {
+    "name": "Pixel Bloom",
+    "rarity": 0.4
+  },
+  {
+    "name": "Sakura",
+    "rarity": 0.4
+  },
+  {
+    "name": "Shake It",
+    "rarity": 0.4
+  },
+  {
+    "name": "Snowdrop",
+    "rarity": 0.4
+  },
+  {
+    "name": "Venus Flytrap",
+    "rarity": 0.4
+  },
+  {
+    "name": "Myrtella",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jellybud",
+    "rarity": 0.6
+  },
+  {
+    "name": "Wildflower",
+    "rarity": 0.6
+  },
+  {
+    "name": "Glitch",
+    "rarity": 0.7
+  },
+  {
+    "name": "Luminosia",
+    "rarity": 0.7
+  },
+  {
+    "name": "Party Time",
+    "rarity": 0.7
+  },
+  {
+    "name": "Ping Blossom",
+    "rarity": 0.7
+  },
+  {
+    "name": "Pokerface",
+    "rarity": 0.7
+  },
+  {
+    "name": "Savanna",
+    "rarity": 0.7
+  },
+  {
+    "name": "Shimeria",
+    "rarity": 0.7
+  },
+  {
+    "name": "Spotty Leo",
+    "rarity": 0.7
+  },
+  {
+    "name": "Bronzula",
+    "rarity": 0.8
+  },
+  {
+    "name": "Dark Loader",
+    "rarity": 0.8
+  },
+  {
+    "name": "Goldensia",
+    "rarity": 0.8
+  },
+  {
+    "name": "Morning Sun",
+    "rarity": 0.8
+  },
+  {
+    "name": "Party Bloom",
+    "rarity": 0.8
+  },
+  {
+    "name": "Peony",
+    "rarity": 0.8
+  },
+  {
+    "name": "Plumeria",
+    "rarity": 0.8
+  },
+  {
+    "name": "Red Poppy",
+    "rarity": 0.8
+  },
+  {
+    "name": "Silveria",
+    "rarity": 0.8
+  },
+  {
+    "name": "White Peony",
+    "rarity": 0.8
+  },
+  {
+    "name": "Windy",
+    "rarity": 0.8
+  },
+  {
+    "name": "Yellow Poppy",
+    "rarity": 0.8
+  },
+  {
+    "name": "Aetheris",
+    "rarity": 1.1
+  },
+  {
+    "name": "Allamanda",
+    "rarity": 1.1
+  },
+  {
+    "name": "Brunnera",
+    "rarity": 1.1
+  },
+  {
+    "name": "Bumblebee",
+    "rarity": 1.1
+  },
+  {
+    "name": "Clivia",
+    "rarity": 1.1
+  },
+  {
+    "name": "Geranium",
+    "rarity": 1.1
+  },
+  {
+    "name": "Gerbera",
+    "rarity": 1.1
+  },
+  {
+    "name": "Hellebore",
+    "rarity": 1.1
+  },
+  {
+    "name": "Hydrangea",
+    "rarity": 1.1
+  },
+  {
+    "name": "Nightshade",
+    "rarity": 1.1
+  },
+  {
+    "name": "Petunia",
+    "rarity": 1.1
+  },
+  {
+    "name": "Anemone",
+    "rarity": 1.2
+  },
+  {
+    "name": "Dahlia",
+    "rarity": 1.2
+  },
+  {
+    "name": "Hollyhock",
+    "rarity": 1.2
+  },
+  {
+    "name": "Hybrid",
+    "rarity": 1.2
+  },
+  {
+    "name": "Lemon Queen",
+    "rarity": 1.2
+  },
+  {
+    "name": "Crimsonia",
+    "rarity": 1.3
+  },
+  {
+    "name": "Indigo",
+    "rarity": 1.3
+  },
+  {
+    "name": "Oxalis",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tropicana",
+    "rarity": 1.3
+  },
+  {
+    "name": "Aster",
+    "rarity": 1.5
+  },
+  {
+    "name": "Aubrieta",
+    "rarity": 1.5
+  },
+  {
+    "name": "Aurivelle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Azure",
+    "rarity": 1.5
+  },
+  {
+    "name": "Barbia",
+    "rarity": 1.5
+  },
+  {
+    "name": "Celestara",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cosmea",
+    "rarity": 1.5
+  },
+  {
+    "name": "Eclipsia",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fabulous",
+    "rarity": 1.5
+  },
+  {
+    "name": "False Bird",
+    "rarity": 1.5
+  },
+  {
+    "name": "Flameris",
+    "rarity": 1.5
+  },
+  {
+    "name": "Floravelle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Floraven",
+    "rarity": 1.5
+  },
+  {
+    "name": "Floris",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ghostia",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hawaii",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hibiscus",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lanceolata",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lunaris",
+    "rarity": 1.5
+  },
+  {
+    "name": "Marigold",
+    "rarity": 1.5
+  },
+  {
+    "name": "Meadowlyn",
+    "rarity": 1.5
+  },
+  {
+    "name": "Nectarium",
+    "rarity": 1.5
+  },
+  {
+    "name": "Noctivis",
+    "rarity": 1.5
+  },
+  {
+    "name": "Orchidra",
+    "rarity": 1.5
+  },
+  {
+    "name": "Peach Perfect",
+    "rarity": 1.5
+  },
+  {
+    "name": "Primrose",
+    "rarity": 1.5
+  },
+  {
+    "name": "Seraphina",
+    "rarity": 1.5
+  },
+  {
+    "name": "Solivine",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sylvaris",
+    "rarity": 1.5
+  },
+  {
+    "name": "Twilight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Vanilla",
+    "rarity": 1.5
+  },
+  {
+    "name": "Verdania",
+    "rarity": 1.5
+  },
+  {
+    "name": "Violet",
+    "rarity": 1.5
+  },
+  {
+    "name": "Violet Iris",
+    "rarity": 1.5
+  },
+  {
+    "name": "Zephyra",
+    "rarity": 1.5
+  }
+]

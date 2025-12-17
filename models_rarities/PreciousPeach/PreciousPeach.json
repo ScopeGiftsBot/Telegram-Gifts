@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Caramel Red",
+    "rarity": 0.2
+  },
+  {
+    "name": "Cherry Secret",
+    "rarity": 0.2
+  },
+  {
+    "name": "Shocking",
+    "rarity": 0.2
+  },
+  {
+    "name": "Smelting",
+    "rarity": 0.2
+  },
+  {
+    "name": "Spanked",
+    "rarity": 0.2
+  },
+  {
+    "name": "Angelic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Blizzard",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bubbling Blue",
+    "rarity": 0.5
+  },
+  {
+    "name": "Gleam Bite",
+    "rarity": 0.5
+  },
+  {
+    "name": "Impeached",
+    "rarity": 0.5
+  },
+  {
+    "name": "Saint Nickel",
+    "rarity": 0.5
+  },
+  {
+    "name": "Spoiled",
+    "rarity": 0.5
+  },
+  {
+    "name": "Xmas Lights",
+    "rarity": 0.5
+  },
+  {
+    "name": "999 Karat",
+    "rarity": 1.0
+  },
+  {
+    "name": "Airy Bright",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bumblebee",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cherry Season",
+    "rarity": 1.0
+  },
+  {
+    "name": "Crypto Orange",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cutout",
+    "rarity": 1.0
+  },
+  {
+    "name": "Glass Heart",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jelly Bubble",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jelly Stars",
+    "rarity": 1.0
+  },
+  {
+    "name": "Ladybug",
+    "rarity": 1.0
+  },
+  {
+    "name": "Morningstar",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mushroom",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pink Cupid",
+    "rarity": 1.0
+  },
+  {
+    "name": "Premium",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rich Green",
+    "rarity": 1.0
+  },
+  {
+    "name": "Smooch",
+    "rarity": 1.0
+  },
+  {
+    "name": "Tonfruit",
+    "rarity": 1.0
+  },
+  {
+    "name": "Yin Yang",
+    "rarity": 1.0
+  },
+  {
+    "name": "Berry Pit",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bismuth",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bright Amber",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bright Coral",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bronze",
+    "rarity": 1.5
+  },
+  {
+    "name": "Christmas",
+    "rarity": 1.5
+  },
+  {
+    "name": "Clear Sky",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cold Iron",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cozy Warmth",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cutie Pink",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dreamer",
+    "rarity": 1.5
+  },
+  {
+    "name": "Elegance",
+    "rarity": 1.5
+  },
+  {
+    "name": "Faded Silver",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fuzzy Lilac",
+    "rarity": 1.5
+  },
+  {
+    "name": "Glossy Pink",
+    "rarity": 1.5
+  },
+  {
+    "name": "Golden Shine",
+    "rarity": 1.5
+  },
+  {
+    "name": "Heirloom",
+    "rarity": 1.5
+  },
+  {
+    "name": "Honey Gold",
+    "rarity": 1.5
+  },
+  {
+    "name": "Iridescent",
+    "rarity": 1.5
+  },
+  {
+    "name": "Iron Blush",
+    "rarity": 1.5
+  },
+  {
+    "name": "Juicy Orange",
+    "rarity": 1.5
+  },
+  {
+    "name": "Juicy Tones",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lush Green",
+    "rarity": 1.5
+  },
+  {
+    "name": "Malachite",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mardi Gras",
+    "rarity": 1.5
+  },
+  {
+    "name": "Morning Haze",
+    "rarity": 1.5
+  },
+  {
+    "name": "Moss Posh",
+    "rarity": 1.5
+  },
+  {
+    "name": "Neo-Chrome",
+    "rarity": 1.5
+  },
+  {
+    "name": "Party-Ready",
+    "rarity": 1.5
+  },
+  {
+    "name": "Peach Black",
+    "rarity": 1.5
+  },
+  {
+    "name": "Polaris",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pure Peach",
+    "rarity": 1.5
+  },
+  {
+    "name": "Purple Glow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ripe Green",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ruby Red",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ruby Slice",
+    "rarity": 1.5
+  },
+  {
+    "name": "Smooth Touch",
+    "rarity": 1.5
+  },
+  {
+    "name": "Soap Bubble",
+    "rarity": 1.5
+  },
+  {
+    "name": "Stardust",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sunset",
+    "rarity": 1.5
+  },
+  {
+    "name": "Terra Firma",
+    "rarity": 1.5
+  },
+  {
+    "name": "Twilight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Glossy Finish",
+    "rarity": 2.0
+  },
+  {
+    "name": "Neptune",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ogre Green",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pyrite",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ripe Pink",
+    "rarity": 2.0
+  },
+  {
+    "name": "Rosegold",
+    "rarity": 2.0
+  },
+  {
+    "name": "Soft Sunset",
+    "rarity": 2.0
+  }
+]

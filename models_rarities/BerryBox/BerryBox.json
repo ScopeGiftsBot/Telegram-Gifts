@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Berrific",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bumberries",
+    "rarity": 0.5
+  },
+  {
+    "name": "Lady Bites",
+    "rarity": 0.5
+  },
+  {
+    "name": "Megabite",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sweet Kiss",
+    "rarity": 0.5
+  },
+  {
+    "name": "Anniversary",
+    "rarity": 1.0
+  },
+  {
+    "name": "Art Project",
+    "rarity": 1.0
+  },
+  {
+    "name": "Berryllium",
+    "rarity": 1.0
+  },
+  {
+    "name": "Canis Major",
+    "rarity": 1.0
+  },
+  {
+    "name": "Glitchberry",
+    "rarity": 1.0
+  },
+  {
+    "name": "Harlequin",
+    "rarity": 1.0
+  },
+  {
+    "name": "High Voltage",
+    "rarity": 1.0
+  },
+  {
+    "name": "Infrared",
+    "rarity": 1.0
+  },
+  {
+    "name": "Kawaii",
+    "rarity": 1.0
+  },
+  {
+    "name": "Lovely Bites",
+    "rarity": 1.0
+  },
+  {
+    "name": "Lovestorm",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mood Ring",
+    "rarity": 1.0
+  },
+  {
+    "name": "Natural",
+    "rarity": 1.0
+  },
+  {
+    "name": "Nature Box",
+    "rarity": 1.0
+  },
+  {
+    "name": "Noir",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sketchy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Spring",
+    "rarity": 1.0
+  },
+  {
+    "name": "Strobe",
+    "rarity": 1.0
+  },
+  {
+    "name": "Wedded",
+    "rarity": 1.0
+  },
+  {
+    "name": "Zomberry",
+    "rarity": 1.0
+  },
+  {
+    "name": "Alpha",
+    "rarity": 1.5
+  },
+  {
+    "name": "Anatomy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Atmosphere",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bowtied",
+    "rarity": 1.5
+  },
+  {
+    "name": "Clarity",
+    "rarity": 1.5
+  },
+  {
+    "name": "Comic Book",
+    "rarity": 1.5
+  },
+  {
+    "name": "Confetti",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cupid",
+    "rarity": 1.5
+  },
+  {
+    "name": "Extra Berry",
+    "rarity": 1.5
+  },
+  {
+    "name": "Frosty Icing",
+    "rarity": 1.5
+  },
+  {
+    "name": "Glimglam",
+    "rarity": 1.5
+  },
+  {
+    "name": "Gryffindor",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ice Diamond",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lemon Lime",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lovey Dovey",
+    "rarity": 1.5
+  },
+  {
+    "name": "Martian",
+    "rarity": 1.5
+  },
+  {
+    "name": "Milky Cows",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rawberry",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rose Gold",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sine Wave",
+    "rarity": 1.5
+  },
+  {
+    "name": "Starberry",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sweet Game",
+    "rarity": 1.5
+  },
+  {
+    "name": "Teeth Crush",
+    "rarity": 1.5
+  },
+  {
+    "name": "Tuxedo",
+    "rarity": 1.5
+  },
+  {
+    "name": "Unicorns",
+    "rarity": 1.5
+  },
+  {
+    "name": "Baubles",
+    "rarity": 2.0
+  },
+  {
+    "name": "Chillberry",
+    "rarity": 2.0
+  },
+  {
+    "name": "Eiffel 95",
+    "rarity": 2.0
+  },
+  {
+    "name": "Foraged",
+    "rarity": 2.0
+  },
+  {
+    "name": "Fresh",
+    "rarity": 2.0
+  },
+  {
+    "name": "Golden Dip",
+    "rarity": 2.0
+  },
+  {
+    "name": "Iridescent",
+    "rarity": 2.0
+  },
+  {
+    "name": "Luxury",
+    "rarity": 2.0
+  },
+  {
+    "name": "Magenta",
+    "rarity": 2.0
+  },
+  {
+    "name": "Manga",
+    "rarity": 2.0
+  },
+  {
+    "name": "Paparazzi",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pointilism",
+    "rarity": 2.0
+  },
+  {
+    "name": "Purple Ribbon",
+    "rarity": 2.0
+  },
+  {
+    "name": "RGBerry",
+    "rarity": 2.0
+  },
+  {
+    "name": "Rarity",
+    "rarity": 2.0
+  },
+  {
+    "name": "Refraction",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ribbons",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sweet Star",
+    "rarity": 2.0
+  },
+  {
+    "name": "Valentine",
+    "rarity": 2.0
+  },
+  {
+    "name": "White Cocoa",
+    "rarity": 2.0
+  }
+]

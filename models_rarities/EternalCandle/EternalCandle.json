@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Bubble Bath",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cherry Burn",
+    "rarity": 0.5
+  },
+  {
+    "name": "Healing Mist",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hot Cocoa",
+    "rarity": 0.5
+  },
+  {
+    "name": "Little Star",
+    "rarity": 0.5
+  },
+  {
+    "name": "Rare Jewels",
+    "rarity": 0.5
+  },
+  {
+    "name": "Satin Bow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sequin",
+    "rarity": 0.5
+  },
+  {
+    "name": "Snake Skin",
+    "rarity": 0.5
+  },
+  {
+    "name": "Wildflowers",
+    "rarity": 0.5
+  },
+  {
+    "name": "Baphomet",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cult Candle",
+    "rarity": 1.0
+  },
+  {
+    "name": "Floral Scent",
+    "rarity": 1.0
+  },
+  {
+    "name": "Gold Stars",
+    "rarity": 1.0
+  },
+  {
+    "name": "Gruyere",
+    "rarity": 1.0
+  },
+  {
+    "name": "Honeycomb",
+    "rarity": 1.0
+  },
+  {
+    "name": "Horoscope",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hot Kiss",
+    "rarity": 1.0
+  },
+  {
+    "name": "Iceberg",
+    "rarity": 1.0
+  },
+  {
+    "name": "Krakatoa",
+    "rarity": 1.0
+  },
+  {
+    "name": "Love Dreams",
+    "rarity": 1.0
+  },
+  {
+    "name": "Mirkwood",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pearl Clam",
+    "rarity": 1.0
+  },
+  {
+    "name": "Poison Ivy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Proposal",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rose Tea",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sacred Lotus",
+    "rarity": 1.0
+  },
+  {
+    "name": "Spring Bloom",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sugar Skull",
+    "rarity": 1.0
+  },
+  {
+    "name": "Tortuga",
+    "rarity": 1.0
+  },
+  {
+    "name": "Blue Beam",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blue Steel",
+    "rarity": 1.5
+  },
+  {
+    "name": "Bronze Rose",
+    "rarity": 1.5
+  },
+  {
+    "name": "Burnt Amber",
+    "rarity": 1.5
+  },
+  {
+    "name": "Candyman",
+    "rarity": 1.5
+  },
+  {
+    "name": "Carnation",
+    "rarity": 1.5
+  },
+  {
+    "name": "Citrus Burst",
+    "rarity": 1.5
+  },
+  {
+    "name": "Coastal Cove",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cool Metal",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cranberry",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dark Desire",
+    "rarity": 1.5
+  },
+  {
+    "name": "Deep Sea",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dreamscape",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ephemeral",
+    "rarity": 1.5
+  },
+  {
+    "name": "Evening Star",
+    "rarity": 1.5
+  },
+  {
+    "name": "First Dawn",
+    "rarity": 1.5
+  },
+  {
+    "name": "Frosted Glass",
+    "rarity": 1.5
+  },
+  {
+    "name": "Gradient Wax",
+    "rarity": 1.5
+  },
+  {
+    "name": "Half Moon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hot Emerald",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hydrangea",
+    "rarity": 1.5
+  },
+  {
+    "name": "Indiglow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jasmine",
+    "rarity": 1.5
+  },
+  {
+    "name": "Late Dusk",
+    "rarity": 1.5
+  },
+  {
+    "name": "Mermaid",
+    "rarity": 1.5
+  },
+  {
+    "name": "My Precious",
+    "rarity": 1.5
+  },
+  {
+    "name": "Neroli Noir",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pinstripe",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pop Art",
+    "rarity": 1.5
+  },
+  {
+    "name": "Purple Wave",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rainbow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Melter",
+    "rarity": 1.5
+  },
+  {
+    "name": "Saturated",
+    "rarity": 1.5
+  },
+  {
+    "name": "Serenity",
+    "rarity": 1.5
+  },
+  {
+    "name": "Silver Spark",
+    "rarity": 1.5
+  },
+  {
+    "name": "Spiced Apple",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sunrise",
+    "rarity": 1.5
+  },
+  {
+    "name": "Supernova",
+    "rarity": 1.5
+  },
+  {
+    "name": "Thick Honey",
+    "rarity": 1.5
+  },
+  {
+    "name": "Toxic Smoke",
+    "rarity": 1.5
+  },
+  {
+    "name": "Twilight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Two-Tone",
+    "rarity": 1.5
+  },
+  {
+    "name": "Unicorn",
+    "rarity": 1.5
+  },
+  {
+    "name": "Vanilla Oasis",
+    "rarity": 1.5
+  },
+  {
+    "name": "Warm Embrace",
+    "rarity": 1.5
+  },
+  {
+    "name": "White Ash",
+    "rarity": 1.5
+  },
+  {
+    "name": "Winter Mist",
+    "rarity": 1.5
+  },
+  {
+    "name": "Witch’s Candle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Wolfsbane",
+    "rarity": 1.5
+  },
+  {
+    "name": "Yellow Gold",
+    "rarity": 1.5
+  }
+]

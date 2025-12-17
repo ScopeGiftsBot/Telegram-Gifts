@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Glass Bloom",
+    "rarity": 0.2
+  },
+  {
+    "name": "Launchpad",
+    "rarity": 0.2
+  },
+  {
+    "name": "Radar",
+    "rarity": 0.2
+  },
+  {
+    "name": "Ribbit",
+    "rarity": 0.2
+  },
+  {
+    "name": "Star Prize",
+    "rarity": 0.2
+  },
+  {
+    "name": "Yule Bells",
+    "rarity": 0.2
+  },
+  {
+    "name": "Confection",
+    "rarity": 0.4
+  },
+  {
+    "name": "Deep Roots",
+    "rarity": 0.4
+  },
+  {
+    "name": "Fire and Ice",
+    "rarity": 0.4
+  },
+  {
+    "name": "Fractal",
+    "rarity": 0.4
+  },
+  {
+    "name": "Glitch",
+    "rarity": 0.4
+  },
+  {
+    "name": "LED Disco",
+    "rarity": 0.4
+  },
+  {
+    "name": "New Blooms",
+    "rarity": 0.4
+  },
+  {
+    "name": "Puppet",
+    "rarity": 0.4
+  },
+  {
+    "name": "Spinner",
+    "rarity": 0.4
+  },
+  {
+    "name": "Strawberry",
+    "rarity": 0.4
+  },
+  {
+    "name": "Topsoil",
+    "rarity": 0.4
+  },
+  {
+    "name": "Bubble Pop",
+    "rarity": 0.5
+  },
+  {
+    "name": "Buffering",
+    "rarity": 0.5
+  },
+  {
+    "name": "Conductive",
+    "rarity": 0.5
+  },
+  {
+    "name": "Dark Secret",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fish Bowl",
+    "rarity": 0.5
+  },
+  {
+    "name": "Galaxy",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ice Chime",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jam Jar",
+    "rarity": 0.5
+  },
+  {
+    "name": "Lipstick",
+    "rarity": 0.5
+  },
+  {
+    "name": "Melting",
+    "rarity": 0.5
+  },
+  {
+    "name": "Motion Blur",
+    "rarity": 0.5
+  },
+  {
+    "name": "Neon Light",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bellrog",
+    "rarity": 0.7
+  },
+  {
+    "name": "Bumblebell",
+    "rarity": 0.7
+  },
+  {
+    "name": "Color Shift",
+    "rarity": 0.7
+  },
+  {
+    "name": "Gingerbread",
+    "rarity": 0.7
+  },
+  {
+    "name": "Liquid Glass",
+    "rarity": 0.7
+  },
+  {
+    "name": "Red Sparkle",
+    "rarity": 0.7
+  },
+  {
+    "name": "Bell Hive",
+    "rarity": 0.9
+  },
+  {
+    "name": "Berry Bell",
+    "rarity": 0.9
+  },
+  {
+    "name": "Brick Wall",
+    "rarity": 0.9
+  },
+  {
+    "name": "Harlequin",
+    "rarity": 0.9
+  },
+  {
+    "name": "Jeweler",
+    "rarity": 0.9
+  },
+  {
+    "name": "Orchid Ring",
+    "rarity": 0.9
+  },
+  {
+    "name": "Polynesia",
+    "rarity": 0.9
+  },
+  {
+    "name": "Purple Horns",
+    "rarity": 0.9
+  },
+  {
+    "name": "Santa Hat",
+    "rarity": 0.9
+  },
+  {
+    "name": "Silver Bells",
+    "rarity": 0.9
+  },
+  {
+    "name": "Solid Gold",
+    "rarity": 0.9
+  },
+  {
+    "name": "Test Image",
+    "rarity": 0.9
+  },
+  {
+    "name": "Tulip Time",
+    "rarity": 0.9
+  },
+  {
+    "name": "Waffle Cone",
+    "rarity": 0.9
+  },
+  {
+    "name": "Classic Cane",
+    "rarity": 1.1
+  },
+  {
+    "name": "Elsa Bell",
+    "rarity": 1.1
+  },
+  {
+    "name": "Hypno Swirl",
+    "rarity": 1.1
+  },
+  {
+    "name": "Blue Ribbon",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cherry",
+    "rarity": 1.3
+  },
+  {
+    "name": "Golden Cane",
+    "rarity": 1.3
+  },
+  {
+    "name": "Lothlorien",
+    "rarity": 1.3
+  },
+  {
+    "name": "Magnet",
+    "rarity": 1.3
+  },
+  {
+    "name": "Peppermint",
+    "rarity": 1.3
+  },
+  {
+    "name": "Red Petals",
+    "rarity": 1.3
+  },
+  {
+    "name": "Scarlet Leaf",
+    "rarity": 1.3
+  },
+  {
+    "name": "Barbie",
+    "rarity": 1.4
+  },
+  {
+    "name": "Blue Chrome",
+    "rarity": 1.4
+  },
+  {
+    "name": "Copper Pink",
+    "rarity": 1.4
+  },
+  {
+    "name": "Crimson Steel",
+    "rarity": 1.4
+  },
+  {
+    "name": "Dusty Rose",
+    "rarity": 1.4
+  },
+  {
+    "name": "Inner Glow",
+    "rarity": 1.4
+  },
+  {
+    "name": "Jade Jingle",
+    "rarity": 1.4
+  },
+  {
+    "name": "Lichen",
+    "rarity": 1.4
+  },
+  {
+    "name": "Lilac Chime",
+    "rarity": 1.4
+  },
+  {
+    "name": "Nightshade",
+    "rarity": 1.4
+  },
+  {
+    "name": "Old Steel",
+    "rarity": 1.4
+  },
+  {
+    "name": "Pale Moss",
+    "rarity": 1.4
+  },
+  {
+    "name": "Pink Crystal",
+    "rarity": 1.4
+  },
+  {
+    "name": "Pink Pearl",
+    "rarity": 1.4
+  },
+  {
+    "name": "Purple Glass",
+    "rarity": 1.4
+  },
+  {
+    "name": "Purple Ring",
+    "rarity": 1.4
+  },
+  {
+    "name": "Rose Gold",
+    "rarity": 1.4
+  },
+  {
+    "name": "Saltwater",
+    "rarity": 1.4
+  },
+  {
+    "name": "Teal Rust",
+    "rarity": 1.4
+  },
+  {
+    "name": "Uranium",
+    "rarity": 1.4
+  },
+  {
+    "name": "Woodland",
+    "rarity": 1.4
+  },
+  {
+    "name": "Antique",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blue Shadows",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cast Bronze",
+    "rarity": 1.5
+  },
+  {
+    "name": "Citrus Bell",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cyber Glow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Gamer Color",
+    "rarity": 1.5
+  },
+  {
+    "name": "Glacier",
+    "rarity": 1.5
+  },
+  {
+    "name": "Heatwave",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lithograph",
+    "rarity": 1.5
+  },
+  {
+    "name": "Meadow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Monochrome",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pink Season",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pink Twilight",
+    "rarity": 1.5
+  },
+  {
+    "name": "Placeholder",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rainforest",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sagebrush",
+    "rarity": 1.5
+  },
+  {
+    "name": "Shiny Opal",
+    "rarity": 1.5
+  },
+  {
+    "name": "Soft Blush",
+    "rarity": 1.5
+  },
+  {
+    "name": "White Gold",
+    "rarity": 1.5
+  }
+]

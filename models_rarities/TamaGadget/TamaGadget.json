@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Alien Attack",
+    "rarity": 0.3
+  },
+  {
+    "name": "Birthday",
+    "rarity": 0.3
+  },
+  {
+    "name": "Diamond Ton",
+    "rarity": 0.3
+  },
+  {
+    "name": "Doom",
+    "rarity": 0.3
+  },
+  {
+    "name": "Egg Catch",
+    "rarity": 0.3
+  },
+  {
+    "name": "Furby",
+    "rarity": 0.3
+  },
+  {
+    "name": "Game Boy",
+    "rarity": 0.3
+  },
+  {
+    "name": "Heartbeat",
+    "rarity": 0.3
+  },
+  {
+    "name": "Lazy Egg",
+    "rarity": 0.3
+  },
+  {
+    "name": "Mecha Fight",
+    "rarity": 0.3
+  },
+  {
+    "name": "Nokia 3310",
+    "rarity": 0.3
+  },
+  {
+    "name": "Nyan Cat",
+    "rarity": 0.3
+  },
+  {
+    "name": "Pepe Feels",
+    "rarity": 0.3
+  },
+  {
+    "name": "Poo Byte",
+    "rarity": 0.3
+  },
+  {
+    "name": "Portal",
+    "rarity": 0.3
+  },
+  {
+    "name": "Puck Man",
+    "rarity": 0.3
+  },
+  {
+    "name": "R2D2",
+    "rarity": 0.3
+  },
+  {
+    "name": "Seraph",
+    "rarity": 0.3
+  },
+  {
+    "name": "The Demon",
+    "rarity": 0.3
+  },
+  {
+    "name": "Toxic Glitch",
+    "rarity": 0.3
+  },
+  {
+    "name": "Underdog",
+    "rarity": 0.3
+  },
+  {
+    "name": "Water Rings",
+    "rarity": 0.3
+  },
+  {
+    "name": "BMO",
+    "rarity": 0.5
+  },
+  {
+    "name": "Bunny Grid",
+    "rarity": 0.5
+  },
+  {
+    "name": "Classic Blue",
+    "rarity": 0.5
+  },
+  {
+    "name": "Funky Stitch",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mono Patch",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pastel Thread",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pixel Bunny",
+    "rarity": 0.5
+  },
+  {
+    "name": "Pixel Pink",
+    "rarity": 0.5
+  },
+  {
+    "name": "Stone Kitty",
+    "rarity": 0.5
+  },
+  {
+    "name": "Wooden Dog",
+    "rarity": 0.5
+  },
+  {
+    "name": "Yellow",
+    "rarity": 0.5
+  },
+  {
+    "name": "Health Wish",
+    "rarity": 0.8
+  },
+  {
+    "name": "Love Wish",
+    "rarity": 0.8
+  },
+  {
+    "name": "Lucky Wish",
+    "rarity": 0.8
+  },
+  {
+    "name": "Money Wish",
+    "rarity": 0.8
+  },
+  {
+    "name": "Wish Granted",
+    "rarity": 0.8
+  },
+  {
+    "name": "Dipsy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Error-Po",
+    "rarity": 1.0
+  },
+  {
+    "name": "Laa-Laa-Lag",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bondi Blue",
+    "rarity": 1.1
+  },
+  {
+    "name": "Crystal View",
+    "rarity": 1.1
+  },
+  {
+    "name": "Dalmatian",
+    "rarity": 1.1
+  },
+  {
+    "name": "Dino Egg",
+    "rarity": 1.1
+  },
+  {
+    "name": "Golden Sun",
+    "rarity": 1.1
+  },
+  {
+    "name": "Green Candy",
+    "rarity": 1.1
+  },
+  {
+    "name": "Holo Shell",
+    "rarity": 1.1
+  },
+  {
+    "name": "Icy Zebra",
+    "rarity": 1.1
+  },
+  {
+    "name": "Lime Chip",
+    "rarity": 1.1
+  },
+  {
+    "name": "Lush Stripe",
+    "rarity": 1.1
+  },
+  {
+    "name": "Neon Mirage",
+    "rarity": 1.1
+  },
+  {
+    "name": "Ruby Glaze",
+    "rarity": 1.1
+  },
+  {
+    "name": "Sapphire",
+    "rarity": 1.1
+  },
+  {
+    "name": "Shiny Pearl",
+    "rarity": 1.1
+  },
+  {
+    "name": "Spectrum",
+    "rarity": 1.1
+  },
+  {
+    "name": "Strawberry",
+    "rarity": 1.1
+  },
+  {
+    "name": "Tinky Winky",
+    "rarity": 1.1
+  },
+  {
+    "name": "Tropic Wave",
+    "rarity": 1.1
+  },
+  {
+    "name": "Wild Hunt",
+    "rarity": 1.1
+  },
+  {
+    "name": "Amber",
+    "rarity": 2.0
+  },
+  {
+    "name": "Argentum",
+    "rarity": 2.0
+  },
+  {
+    "name": "Bronze",
+    "rarity": 2.0
+  },
+  {
+    "name": "Candy Cane",
+    "rarity": 2.0
+  },
+  {
+    "name": "Cherry Milk",
+    "rarity": 2.0
+  },
+  {
+    "name": "Citrus Ice",
+    "rarity": 2.0
+  },
+  {
+    "name": "Clover",
+    "rarity": 2.0
+  },
+  {
+    "name": "Gold Rush",
+    "rarity": 2.0
+  },
+  {
+    "name": "Grape",
+    "rarity": 2.0
+  },
+  {
+    "name": "Grayscale",
+    "rarity": 2.0
+  },
+  {
+    "name": "Inferno",
+    "rarity": 2.0
+  },
+  {
+    "name": "Lavender",
+    "rarity": 2.0
+  },
+  {
+    "name": "Lime Shock",
+    "rarity": 2.0
+  },
+  {
+    "name": "Malachite",
+    "rarity": 2.0
+  },
+  {
+    "name": "Melon Pop",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ocean",
+    "rarity": 2.0
+  },
+  {
+    "name": "Orchid",
+    "rarity": 2.0
+  },
+  {
+    "name": "Peach",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pearl White",
+    "rarity": 2.0
+  },
+  {
+    "name": "Purple",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sakura",
+    "rarity": 2.0
+  },
+  {
+    "name": "Shadow",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sunrise",
+    "rarity": 2.0
+  },
+  {
+    "name": "Tangerine",
+    "rarity": 2.0
+  },
+  {
+    "name": "Twilight",
+    "rarity": 2.0
+  },
+  {
+    "name": "Verdant",
+    "rarity": 2.0
+  },
+  {
+    "name": "Vivid Sky",
+    "rarity": 2.0
+  },
+  {
+    "name": "Winter",
+    "rarity": 2.0
+  },
+  {
+    "name": "Yang",
+    "rarity": 2.0
+  },
+  {
+    "name": "Yin",
+    "rarity": 2.0
+  }
+]

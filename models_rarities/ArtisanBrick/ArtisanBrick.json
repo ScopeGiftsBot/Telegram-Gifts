@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Gold Bar",
+    "rarity": 0.5
+  },
+  {
+    "name": "Gold Block",
+    "rarity": 0.5
+  },
+  {
+    "name": "USBrick",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cash Roll",
+    "rarity": 1.0
+  },
+  {
+    "name": "Cherry Ruby",
+    "rarity": 1.0
+  },
+  {
+    "name": "Diamond",
+    "rarity": 1.0
+  },
+  {
+    "name": "Duck Bath",
+    "rarity": 1.0
+  },
+  {
+    "name": "El Dorado",
+    "rarity": 1.0
+  },
+  {
+    "name": "Fifth Element",
+    "rarity": 1.0
+  },
+  {
+    "name": "Gemstones",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jewelry Box",
+    "rarity": 1.0
+  },
+  {
+    "name": "Oriental",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pearl",
+    "rarity": 1.0
+  },
+  {
+    "name": "Treasure",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bomb Planted",
+    "rarity": 1.5
+  },
+  {
+    "name": "Brick 3310",
+    "rarity": 1.5
+  },
+  {
+    "name": "Cheesecake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Emerald",
+    "rarity": 1.5
+  },
+  {
+    "name": "Escher’s Cube",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fashion Bag",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fight Club",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ghost Trap",
+    "rarity": 1.5
+  },
+  {
+    "name": "Grand Piano",
+    "rarity": 1.5
+  },
+  {
+    "name": "Grass Block",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ice Mammoth",
+    "rarity": 1.5
+  },
+  {
+    "name": "Infinity Box",
+    "rarity": 1.5
+  },
+  {
+    "name": "Luggage",
+    "rarity": 1.5
+  },
+  {
+    "name": "Nuclear Waste",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pyramid",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Caviar",
+    "rarity": 1.5
+  },
+  {
+    "name": "Safe Box",
+    "rarity": 1.5
+  },
+  {
+    "name": "Scorpion",
+    "rarity": 1.5
+  },
+  {
+    "name": "Silver",
+    "rarity": 1.5
+  },
+  {
+    "name": "Switch",
+    "rarity": 1.5
+  },
+  {
+    "name": "TON Ledger",
+    "rarity": 1.5
+  },
+  {
+    "name": "Art Nouveau",
+    "rarity": 2.0
+  },
+  {
+    "name": "Buzzy Bee",
+    "rarity": 2.0
+  },
+  {
+    "name": "Chessboard",
+    "rarity": 2.0
+  },
+  {
+    "name": "Foosball",
+    "rarity": 2.0
+  },
+  {
+    "name": "Game Console",
+    "rarity": 2.0
+  },
+  {
+    "name": "Keyboard",
+    "rarity": 2.0
+  },
+  {
+    "name": "Mimic Chest",
+    "rarity": 2.0
+  },
+  {
+    "name": "Molten Core",
+    "rarity": 2.0
+  },
+  {
+    "name": "Oranges",
+    "rarity": 2.0
+  },
+  {
+    "name": "Poker Chips",
+    "rarity": 2.0
+  },
+  {
+    "name": "Pro Gamer",
+    "rarity": 2.0
+  },
+  {
+    "name": "Retro Player",
+    "rarity": 2.0
+  },
+  {
+    "name": "Sardines",
+    "rarity": 2.0
+  },
+  {
+    "name": "Toxic Ooze",
+    "rarity": 2.0
+  },
+  {
+    "name": "VHS Tape",
+    "rarity": 2.0
+  },
+  {
+    "name": "Watermelon",
+    "rarity": 2.0
+  },
+  {
+    "name": "Big Cubus",
+    "rarity": 2.5
+  },
+  {
+    "name": "Chocolate",
+    "rarity": 2.5
+  },
+  {
+    "name": "Delicate Wash",
+    "rarity": 2.5
+  },
+  {
+    "name": "Firestarter",
+    "rarity": 2.5
+  },
+  {
+    "name": "Floppa Plush",
+    "rarity": 2.5
+  },
+  {
+    "name": "Harlequin",
+    "rarity": 2.5
+  },
+  {
+    "name": "Concrete",
+    "rarity": 3.0
+  },
+  {
+    "name": "Domino",
+    "rarity": 3.0
+  },
+  {
+    "name": "Sandstone",
+    "rarity": 3.0
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Hellscape",
+    "rarity": 0.2
+  },
+  {
+    "name": "Jester Box",
+    "rarity": 0.2
+  },
+  {
+    "name": "Mind Blown",
+    "rarity": 0.2
+  },
+  {
+    "name": "Pepe Hop",
+    "rarity": 0.2
+  },
+  {
+    "name": "Thumbs Up",
+    "rarity": 0.2
+  },
+  {
+    "name": "Aquarium",
+    "rarity": 0.5
+  },
+  {
+    "name": "Beholder",
+    "rarity": 0.5
+  },
+  {
+    "name": "Comeback",
+    "rarity": 0.5
+  },
+  {
+    "name": "Confetti",
+    "rarity": 0.5
+  },
+  {
+    "name": "Evil Eye",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fire Breather",
+    "rarity": 0.5
+  },
+  {
+    "name": "Flirty",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ghost",
+    "rarity": 0.5
+  },
+  {
+    "name": "Harley-Bee",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hellfire",
+    "rarity": 0.5
+  },
+  {
+    "name": "Holidays",
+    "rarity": 0.5
+  },
+  {
+    "name": "Leprechaun",
+    "rarity": 0.5
+  },
+  {
+    "name": "Meowscarade",
+    "rarity": 0.5
+  },
+  {
+    "name": "Mystery Mask",
+    "rarity": 0.5
+  },
+  {
+    "name": "Take It Off",
+    "rarity": 0.5
+  },
+  {
+    "name": "Wanna Play?",
+    "rarity": 0.5
+  },
+  {
+    "name": "Witch’s Flame",
+    "rarity": 0.5
+  },
+  {
+    "name": "Сourt Jester",
+    "rarity": 0.5
+  },
+  {
+    "name": "Honk!",
+    "rarity": 0.7
+  },
+  {
+    "name": "Blue Jaguar",
+    "rarity": 0.8
+  },
+  {
+    "name": "Fable",
+    "rarity": 0.8
+  },
+  {
+    "name": "Gamer Clown",
+    "rarity": 0.8
+  },
+  {
+    "name": "Golden Boy",
+    "rarity": 0.8
+  },
+  {
+    "name": "Great Again",
+    "rarity": 0.8
+  },
+  {
+    "name": "Green Tassels",
+    "rarity": 0.8
+  },
+  {
+    "name": "Heartwarming",
+    "rarity": 0.8
+  },
+  {
+    "name": "King of Jokes",
+    "rarity": 0.8
+  },
+  {
+    "name": "Kitty Bells",
+    "rarity": 0.8
+  },
+  {
+    "name": "Leopard",
+    "rarity": 0.8
+  },
+  {
+    "name": "Lovely Twist",
+    "rarity": 0.8
+  },
+  {
+    "name": "Magic Trick",
+    "rarity": 0.8
+  },
+  {
+    "name": "Neon Night",
+    "rarity": 0.8
+  },
+  {
+    "name": "Neon White",
+    "rarity": 0.8
+  },
+  {
+    "name": "Ripe Banana",
+    "rarity": 0.8
+  },
+  {
+    "name": "Sparkler",
+    "rarity": 0.8
+  },
+  {
+    "name": "Spring Meadow",
+    "rarity": 0.8
+  },
+  {
+    "name": "Star Kissed",
+    "rarity": 0.8
+  },
+  {
+    "name": "Twinkle Boom",
+    "rarity": 0.8
+  },
+  {
+    "name": "Xmas Prank",
+    "rarity": 0.8
+  },
+  {
+    "name": "Comedian",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dashed Prank",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dotted Joke",
+    "rarity": 1.0
+  },
+  {
+    "name": "Funny Mood",
+    "rarity": 1.0
+  },
+  {
+    "name": "Lemon Spin",
+    "rarity": 1.0
+  },
+  {
+    "name": "Night Bounce",
+    "rarity": 1.0
+  },
+  {
+    "name": "Phosphorus",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pinky Circus",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pop Art",
+    "rarity": 1.0
+  },
+  {
+    "name": "Rainbow Joy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Twinkling Stars",
+    "rarity": 1.0
+  },
+  {
+    "name": "Arlequin",
+    "rarity": 1.3
+  },
+  {
+    "name": "Aurora",
+    "rarity": 1.3
+  },
+  {
+    "name": "Azure Joker",
+    "rarity": 1.3
+  },
+  {
+    "name": "Blue Buffoon",
+    "rarity": 1.3
+  },
+  {
+    "name": "Bumble Hat",
+    "rarity": 1.3
+  },
+  {
+    "name": "Carnival",
+    "rarity": 1.3
+  },
+  {
+    "name": "Carousel",
+    "rarity": 1.3
+  },
+  {
+    "name": "Comic",
+    "rarity": 1.3
+  },
+  {
+    "name": "Dagonet",
+    "rarity": 1.3
+  },
+  {
+    "name": "Forest Stream",
+    "rarity": 1.3
+  },
+  {
+    "name": "Froggy",
+    "rarity": 1.3
+  },
+  {
+    "name": "Funster",
+    "rarity": 1.3
+  },
+  {
+    "name": "Gecko",
+    "rarity": 1.3
+  },
+  {
+    "name": "Gingle Frost",
+    "rarity": 1.3
+  },
+  {
+    "name": "Harley Quinn",
+    "rarity": 1.3
+  },
+  {
+    "name": "Inverse",
+    "rarity": 1.3
+  },
+  {
+    "name": "Jungle Bells",
+    "rarity": 1.3
+  },
+  {
+    "name": "Madcap",
+    "rarity": 1.3
+  },
+  {
+    "name": "Moonlit",
+    "rarity": 1.3
+  },
+  {
+    "name": "Party Time",
+    "rarity": 1.3
+  },
+  {
+    "name": "Prankster",
+    "rarity": 1.3
+  },
+  {
+    "name": "Sandy Beach",
+    "rarity": 1.3
+  },
+  {
+    "name": "So Cute!",
+    "rarity": 1.3
+  },
+  {
+    "name": "Stardust",
+    "rarity": 1.3
+  },
+  {
+    "name": "Tropic Vibe",
+    "rarity": 1.3
+  },
+  {
+    "name": "Whimsy Bells",
+    "rarity": 1.3
+  },
+  {
+    "name": "Bleached",
+    "rarity": 1.5
+  },
+  {
+    "name": "Chuckle Crown",
+    "rarity": 1.5
+  },
+  {
+    "name": "Court Jester",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fancy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Hot Midday",
+    "rarity": 1.5
+  },
+  {
+    "name": "Jolly Orange",
+    "rarity": 1.5
+  },
+  {
+    "name": "Joy Dance",
+    "rarity": 1.5
+  },
+  {
+    "name": "Marshmallow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Motley Fool",
+    "rarity": 1.5
+  },
+  {
+    "name": "Party Drink",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pierrot",
+    "rarity": 1.5
+  },
+  {
+    "name": "Plum Swirl",
+    "rarity": 1.5
+  },
+  {
+    "name": "Rigoletto",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sketchy",
+    "rarity": 1.5
+  },
+  {
+    "name": "Sugar Dust",
+    "rarity": 1.5
+  },
+  {
+    "name": "Triboulet",
+    "rarity": 1.5
+  },
+  {
+    "name": "Trick Tones",
+    "rarity": 1.5
+  },
+  {
+    "name": "Trickster",
+    "rarity": 1.5
+  },
+  {
+    "name": "Witty Whisper",
+    "rarity": 1.5
+  }
+]

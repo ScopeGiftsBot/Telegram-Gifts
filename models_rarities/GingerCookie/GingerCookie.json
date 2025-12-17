@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Universe",
+    "rarity": 0.1
+  },
+  {
+    "name": "Brand New",
+    "rarity": 0.2
+  },
+  {
+    "name": "Frostbite",
+    "rarity": 0.2
+  },
+  {
+    "name": "Golden Boy",
+    "rarity": 0.2
+  },
+  {
+    "name": "Hello Cookie",
+    "rarity": 0.2
+  },
+  {
+    "name": "Pika Pika",
+    "rarity": 0.2
+  },
+  {
+    "name": "Platinum",
+    "rarity": 0.2
+  },
+  {
+    "name": "Pun-Cake",
+    "rarity": 0.2
+  },
+  {
+    "name": "Rose Gold",
+    "rarity": 0.2
+  },
+  {
+    "name": "Sugar Star",
+    "rarity": 0.2
+  },
+  {
+    "name": "Telegram",
+    "rarity": 0.2
+  },
+  {
+    "name": "Tied Up",
+    "rarity": 0.2
+  },
+  {
+    "name": "White Gold",
+    "rarity": 0.2
+  },
+  {
+    "name": "Beach Party",
+    "rarity": 0.3
+  },
+  {
+    "name": "Cookie Claus",
+    "rarity": 0.3
+  },
+  {
+    "name": "Dracula",
+    "rarity": 0.3
+  },
+  {
+    "name": "Headless",
+    "rarity": 0.3
+  },
+  {
+    "name": "Paprika",
+    "rarity": 0.3
+  },
+  {
+    "name": "Shortbread",
+    "rarity": 0.3
+  },
+  {
+    "name": "Sprinkles",
+    "rarity": 0.3
+  },
+  {
+    "name": "Adam",
+    "rarity": 0.6
+  },
+  {
+    "name": "Amaretto",
+    "rarity": 0.6
+  },
+  {
+    "name": "Black Beard",
+    "rarity": 0.6
+  },
+  {
+    "name": "Bone Appétit",
+    "rarity": 0.6
+  },
+  {
+    "name": "Bronze",
+    "rarity": 0.6
+  },
+  {
+    "name": "Cop Cake",
+    "rarity": 0.6
+  },
+  {
+    "name": "Eve",
+    "rarity": 0.6
+  },
+  {
+    "name": "Galleta",
+    "rarity": 0.6
+  },
+  {
+    "name": "Jolly Roger",
+    "rarity": 0.6
+  },
+  {
+    "name": "Le Biscuit",
+    "rarity": 0.6
+  },
+  {
+    "name": "Lebkuchen",
+    "rarity": 0.6
+  },
+  {
+    "name": "Pepe Pryanik",
+    "rarity": 0.6
+  },
+  {
+    "name": "Shanker",
+    "rarity": 0.6
+  },
+  {
+    "name": "Silver",
+    "rarity": 0.6
+  },
+  {
+    "name": "Berry Button",
+    "rarity": 0.7
+  },
+  {
+    "name": "Candy Cane",
+    "rarity": 0.7
+  },
+  {
+    "name": "Coffee Break",
+    "rarity": 0.7
+  },
+  {
+    "name": "Crunched",
+    "rarity": 0.7
+  },
+  {
+    "name": "Ginger Geek",
+    "rarity": 0.7
+  },
+  {
+    "name": "Hazel Bezel",
+    "rarity": 0.7
+  },
+  {
+    "name": "Melonius",
+    "rarity": 0.7
+  },
+  {
+    "name": "Santa Claus",
+    "rarity": 0.7
+  },
+  {
+    "name": "Herb Garden",
+    "rarity": 0.8
+  },
+  {
+    "name": "Red Scarf",
+    "rarity": 0.8
+  },
+  {
+    "name": "Reel Cookie",
+    "rarity": 0.8
+  },
+  {
+    "name": "Bavarian",
+    "rarity": 0.9
+  },
+  {
+    "name": "Choco Swirl",
+    "rarity": 0.9
+  },
+  {
+    "name": "Dandy Candy",
+    "rarity": 0.9
+  },
+  {
+    "name": "Lil Ginger",
+    "rarity": 0.9
+  },
+  {
+    "name": "Mint Fringe",
+    "rarity": 0.9
+  },
+  {
+    "name": "Sweetheart",
+    "rarity": 0.9
+  },
+  {
+    "name": "Cooking...",
+    "rarity": 1.1
+  },
+  {
+    "name": "Bio Glow",
+    "rarity": 1.2
+  },
+  {
+    "name": "Brownie",
+    "rarity": 1.2
+  },
+  {
+    "name": "Choco Glazed",
+    "rarity": 1.2
+  },
+  {
+    "name": "Cocoa Powder",
+    "rarity": 1.2
+  },
+  {
+    "name": "Dark Almond",
+    "rarity": 1.2
+  },
+  {
+    "name": "Madagascar",
+    "rarity": 1.2
+  },
+  {
+    "name": "Pink Molasses",
+    "rarity": 1.2
+  },
+  {
+    "name": "Raspberry",
+    "rarity": 1.2
+  },
+  {
+    "name": "Red Velvet",
+    "rarity": 1.2
+  },
+  {
+    "name": "Royal Sundae",
+    "rarity": 1.2
+  },
+  {
+    "name": "Toblerone",
+    "rarity": 1.2
+  },
+  {
+    "name": "Unicorn",
+    "rarity": 1.2
+  },
+  {
+    "name": "Eskimo",
+    "rarity": 1.3
+  },
+  {
+    "name": "Matrix",
+    "rarity": 1.4
+  },
+  {
+    "name": "Faint Blush",
+    "rarity": 1.5
+  },
+  {
+    "name": "Frosty",
+    "rarity": 1.5
+  },
+  {
+    "name": "Glowberry",
+    "rarity": 1.5
+  },
+  {
+    "name": "Johnny Ash",
+    "rarity": 1.5
+  },
+  {
+    "name": "Marshmallow",
+    "rarity": 1.5
+  },
+  {
+    "name": "Opposite",
+    "rarity": 1.5
+  },
+  {
+    "name": "Template",
+    "rarity": 1.5
+  },
+  {
+    "name": "Waffle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Banana Bread",
+    "rarity": 1.6
+  },
+  {
+    "name": "Cardamom",
+    "rarity": 1.6
+  },
+  {
+    "name": "Champagne",
+    "rarity": 1.6
+  },
+  {
+    "name": "Frozen Dough",
+    "rarity": 1.6
+  },
+  {
+    "name": "Gentleman",
+    "rarity": 1.6
+  },
+  {
+    "name": "Icing Sugar",
+    "rarity": 1.6
+  },
+  {
+    "name": "Moon Dust",
+    "rarity": 1.6
+  },
+  {
+    "name": "Periwinkle",
+    "rarity": 1.6
+  },
+  {
+    "name": "Bordeaux",
+    "rarity": 1.7
+  },
+  {
+    "name": "Candy Bar",
+    "rarity": 1.7
+  },
+  {
+    "name": "Cheesecake",
+    "rarity": 1.7
+  },
+  {
+    "name": "Cinnamon",
+    "rarity": 1.7
+  },
+  {
+    "name": "Ginger Grape",
+    "rarity": 1.7
+  },
+  {
+    "name": "Hulking",
+    "rarity": 1.7
+  },
+  {
+    "name": "Ice Latte",
+    "rarity": 1.7
+  },
+  {
+    "name": "Marzipan",
+    "rarity": 1.7
+  },
+  {
+    "name": "Mr. Biscuit",
+    "rarity": 1.7
+  },
+  {
+    "name": "Pistachio",
+    "rarity": 1.7
+  },
+  {
+    "name": "Rose Water",
+    "rarity": 1.7
+  },
+  {
+    "name": "Rubber Duck",
+    "rarity": 1.7
+  },
+  {
+    "name": "Snowman",
+    "rarity": 1.7
+  },
+  {
+    "name": "Strawberry",
+    "rarity": 1.7
+  },
+  {
+    "name": "Sunspot",
+    "rarity": 1.7
+  },
+  {
+    "name": "Toffee",
+    "rarity": 1.7
+  },
+  {
+    "name": "Truffle",
+    "rarity": 1.7
+  },
+  {
+    "name": "Vanilla",
+    "rarity": 1.7
+  }
+]

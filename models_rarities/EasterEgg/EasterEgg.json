@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Baby Chick",
+    "rarity": 0.5
+  },
+  {
+    "name": "Baby Turtle",
+    "rarity": 0.5
+  },
+  {
+    "name": "Choco Bunny",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cryptid",
+    "rarity": 0.5
+  },
+  {
+    "name": "Early Bird",
+    "rarity": 0.5
+  },
+  {
+    "name": "Easter Bunny",
+    "rarity": 0.5
+  },
+  {
+    "name": "Jurassic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Little Dino",
+    "rarity": 0.5
+  },
+  {
+    "name": "Little Doge",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Whelp",
+    "rarity": 0.5
+  },
+  {
+    "name": "Sea Turtle",
+    "rarity": 0.5
+  },
+  {
+    "name": "Unicorn",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cactus",
+    "rarity": 1.0
+  },
+  {
+    "name": "Chocolate",
+    "rarity": 1.0
+  },
+  {
+    "name": "Deep Freeze",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dogel Mogel",
+    "rarity": 1.0
+  },
+  {
+    "name": "Egghead",
+    "rarity": 1.0
+  },
+  {
+    "name": "Faberge",
+    "rarity": 1.0
+  },
+  {
+    "name": "Koshchei",
+    "rarity": 1.0
+  },
+  {
+    "name": "Meowling",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pastel Candy",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pearl",
+    "rarity": 1.0
+  },
+  {
+    "name": "Starry Gift",
+    "rarity": 1.0
+  },
+  {
+    "name": "Dragon",
+    "rarity": 1.5
+  },
+  {
+    "name": "Eggmoji",
+    "rarity": 1.5
+  },
+  {
+    "name": "Foliage",
+    "rarity": 1.5
+  },
+  {
+    "name": "Ice Cream",
+    "rarity": 1.5
+  },
+  {
+    "name": "Pure Gold",
+    "rarity": 1.5
+  },
+  {
+    "name": "Stained Glass",
+    "rarity": 1.5
+  },
+  {
+    "name": "Treasure Map",
+    "rarity": 1.5
+  },
+  {
+    "name": "Boiled Pepe",
+    "rarity": 2.0
+  },
+  {
+    "name": "Chicken",
+    "rarity": 2.0
+  },
+  {
+    "name": "Creeper",
+    "rarity": 2.0
+  },
+  {
+    "name": "Eggburger",
+    "rarity": 2.0
+  },
+  {
+    "name": "Eggsecutive",
+    "rarity": 2.0
+  },
+  {
+    "name": "Fine Silver",
+    "rarity": 2.0
+  },
+  {
+    "name": "Fish Pod",
+    "rarity": 2.0
+  },
+  {
+    "name": "Free Flight",
+    "rarity": 2.0
+  },
+  {
+    "name": "Jupiter",
+    "rarity": 2.0
+  },
+  {
+    "name": "Ladybird",
+    "rarity": 2.0
+  },
+  {
+    "name": "Magic Key",
+    "rarity": 2.0
+  },
+  {
+    "name": "OS Shell",
+    "rarity": 2.0
+  },
+  {
+    "name": "Omeletron",
+    "rarity": 2.0
+  },
+  {
+    "name": "Scrambull",
+    "rarity": 2.0
+  },
+  {
+    "name": "Stamper",
+    "rarity": 2.0
+  },
+  {
+    "name": "3D Render",
+    "rarity": 2.5
+  },
+  {
+    "name": "Ball of Steel",
+    "rarity": 2.5
+  },
+  {
+    "name": "Brick Wall",
+    "rarity": 2.5
+  },
+  {
+    "name": "Bronze",
+    "rarity": 2.5
+  },
+  {
+    "name": "Crown Prince",
+    "rarity": 2.5
+  },
+  {
+    "name": "Flower Bed",
+    "rarity": 2.5
+  },
+  {
+    "name": "Flowers",
+    "rarity": 2.5
+  },
+  {
+    "name": "Frosted",
+    "rarity": 2.5
+  },
+  {
+    "name": "Gzhel",
+    "rarity": 2.5
+  },
+  {
+    "name": "Khokhloma",
+    "rarity": 2.5
+  },
+  {
+    "name": "Matryoshka",
+    "rarity": 2.5
+  },
+  {
+    "name": "Meadow",
+    "rarity": 2.5
+  },
+  {
+    "name": "Moon Watch",
+    "rarity": 2.5
+  },
+  {
+    "name": "Mr. Benedict",
+    "rarity": 2.5
+  },
+  {
+    "name": "Porcelain",
+    "rarity": 2.5
+  },
+  {
+    "name": "Protein Lamp",
+    "rarity": 2.5
+  },
+  {
+    "name": "Purple Bird",
+    "rarity": 2.5
+  }
+]

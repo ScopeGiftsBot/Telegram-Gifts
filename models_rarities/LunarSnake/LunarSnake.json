@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Dragon Ball",
+    "rarity": 0.3
+  },
+  {
+    "name": "Gen Zmei",
+    "rarity": 0.3
+  },
+  {
+    "name": "Hot Cherry",
+    "rarity": 0.3
+  },
+  {
+    "name": "Synthwave",
+    "rarity": 0.3
+  },
+  {
+    "name": "Angelic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Cryoshard",
+    "rarity": 0.5
+  },
+  {
+    "name": "Diamondback",
+    "rarity": 0.5
+  },
+  {
+    "name": "Ender Snake",
+    "rarity": 0.5
+  },
+  {
+    "name": "Fire Dragon",
+    "rarity": 0.5
+  },
+  {
+    "name": "Geodesic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Gold Quartz",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hellspawn",
+    "rarity": 0.5
+  },
+  {
+    "name": "Hydra",
+    "rarity": 0.5
+  },
+  {
+    "name": "Lapis",
+    "rarity": 0.5
+  },
+  {
+    "name": "Lunar Year",
+    "rarity": 0.5
+  },
+  {
+    "name": "Prismatic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Psychedelic",
+    "rarity": 0.5
+  },
+  {
+    "name": "Red Amethyst",
+    "rarity": 0.5
+  },
+  {
+    "name": "Redstone",
+    "rarity": 0.5
+  },
+  {
+    "name": "Rorschach",
+    "rarity": 0.5
+  },
+  {
+    "name": "Snake Game",
+    "rarity": 0.5
+  },
+  {
+    "name": "Soul Eater",
+    "rarity": 0.5
+  },
+  {
+    "name": "Timelock",
+    "rarity": 0.5
+  },
+  {
+    "name": "Xenomorph",
+    "rarity": 0.5
+  },
+  {
+    "name": "Adhesive",
+    "rarity": 0.8
+  },
+  {
+    "name": "Candy Stripe",
+    "rarity": 0.8
+  },
+  {
+    "name": "Cyber Ruby",
+    "rarity": 0.8
+  },
+  {
+    "name": "Fromage",
+    "rarity": 0.8
+  },
+  {
+    "name": "Frosting",
+    "rarity": 0.8
+  },
+  {
+    "name": "Gold Rush",
+    "rarity": 0.8
+  },
+  {
+    "name": "Golden Bleu",
+    "rarity": 0.8
+  },
+  {
+    "name": "Hong Kong",
+    "rarity": 0.8
+  },
+  {
+    "name": "Iron Mine",
+    "rarity": 0.8
+  },
+  {
+    "name": "Mandarin",
+    "rarity": 0.8
+  },
+  {
+    "name": "Night Market",
+    "rarity": 0.8
+  },
+  {
+    "name": "Poisonous",
+    "rarity": 0.8
+  },
+  {
+    "name": "Python Dev",
+    "rarity": 0.8
+  },
+  {
+    "name": "Red Cheddar",
+    "rarity": 0.8
+  },
+  {
+    "name": "Straciatella",
+    "rarity": 0.8
+  },
+  {
+    "name": "Taipei",
+    "rarity": 0.8
+  },
+  {
+    "name": "The Deadliest",
+    "rarity": 0.8
+  },
+  {
+    "name": "Tropicool",
+    "rarity": 0.8
+  },
+  {
+    "name": "Venomous",
+    "rarity": 0.8
+  },
+  {
+    "name": "Arctic Viper",
+    "rarity": 1.0
+  },
+  {
+    "name": "Bear Paw",
+    "rarity": 1.0
+  },
+  {
+    "name": "Glowbra",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hissmas Tree",
+    "rarity": 1.0
+  },
+  {
+    "name": "Hisstagram",
+    "rarity": 1.0
+  },
+  {
+    "name": "Jelly Hazard",
+    "rarity": 1.0
+  },
+  {
+    "name": "Neurotoxin",
+    "rarity": 1.0
+  },
+  {
+    "name": "Pearl Scales",
+    "rarity": 1.0
+  },
+  {
+    "name": "Polarized",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sea Snake",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sun Serpent",
+    "rarity": 1.0
+  },
+  {
+    "name": "Sunset Snake",
+    "rarity": 1.0
+  },
+  {
+    "name": "Wood Snake",
+    "rarity": 1.0
+  },
+  {
+    "name": "Amber Adder",
+    "rarity": 1.3
+  },
+  {
+    "name": "Amethyssst",
+    "rarity": 1.3
+  },
+  {
+    "name": "Aurium",
+    "rarity": 1.3
+  },
+  {
+    "name": "Banded Boa",
+    "rarity": 1.3
+  },
+  {
+    "name": "Blue Horizon",
+    "rarity": 1.3
+  },
+  {
+    "name": "Caustic Moss",
+    "rarity": 1.3
+  },
+  {
+    "name": "Cherry Glitch",
+    "rarity": 1.3
+  },
+  {
+    "name": "Crimson Jade",
+    "rarity": 1.3
+  },
+  {
+    "name": "Frost Fangs",
+    "rarity": 1.3
+  },
+  {
+    "name": "Golden Coal",
+    "rarity": 1.3
+  },
+  {
+    "name": "Golden Sky",
+    "rarity": 1.3
+  },
+  {
+    "name": "Gulal",
+    "rarity": 1.3
+  },
+  {
+    "name": "Hissium",
+    "rarity": 1.3
+  },
+  {
+    "name": "Jade Serpent",
+    "rarity": 1.3
+  },
+  {
+    "name": "Kinder Garter",
+    "rarity": 1.3
+  },
+  {
+    "name": "Orange Rocks",
+    "rarity": 1.3
+  },
+  {
+    "name": "Pink Venom",
+    "rarity": 1.3
+  },
+  {
+    "name": "Purple Cap",
+    "rarity": 1.3
+  },
+  {
+    "name": "Purple Laser",
+    "rarity": 1.3
+  },
+  {
+    "name": "Rainbow Scale",
+    "rarity": 1.3
+  },
+  {
+    "name": "Rosepepper",
+    "rarity": 1.3
+  },
+  {
+    "name": "Sandrift",
+    "rarity": 1.3
+  },
+  {
+    "name": "Spring Burst",
+    "rarity": 1.3
+  },
+  {
+    "name": "Stone Python",
+    "rarity": 1.3
+  },
+  {
+    "name": "Super Hot",
+    "rarity": 1.3
+  },
+  {
+    "name": "Vibrant Venom",
+    "rarity": 1.3
+  },
+  {
+    "name": "White Grape",
+    "rarity": 1.3
+  },
+  {
+    "name": "Albino",
+    "rarity": 1.5
+  },
+  {
+    "name": "Black Mamba",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blizzard",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blood Adder",
+    "rarity": 1.5
+  },
+  {
+    "name": "Blue Boa",
+    "rarity": 1.5
+  },
+  {
+    "name": "Copperhead",
+    "rarity": 1.5
+  },
+  {
+    "name": "Dark Rattle",
+    "rarity": 1.5
+  },
+  {
+    "name": "Fallen Star",
+    "rarity": 1.5
+  },
+  {
+    "name": "Green Flakes",
+    "rarity": 1.5
+  },
+  {
+    "name": "Green Viper",
+    "rarity": 1.5
+  },
+  {
+    "name": "Lancehead",
+    "rarity": 1.5
+  },
+  {
+    "name": "Limescale",
+    "rarity": 1.5
+  },
+  {
+    "name": "Purple Mamba",
+    "rarity": 1.5
+  },
+  {
+    "name": "Red Reptile",
+    "rarity": 1.5
+  },
+  {
+    "name": "Saffron",
+    "rarity": 1.5
+  },
+  {
+    "name": "Water Snake",
+    "rarity": 1.5
+  },
+  {
+    "name": "Yellow Cobra",
+    "rarity": 1.5
+  }
+]
